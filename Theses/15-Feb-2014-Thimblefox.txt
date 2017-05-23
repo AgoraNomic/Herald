@@ -1,0 +1,89 @@
+(Failed to have a degree awarded)
+
+„On contradictions arising from assuming that winning by escape velocity ends 
+the game“
+by Thimblefox (15th February, 2014)
+
+-Introduction-
+
+In this paper I intend to prove that the game ending does not follow from 
+winning the game by escape velocity, and furthermore that it leads to 
+contradiction. I also intend to show what contradictions arise from assuming 
+that winning ends, or is in itself the act of ending the game. Finally I intend 
+to show how winning the game without the game ending is the only logically 
+consistent way of winning the game.
+
+-Methodology-
+
+For the purposes of this paper „winning“ refers to winning the game by reaching 
+escape velocity. We will also define „is won“ as meaning that there exists at 
+least one player having escape velocity. Furthermore „has been won“ means that 
+a player has had escape velocity. „To end“ means here, being terminated.
+
+-First thesis- 
+The contradiction consisting in having escape velocity and a score of 0
+
+If there is a player of Agora who has escape velocity, then there doesn’t exist 
+a player that has escape velocity. Here I’m making the assumption that the rule 
+is to be read logically, in which case you have „one or more specified players 
+have achieved escape velocity“ and „all players’ scores are set to 0“ happening 
+at the same time.‹1› This is obviously a contradiction, and not a logically 
+consistent way of winning the game.
+
+-Second thesis-
+The contradiction in achieving escape velocity followed by/being the game 
+ending, without the score being reset
+
+Next up for consideration is for the game: (a) to be won, followed by (b) being 
+ended and finally (c) the scores being reset. If the game is won and then ended 
+(or winning is ending the game), the scores cannot be reset. The scores being 
+reset follows necessarily from winning the game, but can’t follow if the game 
+has ended. Therefore it isn’t possible for the game to be won, end and then 
+finally the score being reset. Nor is it possible for the game to be won and 
+end at the same time, being followed by the score being reset.
+
+A counter-argument would be saying that if you want to play a new game (here: 
+after the game has ended), you would have to reset the score. But this 
+obviously doesn’t work out for the simple reason that there would be no game 
+for which you could reset the score if the game had ended. 
+
+For the same reason CFJ 3400 couldn’t have been judged TRUE, because it would 
+then make a truth statement within the confines of the game itself about the 
+game having been ended at a previous time, which would be a contradiction, 
+because the game obviously hasn’t ended. This is therefore not a logically 
+consistent way of winning the game.
+
+-Third thesis-
+The contradiction in achieving escape velocity followed by the score being 
+reset and the game ending thereafter
+
+Next up for consideration is for the game: (a) to be won, followed by (b) the 
+score being reset, followed by (c) the game ending. If the game is won, the 
+score will be reset. If the score has been reset, the game isn’t won anymore, 
+therefore there would be no reason to end the game. From this it seems 
+plausible to conclude that the game being ended must follow from the game being 
+won. This is the only logically consistent way of winning the game, it does not 
+however, and cannot, follow that the game is ended because of winning the game 
+in this manner, as has been shown.
+
+-Conclusions-
+
+It follows from the above that resetting the score must follow from winning the 
+game, and that this is the only logically consistent way of winning the game. 
+It has also been shown that ending the game cannot be, nor can it follow from 
+winning the game. Because in the first case resetting the score cannot follow 
+from winning the game, which would be a contradiction. In the second case 
+ending the game would be pointless, because it wouldn’t be won anymore due to 
+the score reset. It also follows that the game cannot judge the game to have 
+ended within the confines of the game itself. It would seem then that ending 
+the game transcends the possibilities of what can be done within the framework 
+of the game itself.
+
+-Citation-
+
+‹1› Excerpts from R2419.
+
+-Further reading-
+
+‹1› Agora-business, February 2014
+‹2› Agora-discussion, February 2014
