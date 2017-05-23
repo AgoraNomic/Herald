@@ -1,0 +1,1883 @@
+(Failed to have a degree awarded)
+
+A History of Agoran Wins, 2009-present
+by ais523
+
+Since registering in Agora in early 2008, I have observed many wins
+take place; although the existing records (the Herald's Report and
+Murphy's website at http://zenith.homelinux.net/winners/, which was
+very useful in preparing this thesis) are useful at giving the names
+of the winners and the reasons for the wins, most wins have more
+background to them than is obvious by a cursory reading of the
+reports. In this thesis, I attempt to document the backstory behind
+and history of Agoran wins over the last one and a half years or so,
+in order to give both veterans and new players a better idea of how
+Agora has been won in the past. Hopefully, this will be expanded in
+the future to go further back in Agoran history, although the further
+back in time you go, the more I could do with help from other people
+who were there at the time. Ideally, we would get the history of every
+win ever, but I appreciate that many wins are lost in Agora's distant
+past and lost mailing list archives.
+
+So here are the wins since 2009, in reverse chronological order:
+
+===
+coppro by Legislation: Proposal 6745 passing.
+Relevant proposals: 6740; CFJs: 2809, 2809a; rules: 2188/1
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6745 (Purple, AI=1.0, Interest=0) by coppro
+Huh?
+
+[coppro wins.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+This proposal was a relatively simple victory proposal, distributed in
+the same batch as proposal 6740 (which gave victory to anyone who
+didn't acknowledge its existence while it was being voted on). The
+proposal passed with 5+5 votes FOR, and 5+2+1 votes AGAINST (the
+ordinary voting system at the time worked stone-paper-scissors style
+with people in the same Chamber as a proposal submittor getting the
+voting limit of 5); 5 of the votes FOR were from coppro (presumably
+for obvious reasons), and the other 5 were from Tiger, who cast a
+blanket-FOR vote in an attempt to cast a vote on proposal 6740 without
+mentioning it. With relatively low numbers of players voting at the
+time, the 10 votes were enough to swing the votes.
+
+There was some controversy about the victory, in that there was a
+dispute about whether the proposal counted as a victory proposal due
+to the square brackets. (The proposal was apparently submitted as a
+test of this.) The initial brief judgement, stating that it was, was
+appealed asking for more detail and to consider a specific
+hypothetical example (of the bracketed phrase occuring after a
+proposal body which would have given a win via a non-Legislation
+method); the rejudgement focused on the fact that nobody had attempted
+publicly pointed out the interpretation of the proposal as containing
+nothing but one nonbinding comment until after it was adopted.
+
+===
+G., Warrigal, comex, ais523, woggle, Spitemaster, allispaul, Yally,
+BobTHJ, Murphy, Tiger, Andon by Legislation: Proposals 6683-6685
+passing.
+Relevant proposals: 6683, 6684, 6685; CFJs: 2782, 2783; rules: 2130/11,
+2290/0, 2279/1, 2284/3
+-----------------------------------------------------------------------
+ID: 6683
+Title: Up Red
+Author: G.
+AI: 1.0
+II: 1
+Chamber: Red
+
+All active players whose Title is unambiguously Red at the time the
+voting period for the decision to adopt this proposal ends are hereby
+awarded a Win.
+------------------------------------------------------------------------
+ID: 6684
+Title: Up Purple
+Author: G.
+AI: 1.0
+II: 1
+Chamber: Purple
+
+All active players whose Title is unambiguously Purple at the time the
+voting period for the decision to adopt this proposal ends are hereby
+awarded a Win.
+------------------------------------------------------------------------
+ID: 6685
+Title: Up Green
+Author: G.
+AI: 1.0
+II: 1
+Chamber: Green
+
+All active players whose Title is unambiguously Green at the time the
+voting period for the decision to adopt this proposal ends are hereby
+awarded a Win.
+------------------------------------------------------------------------
+
+An attempt by G. to produce some interesting gameplay based on
+Chambers failed rather spectacularly when the three proposals -
+intended to create interesting gameplay based on rule 2284 - managed
+to all pass without significant attempts to cause some to pass and not
+others. The combined effect was to give a win to /every/ player
+simultaneously, apart from those who were inactive or only recently
+active (due to rule 2130). Interestingly, the proposals had rather
+different votecounts (as a rather obvious side effect of the
+Chamber/Title-based voting system), with 6683 passing 5/4 (due to some
+erg expenditure by coppro and nobody having a high voting limit on
+it), 6684 passing 12/8 (with comex and coppro, the only Purple
+players, both voting FOR and so overwhelming the other players), and
+6685 passing 12/10 due to FOR votes by everyone but ais523 and woggle.
+
+The only controversy surrounding the proposals was about what the
+effect of such a large number of simultaneous wins was; it was judged
+that the wins for each proposal were all actually simultaneous rather
+than occuring in some order (thus Red players won before Purple
+players, who won before Green players; CFJ 2782); and that as a
+result, there was no Speaker (CFJ 2783).
+
+===
+comex by Clout
+Relevant proposals: (none); CFJs: 2767, 2616; rules: 2134/6, 2255/4,
+2279/0
+comex wrote (24.02.2010 01:04:46):
+{{{
+Hear ye, hear ye!  ais523 is now the speaker.
+
+On Tue, Feb 23, 2010 at 8:02 PM, Sean Hunt <rideau3@gmail.com> wrote:
+> I come off hold.
+
+Hear ye, hear ye!  coppro is now the Speaker.
+
+> I Form a Government:
+> c.       - Chief Whip
+> Yally    - Cabinet Secretary
+> coppro   - Admiral of the Navy
+> ais523   - Justicar
+> Murphy   - Majority Leader
+> Tiger    - Minister without Portfolio
+>
+> I go on hold.
+
+Hear ye, hear ye!  I am now the Speaker.
+
+I change my Title to Purple.
+
+This is a win announcement: my voting limit on an ordinary decision to
+adopt a proposal with a Chamber of Purple initiated at this time would
+exceed the combined voting limit of all other players on that
+decision.
+}}}
+
+After a series of failed attempt earlier in the same day, a combined
+effort by comex and coppro to alter the Government such that comex had
+a higher voting limit on a Purple decision than everyone else put
+together finally managed to do things in the right order, thus netting
+comex (then called c.) a win by Clout. The maths worked out as
+follows: comex, being Purple, had a base voting limit of 5 on Purple
+decisions (as e was the same color as eir hypothetical decision, for
+obvious reasons), times 1.5 (due to just having been given Chief
+Whip), compared to three active Green players with a voting limit of
+2, and one active Red player with a voting limit of 1. (coppro was
+inactive at the time, to aid in the scam.)
+
+The win was generally considered to have worked; CFJ 2767 was called
+to challenge a particular typo (relevant because Yally tried to block
+the win by changing Title), but it was judged trivilaly true based on
+the precedent of CFJ 2616.
+===
+coppro by Renaissance
+Relevant proposals: 6153, 6222; CFJs: 2403, 2545; rules: 2199/9
+
+Renaissance is a long-standing win condition where players can win by
+performing a wide range of tasks at least once each; coppro achieved
+it by gaining eir final ribbon (the Indigo one, traditionally the
+hardest to get) by gaining the degree of Bachelor of Nomic. Here's how
+e gained the others:
+(+R) Proposal 6222 changed a Power-3 rule.
+(+O) Proposal 6153 was unanimous.
+(+G) coppro held Grand Poobah for a month in April 2009.
+(+C) coppro deputised for IADoP on 6 April 2009.
+(+B) coppro judged CFJ 2403.
+(+K) coppro imposed a sentence in CFJ 2545.
+(+W) coppro had never deregistered (there were two ways to get the
+     White Ribbon; this is arguably the easier one).
+(+M) coppro had acknowledged Agora's Birthday in 2009.
+(+U) coppro had previously won (originally by High Score via a scam).
+(+V) coppro gained the Patent Title Minister without Portfolio.
+(+Y) coppro had been the contestmaster of the active contest 3-Scroll
+     Rodney for a month.
+===
+coppro, comex by Lotto
+Relevant proposals: (none); CFJs: (none); rules: 2260/7
+coppro wrote (07.12.2009 22:16:16):
+{{{
+I play Presto!, indicating Edmond Dantes and Presto!.
+I play Drop Your Weapon, indicating Yally and Change Ball.
+I play Discard Picking, indicating Change Ball.
+I IBA-withdraw a Justice Ball.
+
+I hold one of each Ball card; I platonically satisfy the Winning
+Condition of Lotto; one of each such Ball cards is destroyed.
+}}}
+comex wrote (08.12.2009 02:04:14):
+{{{
+I play Discard Picking, naming Goverment Ball.
+I play Discard Picking, naming Change Ball.
+I play Discard Picking, naming Justice Ball.
+
+I Win by Lotto.
+}}}
+Lotto was a win condition associated with the Cards subgame; get one
+of each of the super-rare Ball cards, and you won the game. coppro
+eventually assembled enough cards to combine a Change Ball stolen from
+Yally (via forcing him to drop it, then picking it up from the discard
+pile), a Justice Ball bought from the IBA (a contract that worked as
+an automated bank), and a Government Ball e had already, to trigger
+the victory condition. comex followed up by grabbing all three Ball
+cards from the discard pile, and used them himself to get a followup
+win.
+===
+Murphy by Renaissance
+Relevant proposals: 5404; CFJs: 2572; rules: 2199/8
+
+Renaissance is a long-standing win condition where players can win by
+performing a wide range of tasks at least once each; Murphy achieved
+it by gaining eir final ribbon (the White ribbon, another hard one to
+get) when comex gifted it to em via naming em as eir mentor (an action
+that can only be performed once ever), apparently for nothing in
+return. (Just to be sure, Murphy made sure to remove any Rests e might
+have before trying to gain the win, as one of their effects was to
+block victories.) Here's how e got the others:
+
+(+G) Murphy held Conductor for a month in May 2008.
+(+K) Murphy imposed a sentence in CFJ 2572.
+(+M) Murphy had acknowledged Agora's Birthday in 2009.
+(+U) Murphy had previously won (the ribbon was for High Score).
+(+Y) Murphy had been the contestmaster of the active contest 
+     for a month.
+(R, O, C, B, V, I) Murphy gained 6 Ribbons via proposal 5404, which
+gave players Ribbons as a conversion from the old VC system.
+====
+BobTHJ by High Score
+Relevant proposals: (none); CFJs: 2732; rules: 2187/6
+BobTHJ wrote (09.11.2009 16:08:51):
+{{{
+I have decided to cease maintaining nomic.bob-space.com and step back
+from Agora for a bit. I will attempt to do so without leaving things
+in a state of dissarray. My site is updated through Tue, Nov 3 23:34,
+just prior to the resolution of proposals 6549-6564, and I will post
+unofficial copies of my reports to that date to the lists to give the
+officers replacing me a starting point, and I will also leave the
+history I have tracked up and available at nomic.bob-space.com for a
+period of time.
+
+Therefore I take the following actions:
+
+For each proposal number between 6549 and 6564 inclusive, I harvest
+that proposal number. Then for each such harvesting, I award myself 4
+y-points (a total of 64 y-points).
+
+This is a win announcement: The player BobTHJ has a score x+yi such
+that x * y >= 5000. (I'm fairly certain my score at this point is
+102+110i), and thus satisfies the win condition of High Score.
+
+I leave the AAA.
+
+I resign all offices I hold.
+
+My intention is (by not having to devote time every day to keeping it
+up to date) to work on the automation I created and improve it by
+making it a collaborative tool that all Agorans can contribute
+recordkeeping data to. Then perhaps it can be used again to track
+Agoran gamestate without bogging me down in the process.
+
+BobTHJ
+}}}
+
+The AAA was a long-running Agoran contest that formed the basis of the
+economy through much of 2009, providing some of the game's most stable
+transferrable assets. BobTHJ did the complex duty of maintaining it
+for several months, but recently e had been rather behind on eir
+duties; upon making the decision to resign, e did a huge amount of
+harvesting, leading to a huge infusion of points, easily enough to win
+under the rules at the time (there were two separate sorts of points,
+x and y, and having x*y >= 5000 gave the win).
+
+The play was rather controversial, not in whether it had succeeded,
+but in whether it was against the spirit of the contest, especially as
+BobTHJ had made the points assignments to emself when other players
+had tried to harvest proposal numbers for points earlier. This lead to
+the calling of an equity case (CFJ 2732, as it happens the last equity
+case ever), asking for BobTHJ to be punished somehow in order to bring
+the contest back into balance, over BobTHJ's protests that awarding
+the points in that order was actually to the benefit of its other
+members; the case was not judged for over two months (mostly because
+with a contest as large as the AAA, few players were eligible judges,
+and even those who were didn't judge the case on time). In the end,
+the rules defining equity cases were repealed before the case was
+actually judged, and so nothing was ever done as a result.
+===
+coppro, ais523, comex, ais523, coppro: Solitude
+Relevant proposals: (none); CFJs: (none); rules: 2245/0, 2229/3
+ais523 wrote (27.09.2009 22:54:29):
+{{{{
+Actions on behalf of comex in this message are via the Scumbuddies
+contract.
+Actions on behalf of coppro in this message are via the contract that e
+published during eir recent win by Clout attempt.
+Actions on behalf of Walker in this message are via a contract
+publicised as part of the message.
+
+I act on behalf of comex to cause em to, without objection, make Quazie,
+Sgeo, and Yally inactive. (This may fail if the players in question are
+already inactive; IIRC Yally is.)
+
+I hereby publish the membership {ais523, Walker} and text of the
+following contract, and flip it to Public with Walker's consent (e is
+named c-walker in the contract):
+{{{
+This is an equitable and initially private contract. Only C-walker and
+ais523 can join this contract.
+
+ais523 CAN (but is not required to) cause this contract to become a
+public contract, and C-walker consents to such a change.
+
+If this contract is public, then ais523 CAN once act on behalf of
+C-walker to cause em to become inactive, and CAN once act on behalf of
+C-walker to cause em to become active. It is envisaged that ais523 will
+use both of these abilities in relatively quick succession, so that
+C-walker stays at eir original activity status.
+
+If this contract is public, then ais523 CAN, for one distribution of
+proposals of ais523's choice, act on behalf of C-walker to cause em to
+retract votes on Agoran Decisions about whether to adopt proposals in
+that distribution, and act on behalf of C-walker to cause em to vote on
+such decisions. C-walker SHALL NOT retract any votes made this way.
+
+ais523 CAN terminate this contract by announcement.
+}}}
+
+I act on behalf of Walker to cause em to become inactive.
+
+I act on behalf of comex to cause em to leave the PBA.
+I leave the PBA.
+I play Stool Pigeon, targeting the PBA.
+
+As the PBA is second-class, attempting to create a rest in the PBA's
+possession should create one in the possession of each of the following
+persons:
+- 0x44
+- Elysion
+- Murphy
+- root
+- Sgeo
+- Warrigal
+- woggle
+- Wooble
+and possibly other persons, depending on the current status of the PNP.
+
+I play Absolv-o-Matic to destroy a rest in my possession.  (Disclaimer:
+This might fail.)
+
+I act on behalf of comex to cause em to do the following:
+- comex plays Absolv-o-Matic to destroy a rest in eir possession.
+- comex plays Absolv-o-Matic to destroy a rest in eir possession.
+(Disclaimer: This might fail.)
+- comex becomes inactive.
+
+I play Stool Pigeon, targeting Pavitra.
+I transfer Dunce Cap to Tiger.
+I become inactive.
+
+At this point, coppro wins by Solitude. (This does not require a win
+announcement; I'm just pointing it out.)
+
+On behalf of coppro: coppro becomes inactive.
+I become active.
+
+I win by Solitude.
+
+I become inactive.
+On behalf of comex: comex becomes active.
+comex wins by Solitude.
+On behalf of comex: comex creates a Rest in eir own possession.
+
+I become active.
+I win by Solitude (again).
+
+I create a Rest in my own possession.
+On behalf of coppro: coppro becomes active.
+coppro wins by Solitude (again).
+
+I play Absolv-O-Matic targeting comex.
+I play Absolv-O-Matic targeting myself.
+On behalf of coppro: coppro becomes active.
+On behalf of Walker: Walker becomes active.
+
+-- 
+ais523
+}}}}
+
+Back towards the end of 2009, much of the gameplay revolved around
+contracts, binding agreements that even allowed one player to perform
+actions on behalf of another; in particular, this allowed many players
+to take actions in the same message, setting up a sudden change in
+gamestate. Solitude was a victory condition which allowed a player to
+win if every other active player in the game was simultaneously barred
+from winning; this scam used several different methods to achieve
+this, including inactivity (either due to players actually be
+inactive, or by agreeing to allow themselves to be made inactive as
+payment for some past favour), by spreading Rests (punishments
+normally given for breaking rules, but which could also be used
+tactically), and via the Dunce Cap (a card that blocked wins), with
+the heart being the observation that many of the players of Agora were
+responsible for maintaining the PBA (a partnership operating as a
+bank, where players had to agree to be responsible for its actions in
+order to make trades or own currency as a method of hopefully reducing
+scams), and thus using a Stool Pigeon card to punish the PBA
+effectively spread the punishment to most of the players of Agora.
+
+The result was that only the three scamsters (ais523, comex (then
+called c.), and coppro) were active and capable of winning, and they
+took turns becoming inactive and active again, with the actions
+coordinated via contract, in order to share the wins. ais523 and
+coppro chose to also demonstrate a bug in the victory condition's
+cleanup procedure (creating a Rest and immediately absolving it in
+order to reset the rule's ability to trigger) in order to gain a
+second win via the same method; comex declined.
+
+===
+coppro by Clout
+Relevant proposals: (none); CFJs: (none); rules: 2134/5, 2156/12, 2260/4
+coppro wrote (15.09.2009 15:19:40):
+{{{
+Sean Hunt wrote:
+> For each of the following players, I intend, without objection, to
+make
+> em inactive (I know it's broken now but I hope the Assessor will pass
+> the proposal to repair it quickly).
+> 
+> woggle
+> Schrodinger's Cat
+> JonnyRotten
+> The Count
+> yuri_dragon_17
+> 
+> -coppro
+
+Having received no objections, I make all the quoted players inactive.
+
+Here is a quick guide to the caste of all active players:
+
+Alpha:
+  ehird
+  coppro
+
+Beta:
+
+Gamma:
+  C-walker
+
+Delta:
+  ais523
+  c.
+  Tiger
+
+Epsilon:
+  BobTHJ
+  Murphy
+  Pavitra
+  Quazie
+  Sgeo
+Xwooble (+1)
+  Yally
+
+Savage:
+  É™
+  The Normish Partnership II
+  IBA
+
+I publish the text (below) and list of parties (coppro, ais523) of this 
+private contract to flip its Publicity to Public:
+[12:29:12]  <coppro>  I agree to the following, binding under the rules 
+of Agora: {coppro SHALL as soon as possible transfer a Penalty Box and
+a 
+WRV to ais523. coppro CAN once, at any time in the month following the 
+creation of this contract, act on behalf of ais523 to put em on hold. 
+The first time in the next 3 months that ais523 sets up a scam for a
+win 
+by Solitude with Stool Pigeons, e shall ensure coppro...
+   ...wins due to the scam, and may act on behalf of coppro to go on or 
+off hold to perform the scam. Either party CAN and MAY make this 
+contract public by publishing its text and parties.}
+[12:30:05]  <ais523> coppro: "to cause em to go on and/or off hold", 
+probably
+[12:30:12]  <ais523> I may need to toggle your activity multiple times 
+to give us both wins
+[12:30:18]  <ais523> and you missed a "to cause"
+[12:30:21]  <ais523> apart from that, I agree
+[12:30:39]  <coppro> ok, I agree as well
+[12:30:50]  <coppro> (to your amendments, that is)
+
+I a Penalty Box and a WRV to ais523.
+
+I publish the text (below) and list of parties (coppro, ehird) of this 
+private contract to flip its Publicity to Public (permission was 
+obtained elsewhere):
+[17:06:17]  <coppro> I agree, binding under the rules of Agora, that 
+ehird will allow me to act on eir behalf once to go on and off hold 
+(independently of one another)
+[17:06:27]  <ehird> I agree to that too.
+[17:06:33]  <ehird> (binding under the rules of Agora)
+
+I publish the text (below) and list of parties (coppro, c-walker) of 
+this private contract to flip its Publicity to Public:
+{ coppro can act on behalf of C-walker to play Local Election decrease 
+an Epsilon's caste and to go on hold long enough to allow coppro to win 
+by Clout, at which point e will increase c-walker's caste twice. All 
+parties consent to publicizing this contract by publishing its text and 
+parties. }
+
+I publish the text (below) and list of parties (coppro, comex) of this 
+private contract to flip its Publicity to Public:
+<comex> I agree to the following contract: { coppro CAN act on my
+behalf 
+to inactivate me by announcement. }
+<coppro> I agree to comex's contract.
+
+I transfer a Local Election to c-walker (note: because his holdings are 
+ambiguous; e owes me one back). I act on behalf of c-walker to play 
+Local Election naming Wooble.
+I act on behalf of c-walker to put em on hold.
+I act on behalf of comex to put em on hold.
+I act on behalf of ehird to put em on hold.
+I act on behalf of ais523 to put em on hold.
+
+Caste of active players:
+Alpha:
+  coppro
+
+Beta:
+
+Gamma:
+
+Delta:
+  Tiger
+
+Epsilon:
+  BobTHJ
+  Murphy
+  Pavitra
+  Quazie
+  Sgeo
+  Yally
+
+Savage:
+  É™
+  The Normish Partnership II
+  IBA
+  wooble (+0)
+
+Besides myself, there is 1 Delta and 6 Epsilons, for a total of 8
+votes, 
+except that BobTHJ has 6 Rests and thus has 0 votes. This following is
+a 
+win announcement: On an ordinary Agoran Decision initiated at this
+time, 
+my voting limit would exceed the combined voting limits of all other 
+player, causing me to satisfy the Winning Condition of Clout and win
+Agora.
+
+(note: c-walker's caste increases will come after a caste reset is 
+verified to have occurred, since otherwise I'm in violation of the 
+contract.)
+
+-coppro
+}}}
+
+Clout, a victory condition that has existed since 2007, allows a
+player to win if they have a higher voting limit than everyone else
+put together; it's interesting in that the way it works changes
+radically every time someone changes the voting system. At the time,
+the voting system was based on Caste, where players had a voting limit
+of 0, 1, 2, 3, 5, or 8, cycling upwards (then back to 1) over time;
+additionally, Cards were available to manipulate other player's Castes
+(in particular Local Election, which reduced a Caste by one level).
+Therefore, coppro, by idling four players via four different submarine
+contracts (mostly agreed over IRC) and reducing the Caste of another,
+was able to use eir status as an Alpha to outvote everyone else,
+giving em a win.
+
+The win was uncontroversial (the "I a Penalty Box and a WRV to
+ais523." typo was picked up on but didn't affect the scam itself, and
+was quickly corrected); it's interesting to note that ais523 later
+used eir submarine contract with coppro to coordinate a win by
+Solitude (summarised earlier in this thesis), and thus coppro gained
+two wins from the one contract.
+===
+coppro by Paradox: CFJ 2650.
+Relevant proposals: (none); CFJs: 2650; rules: 2110/5, 2166/11,
+2240/0, 2240/1
+(CFJ 2650: "I CAN destroy The Pier by announcement".)
+
+Paradox has the longest tradition of any Agoran win condition;
+although rule 2110 only dates back to 2005, rule 219 - in the initial
+ruleset - said something very similar (the condition itself has been
+repealed and re-enacted over the ages). The idea is simple: if you can
+make a statement relevant to the game that cannot accurately be
+described as true or false, but is not vague or nonsensical, and there
+is sufficient information to determine its truth value, then you win
+if nobody appeals the resulting CFJ for two weeks.
+
+CFJ 2650 was judged to be only the second genuine win via an actual
+paradox in Agora's history (there are four others, but all exploited
+loopholes in the paradox rule itself). The situation was this: coppro
+had constructed a contract that created The Pier, an asset which could
+not be transferred, due to rule 2166 (it was defined as fixed), and
+which was automatically transferred to the Lost and Found department,
+also due to rule 2166 (as coppro defined active players as the only
+ones who could own The Pier, and immediately went inactive). By
+finding a contradiction within a single rule, e managed to get around
+the ruleset's normal methods of resolving contradictory rules. (At the
+time the CFJ was called, rule 2240, which prevents such issues in the
+present Agoran ruleset, was in its rule 2240/0 form, which only
+blocked contradictory precedence claims within a rule; the paradox was
+fixed by amending it to the present rule 2240/1 form, which resolves
+any contradictions within a rule.)
+
+===
+ais523, Wooble, comex, Tiger by Musicianship
+Relevant proposals: (none); CFJs: (none); rules: 2126/61
+
+In Agora's Birthday in 2009, the rules-based basis of the economy was
+Notes, a form of currency that belong to one of twelve different
+pitches. (The Agoran Agricultural Association was probably the
+/actual/ driver behind the economy.) Unlike all future forms of
+rules-defined currency, there was no limit to how many Notes a player
+could collect, and nothing that caused them to decay over time; thus,
+it was possible, and indeed customary, to hoard huge stockpiles of
+Notes if a player had no other use for them. By the end of June,
+players had pretty much got bored of the Notes system, so it was
+informally agreed to wait until Agora's Birthday so that those players
+who had stockpiled Notes could gain a win, and then replace it.
+
+As a result, by the time June 30 00:04:30 +1200 rolled around (the
+reason for the unusual timezone turning out to be that Michael Norrish
+happened to be in New Zealand when Agora started), there were huge
+stockpiles of unused Notes, and no real reason not to spend them. Four
+players, therefore, were able to use their Note stockpiles in order to
+form the tune of "Happy Birthday", and thus win:
+
+ais523 started off the festivities by playing Happy Birthday in the
+key of C flat major, purely using Notes e had stockpiled:
+{{{
+On Wed, 2009-06-17 at 16:40 +0200, Jonatan Kilhamn wrote:
+>                           C#    D#       F#    G#    A#
+> Player                 C     D     E  F     G     A     B     Total
+>                           Db    Eb       Gb    Ab    Bb
+> --------------------------------------------------------------------
+> ais523                 3  3  5  5  8  4 19  2  7 13  6 23      98
+Required for a Happy Birthday:
+>                        .  2  .  2  2  .  9  .  3  .  2  5
+(I have not, as far as I can tell, spent Notes since that report.)
+
+I spend Notes as follows:
+Gb Gb Ab Gb Cb Bb
+Gb Gb Ab Gb Db Cb
+Gb Gb Gb Eb Cb Bb Ab
+Fb Fb Eb Cb Db Cb
+to satisfy the Winning Condition of Musicianship, and I win by
+Musicianship.
+
+Happy birthday Agora, by the way!
+}}}
+Wooble followed up by absolving emself of Rests, and then playing
+Happy Birthday in F major:
+{{{
+Happy Birthday, Agora!
+
+I spend D#D# GG to destroy my 2 rests.
+
+If I have any more rests (which I don't believe I do), I spend, in
+order:
+DD EE FF AA to destroy them.
+
+I spend:
+CCDCFE
+CCDCGF
+CCCAFED
+A#A#AFGF
+
+to satisfy the Winning Condition of Musicianship, and I win by
+Musicianship.
+}}}
+comex (then called "c.") joined in in E major:
+{{{
+I make the following transpositions:
+
+G# A# F -> C#
+A# D B -> C#
+G# B F# -> C#
+B B G -> D#
+C B G# -> D#
+G# G B -> E
+
+I spend BBC#BED#BBC#BF#EBBBG#ED#C#AAG#EF#E to satisfy the Winning
+Condition of Musicianship.
+
+-- 
+-c.
+}}}
+and Tiger finished off with the traditional C major:
+{{{
+I think I just rolled off the MwoPs list, so here goes:
+
+If I can, I spend the notes:
+GGAGCB
+GGAGDC
+GGGECBA
+FFECDC
+to sing the song "Happy Birthday", satisfying the Winning Condition of
+Musicianship. I win by Musicianship. The previous sentence is a win
+announcement.
+
+-- 
+-Tiger
+}}}
+
+Also of note were that BobTHJ, coppro, and Murphy all attempted to sing
+Happy Birthday themselves (there were a /lot/ of spare Notes going
+around). Eventually, the "semi-Conductor" Tiger was brought in in
+order to settle who'd actually got the complicated note trades and
+transpositions correct; BobTHJ failed due to attempting to sing an Ab
+note despite not owning one; Murphy failed due to being short of Eb
+notes; and coppro sang out of key, spending the wrong notes for the
+third line of the tune. As a result, the birthday lead to only the
+four Musicianship victories.
+
+===
+ais523 by Renaissance
+Relevant proposals: 5555, 5701; CFJs: 1932, 2028; rules: 2199/6
+
+Musicianship was not the only win tied to the Birthday festivities.
+Then, as now, there was a Ribbon that could only be gained on Agora's
+birthday; after having messed up the timezone calculations in 2008,
+ais523 had had to wait until 2009 before gaining the Magenta ribbon
+for a birthday celebration, thus meaning that Agora's Birthday in 2009
+had five wins at different times in the same day. Here's how e gained
+the others:
+
+(+R) Proposal 5555 changed a Power-3 rule.
+(+O) Proposal 5701 was unanimous.
+(+G) ais523 held Notary for a month in August 2008.
+(+C) ais523 deputised for Speaker on 6 September 2008.
+(+B) ais523 judged CFJ 1932.
+(+K) ais523 imposed a sentence in CFJ 2028.
+(+W) ais523 had never deregistered.
+(+U) ais523 had previously won (originally via Paradox).
+(+I) ais523 gained the degree Master of Nomic.
+(+V) ais523 gained the Patent Title Champion (a nice past bug in the
+     Ribbon rules, meaning that V was redundant due to U).
+(+Y) ais523 had been the contestmaster of the active contest Enigma
+     for a month.
+
+===
+coppro, comex: High Score
+Relevant proposals: (none); CFJs: 2592 rules: 2187/5, 2198/5, 2136/30
+
+"If a contract states that one or more of its switches have certain
+values, then they do." Several players noticed that this particular
+part of rule 2198 had rather dangerous implications; although
+originally intended only for the purpose of allowing contracts to
+specify whether they were intended to be private or public, equitable
+or legalistic, there were other switches associated with contracts,
+and thus a contract could be created with those switches at any
+setting. The most exploitable use of this was to set a contract's
+contestmaster, thus making it into a contest and capable of awarding
+points; rule 2136's protections against changing a contestmaster were
+useless in the face of a contract that was created as a contest, as
+the contestmaster was never actually changed.
+
+coppro and comex abused this by creating a huge number of rigged
+contests in a short length of time; it was a simple matter for the
+contests to award them enough points to win, due to the large number
+of them. Interestingly, the contestmaster was "costanza", a person who
+was not actually a player and who has not been observed at Agora
+before or since; it seems that coppro and comex recruited a friend
+from outside Agora to act as the contestmaster for them.
+
+The main controversy that resulted from the scam was as to what would
+happen to everyone else's score as a result of the resulting score
+reset. The rules at the time caused everyone but the winners to lose
+80% of their points a week after a win by high score, unless it was
+declared as a "skunk" and not a legitimate win (skunks left the win
+intact, but removed its effect on the scoreboard, thus meaning that
+scams based on points didn't affect legitimate scoring). There were
+two score resets from legitimate wins pending at the time, and a CFJ
+was called to determine whether skunking the obvious scam-win would
+also incidentally skunk those two legitimate wins, leaving the
+scoreboard in a rather lopsided state. CFJ 2592 eventually found,
+almost a month later, that the scam could be skunked without affecting
+the other wins that took place at around the same time.
+
+===
+Murphy: High Score
+Relevant proposals: (none); CFJs: (none); rules: 2187/5, 2233/1, 2234/2
+
+Earlier in the same day, the heavily ID-number based Agoran
+Agricultural Association had demonstrated why it was the driving force
+behind the economy by providing Murphy with the last 40 x-points that
+e needed for a legitimate win by High Score, after e exploited the
+numbers of the proposals 6358, 6359, 6372, 6373, and 6374 in order to
+get 8 points from each one. (Although there had been a very recent win
+by High Score, score resets were delayed a week, and Murphy managed to
+get in and win during that week.) Here's how e got the other 54
+x-points and 28 y-points needed to achieve an x*y product of 2500:
+
+26x, 26y for contestmastering (Fantasy Rules Contest, The Cookie Jar)
+ 4x,  0y from Enigma
+20x,  0y from earlier AAA actions
+ 4x,  2y left over from a past points reset
+
+===
+Tiger: High Score
+Relevant proposals: (none); CFJs: (none); rules: 2187/5, 2233/1
+
+Tiger wrote (15.06.2009 00:06:24):
+{{{
+Scoreboard on 8 Jun wrote:
+>Tiger           35+21i
+
+Cookie Jar awards on 11 Jun wrote:
+> * 13 y-points to Tiger
+
+Enigma awards on 13 Jun wrote:
+>I award 4 y-points to Tiger (...) I therefore award
+>another 22 y-points to Tiger.
+
+Enigma awards correction wrote:
+>To correct Enigma awards, I revoke 4 x-points from
+>Rodlen and award 2 y-points to Tiger.
+
+AAA awards on 14 Jun wrote:
+>I award 12 points to Tiger.
+
+Sum: 47+62i
+47 * 62 = 2914
+
+The rest of this message is a win announcement, and this sentence
+serves only to identify it as such.
+Tiger has a score x+yi such that x*y>=2500. No other player has such a
+score.
+}}}
+
+As opposed to Murphy's win a few days later, Tiger's slightly earlier
+win gained most of its y-points from Enigma rather than from
+contestmaster awards, as e was not a contestmaster at the time. (The
+AAA may have been a good source of x-points, but it was not so good at
+providing y-points.) Tiger provided a useful breakdown of the source
+of eir recent points as part of the win announcement, but here's where
+the other 35 x- and 21 y-points came from:
+
+26x, 12y from The Cookie Jar
+ 9x,  9y left over from a past points reset
+
+===
+Wooble: Championship (Nomic Wars III)
+Relevant proposals: (none); CFJs: (none); rules: 2242/1, 2124/10
+
+Wooble wrote (12.05.2009 13:34:31):
+{{{
+Actions on behalf in this message are authorized by private contracts.
+
+I withdraw my objection to the creation of a Medal in the possession
+of Nomic Wars III.
+
+I act on behalf of ais523 to withdraw eir objection to the creation of
+a Medal in the possession of Nomic Wars III.
+
+Having received only 1 objection, from Arnold Bros, BobTHJ (on whose
+behalf I act) creates a Medal in the possession of Nomic Wars III.
+
+I perform the Battle Action (destroying 2 Maneuvers in my possession)
+of creating a new War-rule with the following text: {{The
+contestmaster SHALL cause Nomic Wars III to transfer a Medal to Wooble
+unless e has already done so.}}
+
+I perform the Battle Action (destroying 1 Maneuver in my possession)
+of incrementing the War-rule I just created.
+
+I act on behalf of ais523 to perform the Battle Action (destroying 1
+Maneuver in eir possession) of incrementing the War-rule I just
+created.
+
+I act on behalf of BobTHJ to cause Nomic Wars III to transfer a Medal to
+me.
+
+I transfer 4 WRVs and 2,3,4 and 5 Digit Ranches to ais523.
+
+I transfer 5 X crops, 8 2 crops, and 17 5 crops to BobTHJ.
+
+--Wooble
+}}}
+(N.B. this message did not actually cause the scam win due to timing
+issues; a later message repeating the second half of the scam
+corrected it, but this message demonstrates how the scam worked.)
+
+Win by Championship used to be one of the simplest win methods
+intended for "legitimate" wins; contests could be given Medals
+(without two objections), and if the Medal was transferred to somebody
+else (presumably via the rules of the contest), then that player won.
+In this way, if a contest was deemed a fair and interesting one,
+players could collectively allow it to award a win.
+
+There were only three Medals given out ever; Three-Scroll Rodney's was
+never won by anyone before that contest ended, Enigma's had earlier
+been won legitimately, and the third? Unlike those two legimitate
+contests, Nomic Wars III (an attempt to recreate the earlier ill-fated
+contests Nomic Wars II and Nomic Wars I) looked like a terrible
+candidate for a Medal, with obvious loopholes in its rules (in
+particular, it was possible for two players working together to
+cooperate to win the contest instantly). Thus, the attempt to give it
+the Medal instantly gained three objections, from ais523, Wooble, and
+ehird (under the name Arnold Bros.). Given that the two necessary
+objections had already been reached, Agora quickly lost interest in
+the obviously doomed intent.
+
+ais523 noticed a way this could be exploited; a conspiracy with BobTHJ
+(the contestmaster of Nomic Wars III) and Wooble allowed for Wooble to
+gain a win, when ais523 and Wooble simultaneously withdrew their
+objections to the creation of the medal, leaving only the one
+objection, past which it was possible for BobTHJ to create the medal.
+(ais523 and BobTHJ both profited from the scam due to Wooble bribing
+them with large numbers of AAA assets.) The attempts to carry out the
+scam within Nomic Wars III initially failed (as BobTHJ hadn't
+initialised it and ais523 wasn't a member), but this was quickly
+fixed, allowing for the scam to succeed on the second attempt (which
+was basically just a repeat of the second half of the initial
+message). (It should be noticed that this was not the only way in
+which the contest was broken; Tiger managed to drain all the points
+and Medals from the contest shortly afterwards with a solo scam, and
+would have won from it if Wooble hadn't taken the Medal first.)
+
+The rules have since been patched to prevent a repeat of the scam;
+withdrawing an objection to an action now blocks that action for 24
+hours, giving other players a time to make their own objection if they
+suspect a scam like this is happening.
+
+===
+Wooble: High Score
+Relevant proposals: (none); CFJs: (none); rules: 2187/5
+
+Wins tend to come in spurts for some reason; and Wooble demonstrated
+this by winning twice on the same day, both a scam win via
+Championship and a legitimate win via score. Wooble's last 40 points
+had both come the day before, 20 x-points from The Cookie Jar and 20
+x-points from the Fantasy Rules Contest, giving him a point product of
+89*31 = 2800 and a win - especially impressive because e was the
+contestmaster of the AAA, and thus unable to gain points from it
+directly. (Most of the point gains were via abusing The Cookie Jar's
+massive ability to output points.) Here's where the other 49 x-points
+and 31 y-points came from:
+
+  4x,  0y from the Fantasy Rules Contest
+ 14x, 14y for contestmaster duties for the AAA
+ 15x, 15y from The Cookie Jar
+  8x,  0y from Enigma
+  8x,  2y left over from a points reset
+
+===
+root: Championship (Enigma)
+Relevant proposals: (none); CFJs: (none); rules: 2242/1
+
+root wrote (02.05.2009 17:43:51):
+{{{
+On Sat, May 2, 2009 at 8:14 AM, Alex Smith <ais523@bham.ac.uk> wrote:
+> On Fri, 2009-05-01 at 20:19 -0400, Sgeo wrote:
+>> On Fri, May 1, 2009 at 7:53 PM, Ian Kelly <ian.g.kelly@gmail.com>
+wrote:
+>> > Zing! Vext cwm fly jabs Kurd qoph
+>>
+>> Will we all get to learn what the Clues were?
+>
+> The Secret Answer no longer exists (now the Medal's been given away),
+so
+> the restriction on revealing information about it is lifted. I'll now
+> publically post all the Clues that anyone was given.
+>
+> {{{
+> G1:
+> The secret answer consists of seven words.
+> The secret answer consists of two sentences.
+>
+> S1:
+> The fourth word of the secret answer is the common English
+> name for a type of small flying insect.
+>
+> G2:
+> A recent Google search for the secret answer, without
+> quotes, produced "about 174" results. It produced "about
+> 407" when quotes were used (yes, more than without, for
+> some reason).
+>
+> S2:
+> The fifth word of the secret answer is a common slang word
+> for "injections".
+>
+> G3:
+> If all letters were removed from the secret answer, leaving
+> only non-letter characters, it would be "!      ." (without
+> the quotes). It does not end with a newline.
+>
+> S3:
+> The first word of the secret answer is an interjection that
+> is arguably onomatopoeic, referring to a short high-pitched
+> humming noise.
+>
+> G4:
+> No word of the Secret Answer is longer than four letters
+> long. No word of the Secret Answer is shorter than three
+> letters long.
+>
+> S4:
+> The second word of the secret answer is an archaic word
+> which means "distressed" or "agitated".
+>
+> G5:
+> The Secret Answer is, technically speaking, gramatically
+> correct English. However, it contains at least one proper
+> noun, and at least one archaic word; therefore it is not
+> the sort of utterance likely to be encountered in practice,
+> and might confuse an automated spelling or grammar checker.
+>
+> S5:
+> The seventh word of the Secret Answer is a letter of the
+> Hebrew alphabet.
+>
+> G6:
+> There are exactly three capital letters in the Secret
+> Answer. They are K, V, and Z, although not necessarily in
+> that order.
+>
+> S6:
+> The sixth word of the Secret Answer refers to a member of
+> an ethnolinguistic group who mostly live in Iran, Iraq,
+> Syria, or Turkey.
+> }}}
+>
+> I'd be interested to hear from root as to how e solved it, or indeed
+> from anyone else who made progress solving the puzzle. I'm also
+curious
+> as to how much back-room dealing was going on; the only evidence of it
+I
+> saw was root buying Clues in the PF, but of course there could be a
+lot
+> more I don't know about.
+
+Through trading, I had all the clues except G2 and G5.  I managed to
+figure out the words "Zing", "Vext", "jabs" and "Kurd" from the clues.
+ I googled those words, and the first result contained the answer.  I
+thought the fourth word was probably "bee" but wasn't sure, so I
+didn't use it in the search.
+
+-root
+}}}
+
+The only legitimate Championship win ever was via the Enigma contest
+(interestingly, root did not actually cash in eir Medal until much
+later, when comex did it for em; root was apparently adamant to avoid
+winning just yet, to the extent of creating a Rest in eir own
+possesion in order to avoid it, but comex destroyed the Rest in order
+to force em to win). Enigma was a contest where most weeks, one or
+more "moderately difficult" questions were asked, and contestants had
+to send in the answers privately; on puzzles which were marked as
+Championship Puzzles, a correct answer earned its contestant a Clue
+towards a larger puzzle that ran throughout the entire contest, with
+the contestant gaining the opportunity to ask for a clue about a
+specific part of the answer (although they couldn't choose which
+part), or about the answer as a whole. root managed to obtain several
+clues via correct answers, and most of the others via trading clues
+with other players (in some cases making trade offers in public), thus
+leading to the eventual answer, "Zing! Vext cwm fly jabs Kurd qoph.",
+and earning the Medal.
+
+===
+comex by High Score
+Relevant proposals: 6194; CFJs: 2450, 2451, 2451a; rules: 2187/4,
+2234/2, 2125/4, 2215/0
+
+comex wrote (17.04.2009 13:18:52):
+{{{
+On Thu, Apr 16, 2009 at 10:43 PM, Ed Murphy <emurphy42@socal.rr.com>
+wrote:
+>      As soon as possible after the end of a month, for each contest,
+>      the player (if any) who was its contestmaster for at least 16
+>      days during that month MAY once announce that e performed duties
+>      related to that contest in a timely manner during that month,
+>      subject to other rules regarding truthfulness.
+>
+>      As soon as possible after a player makes such an announcement,
+>      the Scorekeepor CAN and SHALL by announcement award, for each of
+>      the contest's axes, N <axis> points to that player, where N is
+>      either the number of players who were contestants of that
+>      contest at any time during that month, or the number of points
+>      awarded by that contest on that axis during that month,
+>      whichever is less.
+
+I hereby announce that I performed duties related to Enigma in a
+timely manner during this month.
+I hereby announce that I performed duties related to Enigma in a
+timely manner during this month.
+I hereby announce that I performed duties related to Enigma in a
+timely manner during this month.
+I hereby announce that I performed duties related to Enigma in a
+timely manner during this month.
+I hereby announce that I performed duties related to Enigma in a
+timely manner during this month.
+I hereby announce that I performed duties related to Enigma in a
+timely manner during this month.
+
+Please note that in general all statements in Agoran messages should
+be fact-checked for accuracy so that you are not misled!!
+
+I CFJ on the statement: The Scorekeepor SHALL award me 6N points as
+defined by Rule 2234 in relation to Enigma.
+
+Arguments:
+
+Whether or not "MAY once announce" implies "MAY NOT thereafter
+announce", I am not the contestmaster of Enigma and the paragraph and
+its restrictions do not apply to me.  However, if you read it
+carefully, "such an announcement" is clearly simply an announcement
+"that e performed duties related to that contest in a timely manner
+during that month".  I made such an announcement, so the second
+paragraph _does_ apply.
+
+The proposal clearly intended to make false such announcements illegal
+due to truthfulness, and I NoV against myself for violating Power=1
+Rule 2215 by making the above statements; but I contest that NoV,
+because in context I don't think anyone will be misled, any more than
+anyone was misled the last time I made an obviously incorrect
+announcement.
+
+If someone proposes bringing back real truthfulness I will probably
+vote for it as eagerly as I voted for the opposite not too long ago
+(same for repealing rests, btw).  O changing winds...
+}}}
+
+Immediately upon proposal 6194 being inacted, comex pounced on a bug
+in the new wording of rule 2234 (now on version 2234/2); the rule
+permitted players to do something that they could do anyway (announce
+that they had been the contestmaster of a contest), and rewarded em
+for doing so (giving them points for running the contest). Eir exploit
+was simply to make a number of false announcements to have been the
+contestmaster of Enigma, then the most active contest in terms of
+players and point allocations (and thus worth the most for running),
+in order to gain enough points for a quick victory. As this was
+obviously going to be challenged, e called the inquiry case (2450) as
+to whether this had worked emself, leaving Tiger to accuse em of
+violating the rules and start the criminal case, 2451.
+
+Although comex had managed to avoid violating rule 2215/0 (via the by
+now time-honoured scam of making a statement so ridiculous or
+obviously untrue that nobody could be expected to believe it, and thus
+lie without being misleading), e was successfuly prosecuted for
+violating rule 2125 (via performing a rule that the rules stated e MAY
+perform under certain circumstances, when those circumstances didn't
+hold); the judge, Taral, gave a detailed linguistic analysis of rule
+2234/2. (Especially relevant was that comex stated the wrong month in
+eir announcements, and thus could not rely on the announcements having
+an otherwise-legal timing.)
+
+However, merely breaking what the rules say you MAY do (as opposed to
+what you CAN do) does not stop a win in Agora, especially as comex's
+punishment for the rulebreaking was the relatively low 3 Rests (which
+was hotly debated in the discussion forum). After CFJ 2451 had been
+judged, its arguments were used as evidence that the announcements
+were effective in the first place (as otherwise there would have been
+nothing to prosecute); judge ais523 did a separate analysis of the
+situation, finding first that the announcements were possible (after
+all, sending arbitrary messages to an email server is generally
+possible), then that the announcements were of the form required, and
+then that all six of them counted. The end result was that comex got a
+slap on the wrist and 6 months' worth of pay for running Enigma, a
+contest e wasn't even the contestmaster of; and a couple of weeks
+later, once all the Rests were cleared, the Scorekeepor had actually
+assigned the points (e was waiting for confirmation that they were
+deserved), and e was again capable of winning, Wooble did the win
+announcement for em (perhaps to avoid comex's high score disrupting
+legitimate attempts to win by points).
+
+===
+coppro, root: High Score
+Relevant proposals: 6175; CFJs: 2477; rules: 2187/4, 2201/1, 2143/6,
+2215/0
+
+coppro wrote (28.04.2009 03:50:15):
+{{{{
+The following is a Win Announcement:
+
+root and coppro have scores x + yi such that xy >= 2500.
+
+Explanation:
+
+Last Monday, root issued a Scorekeepor's report with both emself and
+myself listed as having 50 + 50i points. points are assets, so that
+portion of the report is self-ratifying. I issued three CoEs against the
+report - one alleging that Murphy's score was incorrect, one alleging
+that my score was incorrect, and one alleging that root's score was
+incorrect.
+
+The first CoE was blatantly incorrect. After accepting the latter two,
+root later denied it. According to rule 2201, { If e denies the claim,
+then the original document is ratified one week after the denial, unless
+it is challenged again (subject to the same requirements) during that
+period.} The document was not challenged during that period, as such, it
+has now ratified as it has been more than one week since the denial.
+
+Now, since someone is no doubt going to do this anyway, I might as well
+get the jump on this. I CFJ {coppro has won the game at least once.}
+
+I also submit a proposal entitled {Fix self-ratification}, AI 3, II 3,
+with the following text:
+{{{
+Amend rule 2201 by replacing:
+{{
+      b) A claim of error, appropriate for matters of fact.  The
+         publisher of the original document SHALL respond to a claim
+         of error as soon as possible, either publishing a revision or
+         denying the claim.  If e denies the claim, then the original
+         document is ratified one week after the denial, unless it is
+         challenged again (subject to the same requirements) during
+         that period.
+}}
+with
+{{
+      b) A claim of error, appropriate for matters of fact.  The
+         publisher of the original document SHALL respond to a claim
+         of error as soon as possible, either publishing a revision or
+         denying the claim. Until e does so, the claim is outstanding.
+         After a claim is denied, the original document is ratified one
+         week after the denial, unless it is challenged again (subject
+         to the same requirements) during that period, there is an
+         outstanding claim at the time of the denial, or the officer has
+         published a revision to the document as required by this rule.
+}}
+}}}
+}}}}
+
+It's nice to have a scam this clear-cut, and with a useful explanation
+accompanying it in the same message. Basically, what happened was that
+coppro, a relatively new player at the time, had noticed a loophole in
+the self-ratification rule (2201/1): if multiple CoEs were made on the
+same message, with some accepted and then others denied, then the
+denials caused the original, incorrect report to self-ratify (causing
+the gamestate to be updated to match the report, a mechanism normally
+used to avoid subtle bugs due to incorrect reports building up over
+time). coppro recruited root, then the Scorekeepor, to aid the scam; a
+false Scorekeepor's report giving coppro and root 50+50i points each,
+just enough to win, was obviously challenged immediately, but by
+coppro emself, who made a deliberately incorrect claim of error along
+with the two correct ones. After the two acceptances and the denial,
+the original incorrect report ratified, giving coppro and root their
+wins; although the scam could have been blocked by anyone who noticed
+(via an additional CoE, or maybe CFJ), nobody blocked it (although
+ais523 noticed, e refrained from blocking the scam in order to gain a
+set of Ministers Without Portfolio more favourable for em). The
+resulting CFJ (2477) was turned down by three judges (the first being
+root; a random timing accident lead to em being the only possible
+judge, but e recused emself for obvious reasons), before being judged
+straightforwardly TRUE.
+
+Of course, with a win like this one that depended on publishing
+blatantly incorrect information, a discussion started as to whether it
+was legal (as opposed to possible, which it clearly was). Although the
+ruleset had previously (in rule 2143/5) contained a provision stating
+that officers were not allowed to publish incorrect information as
+part of their duties, it had been accidentally repealed by proposal
+6175, and rule 2143/6, in force at the time, did not punish such
+behaviour, but rather listed a different provision twice (the proposal
+amended the wrong paragraph). (The bug was later fixed in rule
+2143/7.) The only truthfulness rule at the time, therefore, was rule
+2215/0; root avoided this by using a deliberately suspicious title and
+score, thus trying to lead to a score that was obviously incorrect
+(and thus not misleading); coppro was less lucky here, and took a
+1-Rest penalty for eir incorrect CoE (which e did not try to contest).
+
+===
+ais523 by High Score
+Relevant proposals: (none); CFJs: (none); rules: 2187/4
+
+The Agoran Agricultural Association gave ais523 the last 20 x- and 14
+y-points e needed to get a winning score; e spent 3 x-points in order
+to reduce eir score to, according to the scorekeepor at the time,
+76+34i, with a product of 2584, which, despite ais523 believing e had
+more (78+34i), was still enough to win. (Strangely, my calculation
+writing the thesis now makes it 75+34i; perhaps the exact value will
+never be known. It's all enough, anyway.) Here's where the other 58
+x-points (that I can find...) and 20 y-points came from:
+
+ -3x, +2y  in a points trade with Tiger
+ -2x,  0y  in a points trade with Billy Pilgrim
+ 14x, 14y  as contestmaster pay for Enigma
+ 17x,  2y  from other Agoran Agricultural Association activity
+ 25x,  0y  from the Fantasy Rules Contest
+  7x,  2y  left over from the last score reset.
+
+===
+G., OscarMeyr by Junta
+Relevant proposals: 6130; CFJs: (none); rules: 2223/0, 2243/0
+
+Murphy wrote (15.03.2009 23:01:02):
+{{{
+[Note:  Additional actions above "Text of adopted proposals".]
+
+(snip)
+*6130  D1  3.0  ais523      Open It Up
+(snip)
+            6121  6122  6123  6124  6125  6126  6127  6128  6129  6130
+
+ais523        F     P     A     F     P     P     F     A     F     F
+comex         P     F     A     A     A     A     A     A     F     F
+Dvorak He     F     A     A     F     A     F     F     F     A     F
+ehird         F     F     A     F     A     P     F     F     F     F
+Goethe        F     F     A     F     A     P     F     F     F     F
+Murphy        F     A     A     F     F     F     F     F     F     F
+OscarMeyr     F     F     F     F     F     A     F     F     F     F
+Pavitra       F     A     F     F     F     F     F           F     F
+Taral         F     A     A     A     F     A     F     P     F     A
+Tiger         F     A     A     F     A     F     F     P     F     A
+Wooble        P     A     A     P     A     F     F     F     F     A
+Yally         A     A     F     F     A     F     F     A     A     F
+
+AI            2     3     2     3     2     2     2     3     3     3
+VI            9     0.5+  0.3+  4.5   0.5+  2    11     2     5     3
+F/A          9/1   4/7   3/9   9/2   4/7   6/3  11/1   6/3  10/2   9/3
+
+Quorum        7     7     7     7     7     7     7     7     7     7
+Voters       12    12    12    12    12    12    12    11    12    12
+
+(snip)
+
+As permitted by the rule created by Proposal 6130, I cause Rule 2223
+(Win by Junta) to amend itself by appending this paragraph:
+
+      Murphy, Goethe, and OscarMeyr CAN cause this rule to make
+      arbitrary rule changes by announcement.
+
+I spend Ab Ab to destroy one of my Rests.
+I spend Ab Ab to destroy one of my Rests.
+I spend Ab Ab to destroy one of my Rests.
+
+This is a win announcement stating that Murphy, Goethe, and OscarMeyr
+satisfy the Winning Condition of Dictatorship.
+
+As permitted by both Rule 2223 and the rule created by Rule 6130, I
+cause Rule 2223 to amend itself to read:
+
+      This rule intentionally left blank.
+
+Proposal:  Close it up
+(AI = 3, II = 0, please)
+
+Repeal the rule created by Proposal 6130 (Open It Up).
+
+Amend Rule 2223 (Win by Junta) to read:
+
+      When a rule comes to state that one or more persons CAN cause it
+      to make arbitrary rule changes by announcement, all those
+      persons satisfy the Winning Condition of Dictatorship.
+
+      Cleanup procedure:  Those persons SHALL as soon as possible
+      amend the rule so that it no longer states this, and SHOULD
+      amend the rules to prevent this condition from being achieved
+      again in essentially the same way.
+
+
+Text of adopted proposals:
+
+(snip)
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6130 (Democratic, AI=3.0, Interest=1) by ais523, Goethe
+Open It Up
+
+Create a Rule with the following text and a power of 3:
+
+  If a rule (other than this one) exists that mentions the
+  possibility of a player causing a rule to make rule changes by
+  announcement, any player can cause that rule to amend itself by
+  announcement.
+
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+(snip)
+}}}
+
+This is a nice example of how there are two ways to force a scam
+proposal through: either make the loophole so subtle that nobody spots
+it, or make it so obvious, but seemingly subtle, that everyone assumes
+they're the only person who saw it and thus will be the one to exploit
+it. In this case, ais523 (and some coconspirators, coppro and comex)
+thought e was doing the first, but was actually doing the second.
+
+Proposal 6130 was marketed as a way to prevent an "obvious scam" by
+G. (then called Goethe) passing, by making it too risky to force
+through because otherwise anyone could exploit it; the loophole was
+the fairly obvious one that a rule that met its condition, rule 2223,
+already existed. Past then, it would simply be a matter of timing who
+exploited the trivial dictatorship loophole first; an automated
+cronjob acting on behalf of ais523 tried to exploit it one minute
+after the proposal passed, but it was futile, as a second conspiracy
+containing G., OscarMeyr, and Murphy the Assessor was also aware of
+the loophole and exploited it in the very same email that assessed the
+proposal. With two separate conspiracies trying to force proposal 6130
+through, it's no surprise that it passed.
+
+Murphy, G., and OscarMeyr's use of the dictatorship was a very simple
+one, incidentally; they simply amended the Win by Junta rule to
+trigger itself, got the win from it, and then blanked the rule,
+preventing anyone else exploiting the same loophole, and thus
+rendering the cronjob useless. (ais523's use would have been to pass
+the dictatorship on to a non-player partnership, thus exploiting a
+secondary loophole in the new Open it Up rule, that it only affected
+players.) In an unfortunate (for Murphy) twist, though, e had done
+things in the wrong order, accidentally setting the win off /before/ e
+destroyed all eir Rests, and thus e failed to win along with eir other
+two coconspirators (especially embarassing, as the dictatorship was
+easily powerful enough to remove Rests).
+
+===
+ais523 by Clout
+Relevant proposals: (none); CFJs: (none); rules: 2134/5, 2126/58,
+2156/11
+
+ais523 wrote (28.02.2009 23:57:15):
+{{{
+I spend D F# A to increase Murphy's caste to Alpha.
+
+-- 
+ais523
+}}}
+ais523 wrote (01.03.2009 00:00:07):
+{{{
+Without objection, I make Billy Pilgrim inactive.
+Without objection, I make j inactive.
+Without objection, I make cmealerjr inactive.
+The AFO goes on hold.
+I spend C  Eb G  to reduce OscarMeyr's caste to Savage.
+I spend C  Eb G  to reduce Dvorak Herring's caste to Savage.
+I spend C  Eb G  to reduce woggle's caste to Savage.
+I spend C  Eb G  to reduce Tiger's caste to Epsilon.
+I spend C# E  G# to reduce Tiger's caste to Savage.
+I spend C# E  G# to reduce Siege's caste to Savage.
+I spend D  F  A  to reduce Goethe's caste to Epsilon.
+I spend E  G  B  to reduce comex's caste to Epsilon.
+I spend B  D  F# to reduce Taral's caste to Savage.
+I spend B  D  F# to reduce Yally's caste to Savage.
+I spend A  B  C# D  E to increase my own caste to Alpha.
+
+Castes now:
+8 = Alpha     ais523
+5 = Beta      (nobody active)
+3 = Gamma     (nobody active)
+2 = Delta     (nobody active)
+1 = Epsilon   Pavitra, Sgeo, comex, Goethe, Wooble
+              (also ehird, but e has a voting limit of 0 due to Rests)
+              (also Murphy, but e has a voting limit of 0 due to Rests)
+0 = Savage    OscarMeyr, Dvorak, woggle, Tiger, Siege, Taral, Yally
+              (and possibly others)
+
+If an ordinary decision were intiated right now, I would have a voting
+limit of 8 on it, being an Alpha; and the other players combined would
+have a total voting limit of 5.
+
+The following sentence is a win announcement, and this sentence serves
+to clearly label it as one. ais523's voting limit on an ordinary
+decision initiated at this time would exceed the combined voting limits
+of all other players on that decision.
+
+I win by Clout.
+
+-- 
+ais523
+}}}
+
+Different economic systems and different voting systems make for
+different sorts of win by Clout. In this case, the Caste system was
+influencable by Notes, a combination that would not come up again in
+any future win by Clout; and as the first win by Clout ever, it had
+never come up before either. This was half an economic victory, due to
+the number of Notes required, and half a scam; the way that Caste
+rotation worked at the end of a month was that Alphas were demoted to
+Epsilon automatically, but the promotions were done by hand. As a
+result, at the very start of a month, the average Caste was lower than
+usual, making it easier to demote lots of people to low clearances.
+Combined with /raising/ Murphy's Caste to Alpha the month before in
+order to cause two players to platonically fall to Epsilon,
+inactivating inactive players, and, as an AFO member, causing that
+partnership to idle via its rule that any of its members could make it
+perform actions, ais523 could just-about afford to reduce everyone
+else's Caste to a sufficient extent that it added up to only 5, whilst
+keeping 8 for emself; thus, ais523 was able to outvote anyone else,
+triggering the win condition for Caste.
+
+The win was uncontroversial, although G. immediately reduced ais523's
+Caste to Savage in order to prevent em getting an advantage in actual
+voting; this ironically caused ais523 to end up with a lower caste
+after the win than anyone else, as a win by Clout resets everyone's
+Caste to its default.
+
+===
+comex by Junta
+Relevant proposals: 6072, 6084; CFJs: 2376, 2386; Rules: 2223/0,
+2238/?, 107/10
+
+[rule 2238 was never officially assigned revision numbers, and thus a
+revision number cannot be cited by this thesis]
+
+comex wrote (11.02.2009 02:20:11):
+{{{
+(Warning: this message is automated, sent from cron due to timing
+issues.
+I apologize for the previous tests.)
+
+On behalf of ais523: ais523 retracts all eir votes on the decision about
+whether to adopt Proposal 6072 and votes FOR on that decision.  (I have
+previously agreed to a contract with em that lets me do this.)
+
+I retract all my votes on the decision about whether to adopt Proposal
+6072 and vote FOR that decision.
+
+I cause Rule 2238 to amend itself to read:
+
+      comex CAN cause this rule to amend itself, or perform arbitrary
+      rule changes, by announcement.
+
+      comex CAN modify any attribute of a proposal, including AI and
+      text, by announcement.
+
+I hereby modify the text of Proposal 6072 (which would have been failed
+due to insufficient power anyway, btw) to read:
+{
+
+If Rule 2238 exists, change its Power to 3 and amend it to read the
+following; otherwise, create a new Power=3 Rule with the following text:
+
+      comex and ais523 were here (unlike Rodlen).
+
+      comex CAN cause this rule to amend itself, or perform arbitrary
+      rule changes, by announcement.
+
+}
+
+I hereby change the adoption index of Proposal 6072 to 3.
+
+I CFJ on the statement:
+ * It is possible for a Rule to change a proposal's text.
+
+Arguments:
+
+Suber's rule in the subject is no longer in the Agoran ruleset, but I
+forsee arguments that this doesn't work because a proposal, as a
+'document
+outlining changes to be made to Agora' (R106), is necessarily immutable
+(corresponding to the standard requirement that amendments to proposals
+must be performed by retraction and resubmission).  Although some types
+of
+documents (such as public documents and official documents) are
+immutable,
+I don't think 'document' implies immutability.  For example, Rule 754
+implies that a contract is a legal document; Rule 2166 refers to a rule
+or
+contract as a 'backing document'; and Rule 1586 temporarily defines
+'document' as 'rule or contract'; rules and contracts can be amended. 
+Alternately, in ordinary language, amendable texts such as the United
+States Constitution are referred to as 'living documents'.  Therefore,
+there is nothing implicit in the definition of a proposal to prevent one
+from being amended; as the attributes of proposals are not secured, it
+is
+possible for a Rule to (grant permission to) amend them.
+}}}
+
+After ais523 and the AFO had won as a result of a dictatorship gained
+from an earlier scam (documented later in this thesis), the issue
+remained as to whether comex, the third member of the dictatorship,
+could also win, given that e had Rests at the time that blocked em
+from winning, and that the previous attempts of the conspiracy had
+failed. (It's pretty rare to get a situation in a nomic where someone
+has a dictatorship, but there's no obvious way to convert it into a
+win; and comex was determined to do so by expanding the scope of eir
+power-1 dictatorship into a full power-3 dictatorship that allowed em
+to do anything.) Upping the stakes was an informal bet between
+G. (then Goethe) and comex, which was made semi-official in proposal
+6084, which threatened to punish comex and ais523 with a taunting
+Patent Title if they didn't manage to increase the power of the
+dictatorship to at leat 2 by the time the proposal passed.
+
+The chosen method to increase the dictatorship was via timing scam;
+just before proposal 6072 passed, comex used the dictatorship to
+change its text and adoption index to change it from an underpowered
+but popular proposal that would have done nothing, to a high-powered
+and scammy proposal that gave em a dictatorship; the major argument
+was about whether a power-1 dictatorship was enough power to interfere
+with the proposal like that, although comex's argument was that none
+of the higher-power rules specifically stated that proposal attributes
+could not be changed, and thus it was legal on the basis that what the
+rules - even low-powered ones - say counts if no rule contradicts
+them; the main counterargument was that changing the text of a
+proposal while it was being voted on might invalidate decisions about
+whether to adopt it, because the decisions were now about something
+else.
+
+As usual, the mess was sorted out by CFJ over the course of several
+weeks. CFJ 2376 addressed whether proposals could be amended in theory
+(it turns out that they could be); CFJ 2386 addressed whether the
+amendment prevented the proposal passing in the normal way, and it
+turned out that it didn't. Judge Wooble compared proposals to rules,
+in that if a rule is amended while a proposal to change it is pending,
+it doesn't invalidate the proposal even though it now means something
+else; likewise, amending a proposal while it's being voted on
+apparently doesn't invalidate the attempt to adopt it. (It also helped
+that rule 107 used the specific example of "the adoption of proposal
+4781", indicating that the proposal's text was unlikely to be
+relevant, but rather that its ID number was the relevant part.)
+
+===
+Murphy by High Score
+Relevant proposals: 6020; CFJs: (none); Rules: 2187/4, 2187/3, 2186/4
+
+Legitimate wins by High Score are some of Agora's most common; this
+one happened about a week after the score was actually achieved, due
+to Murphy getting the wording of the win announcement wrong first time
+(failing to explicitly specify it as a win announcement). Ironically,
+Murphy had already had reached the old win condition of 100 points
+when the win condition was amended away (by proposal 6020, which e
+helped author!) underneath em, forcing em to scramble for the
+newfangled y-points in order to regain eir status of having a winning
+score, and gaining those points almost entirely from Enigma.
+
+Here's where eir 116 x-points and 23 y-points came from:
+
+  0x,  2y from the Agoran Agricultural Association
+ 14x,  0y as contestmaster pay for Werewolves
+  0x, 21y from Enigma
+  2x,  0y claimed from the Points Relay Service
+100x,  0y from the conversion of points to x-points when rule 2187
+          was amended
+
+===
+ais523, the AFO by Junta
+
+Relevant proposals: 6069; CFJs: ; rules: 2223/0, 2238/0, 2126/58, 2222/0
+
+comex wrote (02.02.2009 21:57:41):
+{{{{
+The AFO publishes the following. (Please note: Other actions are
+present after the resolution.)
+{{{
+
+Voting results for Proposal 6069:
+
+[This notice resolves the Agoran decision of whether to adopt the
+ following proposal.  For this decision, the options available to
+ Agora are ADOPTED (*), REJECTED (x), and FAILED QUORUM (!).]
+
+*6069 O 1 1.0 comex               <none>
+
+            6069
+
+ais523       8F
+AFO          8F
+comex        8F
+Dvorak He     F
+Goethe        A
+Murphy       3A
+OscarMeyr    5A
+Pavitra       A
+Taral        8A
+Wooble        A
+
+AI           1
+VI           1.3+
+F/A          25/19
+
+
+Text of adopted proposals:
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6069 (Ordinary, AI=1.0, Interest=1) by comex
+<none>
+
+Create a rule that reads:
+{
+Anyone CAN cause this rule to amend itself by announcement.
+}
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+}}} (End on-behalf-of-AFO section.)
+
+I assign the Rule created by proposal 6069 the ID number 2238 and the
+title "Self-Mutability".
+
+I cause Rule 2238 to amend itself to read:
+
+      comex CAN cause this rule to amend itself by announcement.
+}}}}
+
+The Junta rule allows a player - or group of players - to win if they
+manage to get a dictatorship over the game (proved by amending a rule
+to state that the conspirators can cause it to make arbitrary rules
+changes by announcement, even if the rule is lying when it states
+that). Proposal 6069 clearly and obviously creates a rule that can be
+made to state anything, including that, and was soon amended into the
+appropriate phrasing to give ais523, comex, and the AFO a win; thus,
+the only complexity involved in the scam is as to how the proposal
+managed to pass in the first place, which was like this:
+
+comex wrote (02.02.2009 21:55:04):
+{{{{
+On Mon, 2009-02-02 at 16:36 +0000, Alex Smith wrote:
+> I agree to the following private contract, named "6069":
+> {{{
+> This is a private contract, which only comex and ais523 can join.
+>
+> Both ais523 and comex CAN terminate this contract by announcement,
+> and/or make it public by publishing its text and membership.
+>
+> Votons are a currency, tracked by ais523. Any player can create a
+Voton
+> in eir own possession with 2 Support; this is known as "making the
+> contract Democratic", or simply as "making 6069 Democratic".
+>
+> comex CAN act on ais523's behalf to cause em to vote on, and/or
+retract
+> votes on, the Agoran Decision on whether to adopt the proposal with ID
+> number 6069.
+>
+> comex CAN act on ais523's behalf to cause em to spend up to 4 C#
+notes,
+> and SHALL NOT do so except to boost eir on voting limit on the
+proposal
+> with ID number 6069, or the Agoran Decision concerning whether to
+adopt
+> it.
+> }}}
+I agree. I have just published the text of the contract named 6069;
+its membership is
+{ais523, comex}. I make the contract named 6069 a public contract.
+
+I spend a G# note to increase the AFO's voting limit on proposal 6069 by
+1.
+I spend a G# note to increase the AFO's voting limit on proposal 6069 by
+1.
+I spend a G# note to increase the AFO's voting limit on proposal 6069 by
+1.
+I spend a G# note to increase the AFO's voting limit on proposal 6069 by
+1.
+I spend a G# note to increase the AFO's voting limit on proposal 6069 by
+1.
+I spend a G# note to increase the AFO's voting limit on proposal 6069 by
+1.
+I spend a G note to increase the AFO's voting limit on proposal 6069 by
+1.
+
+
+The AFO spends an E note to increase ais523's voting limit on proposal
+6069 by 1.
+The AFO spends an E note to increase ais523's voting limit on proposal
+6069 by 1.
+The AFO spends an E note to increase ais523's voting limit on proposal
+6069 by 1.
+
+The AFO spends an E note to increase comex's voting limit on proposal
+6069 by 1.
+The AFO spends an E note to increase comex's voting limit on proposal
+6069 by 1.
+The AFO spends an E note to increase comex's voting limit on proposal
+6069 by 1.
+The AFO spends an E note to increase comex's voting limit on proposal
+6069 by 1.
+
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on proposal 6069 by 1.
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on proposal 6069 by 1.
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on proposal 6069 by 1.
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on proposal 6069 by 1.
+
+In case that didn't work:
+
+I spend a G# note to increase the AFO's voting limit on the decision
+of whether to adopt proposal 6069 by 1.
+I spend a G# note to increase the AFO's voting limit on the decision
+of whether to adopt proposal 6069 by 1.
+I spend a G# note to increase the AFO's voting limit on the decision
+of whether to adopt proposal 6069 by 1.
+I spend a G# note to increase the AFO's voting limit on the decision
+of whether to adopt proposal 6069 by 1.
+I spend a G# note to increase the AFO's voting limit on the decision
+of whether to adopt proposal 6069 by 1.
+I spend a G# note to increase the AFO's voting limit on the decision
+of whether to adopt proposal 6069 by 1.
+I spend a G note to increase the AFO's voting limit on the decision of
+whether to adopt proposal 6069 by 1.
+
+The AFO spends an E note to increase ais523's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+The AFO spends an E note to increase ais523's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+The AFO spends an E note to increase ais523's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+
+The AFO spends an E note to increase comex's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+The AFO spends an E note to increase comex's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+The AFO spends an E note to increase comex's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+The AFO spends an E note to increase comex's voting limit on the
+decision of whether to adopt proposal 6069 by 1.
+
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on the decision of whether to adopt proposal 6069
+by 1.
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on the decision of whether to adopt proposal 6069
+by 1.
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on the decision of whether to adopt proposal 6069
+by 1.
+I act on behalf of ais523 to cause em to spend a C# note to increase
+comex's voting limit on the decision of whether to adopt proposal 6069
+by 1.
+
+I act on behalf of ais523 to cause em to vote FOR on the Agoran
+Decision of whether to adopt proposal 6069, eight times.
+The AFO retracts all its votes on the Agoran Decision of whether to
+adopt proposal 6069.
+The AFO votes FOR on the Agoran Decision of whether to adopt proposal
+6069, eight times.
+I vote FOR on the Agoran Decision of whether to adopt proposal 6069,
+eight times.
+}}}}
+
+This was a typical example of a timing scam - actions being taken with
+precise timings, such that nobody else has a possibility to interrupt
+them. The messages in question were sent either side of the voting
+period ending, meaning that a proposal that looked like an obvious
+fail was suddenly turned round into a quick pass, and then assessed
+before anyone could jump in and set voting limits on the proposal back
+to sane values. Although the ruleset at the time barred voting limits
+from higher than 8, even when temporarily boosted on one proposal, a
+one note = one vote rule was used to boost the voting limit of
+multiple conspirators (the AFO was a partnership which comex, among
+other people, could cause to take arbitrary actions, so there were
+only two humans involved), and thus gaining many more than 8 extra
+votes, outvoting the rest of Agora using them.
+
+G. (then Goethe) had actually guessed that something like this was
+coming (although not the exact details), and attempted to warn the
+rest of Agora to make the proposal Democratic (and thus impossible to
+manipulate voting limits on); however, e was widely ignored, and
+eventually given the patent title of Cassandra by proposal as a
+result.
+
+As with many scams, though, there is a twist in the tail; comex was
+unable to win at the time due to having Rests, and thus did not gain a
+win at the same time as the other members of the conspiracy. The
+dictatorship thus remained for quite some time, as comex attempted to
+find a way to increase the power of the resulting rule beyond 1 and
+thus override the rule that players with Rests could not win;
+eventually, e found a way to achieve the win, as documented elsewhere
+in this thesis.
