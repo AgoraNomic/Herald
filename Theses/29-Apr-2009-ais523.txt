@@ -1,0 +1,911 @@
+
+
+In my duties as Agoran Ambassador, I end up in discussion with players
+of many other nomics. The discussion is often about Agora (otherwise I
+wouldn't be doing my job properly); and often the topic gets onto why
+various players aren't players of Agora.
+
+By far the most common concern for players elsewhere is that Agora's
+ruleset is scary, too complex, or too long. On the face of it, it's an
+apparently valid concern; the SLR is (as of the time of writing) 3614
+lines long, the FLR is 6503 lines long. But, nevertheless, people
+still play Agora, and despite the apparently unfeasible complexity of
+the ruleset, seem to work quite well with it. So, how bad is the
+ruleset really, compared to how bad it looks.
+
+First, there are possible misconceptions to deal with that can put
+people off as soon as they start reading. The third line of the SLR?
+
+"Last proposal with recorded effect on this ruleset: 6225"
+
+6225 is a /big/ number. And although the proposal count is inflated
+now and again due to scams that require large volumes of proposals,
+6225 rule changes is still quite a lot. One of the first assumptions
+that people make is therefore that the ruleset must have got insanely
+complicated with all that many changes. The problem is thrown into
+even sharper relief on the eighth and ninth lines, still well within
+the first screen:
+
+"Rule ID numbers:
+       highest orderly: 2245"
+
+The first mistake of prospective players, then, was to read the SLR
+not the more informative FLR. This is not immediately fatal, but the
+SLR give more of an impression of complexity; because without
+knowledge of Agora, at least one person instantly concluded that with
+a Rule 2245, there must be 2245 Rules. That would certainly be far too
+complicated for a typical person to grasp! The FLR has the current
+rule count, a rather reassuring by comparison 134, just below the
+current maximum ID number.
+
+So with 6225 changes, why only 134 rules? Maybe they're all insanely
+complicated? The next-biggest misconception is that all proposals have
+the effect of complicating the ruleset.
+
+It's interesting to look at the statistics for just what proposals do.
+Based on the history in the FLR, here are the statistics for how rules
+that still exist in the current ruleset have changed:
+
+Amended               1108
+Created                119
+Power change            57
+Assigned to committee   51
+Retitled                34
+Infected                15
+In Initial ruleset      14
+Mutated                  9
+Renumbered               2
+Null-Amended             2
+--------------------------
+Total                 1411
+
+As can be expected, most of the rule changes are amendments. My sense
+is that in general, amendments to tend to complicate the rules
+somewhat. However, noteworthy is that the number of changes to
+existing rules - which must be greater than the number of proposals
+that passed and currently have an effect on the ruleset - is much
+lower than the number of proposals that we've had.
+
+One obvious explanation for the discrepancy is, of course, that not
+all proposals pass. Since I've been playing, on average about half of
+proposals seem to have been adopted, although I don't know if it's
+different historically. At a rough estimate, therefore, this accounts
+for about 3000 or so of the missing proposals.
+
+So what about the other 1500 or so? Well, there are a lot of rules
+which once existed, but have now been repealed; changes to those rules
+won't have an effect (except indirectly due to inspiring proposals) on
+the current ruleset. Determining how many rules have ever existed
+cannot be done by ID number (in the initial ruleset, new rules started
+numbered at 301, and rules were renumbered whenever they were
+amended); however, the Rulekeepor's website lists historical rules,
+and it seems that there are 1276 rules which existed at some time or
+another (and therefore 1142 rules have, at some time or another, been
+repealed). These repealed 1142 rules are complexity no longer in the
+ruleset; the ruleset is therefore considerably simpler than a naive
+look at the statistics in the ruleset itself would suggest.
+
+One interesting thing to note is the history of widespread repeals;
+every now and then, a huge number of rules are repealed or simplified
+at once. For instance, there was a massive repeal of rules in August
+2006 (see
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2006-August/002683.html>
+for the proposals that lead to the repeals). These sorts of mass
+repeals normally happen when the ruleset has got too complicated for
+the number of players playing; and a reset is likely to be healthy for
+a nomic now and again. (BlogNomic is probably the most successful
+nomic whose ruleset is specifically designed for regular resets, with
+a different theme each time; Agora tends to have much the same style
+after a reset, but it often differs in the details.) The instinct to
+simplify a ruleset when it gets too complicated is responsible for
+helping to keep Agora's ruleset in check. At the same time as a large
+repeal, most of the rules that remain are also simplified; so although
+a rule may appear to have a lot of amendments in its history, that
+doesn't mean that the rule is complicated nowadays. (As another
+example, some of the rule change types in the table above are no
+longer defined; Infection, for instance, was an automatic change
+performed on rules at random, and nothing even remotely similar is
+currently defined.)
+
+Nevertheless, Agora still has 134 rules, and a rather long ruleset;
+the SLR is 3614 lines long, the FLR is 6503. That still sounds rather
+unmanageable; how bad is it?
+
+The first thing to note is that knowing all 134 rules off by heart is
+not necessary for regular gameplay. Many of the rules don't come up
+very often; many requirements only apply to specific officers; several
+rules do nothing but block certain scams. The number of rules that
+actually affect gameplay is rather low. One possible strategy to play
+Agora is to just join and participate in contests; the number of
+actual Agoran rules you need to know about that is minimal (2215,
+1023, 478, 869, 2198, 2187 is about enough if you only play in
+subgames, for instance). People who want to submit proposals have to
+understand the complications surrounding AI, but those are relatively
+easy to explain in the discussion forum. In fact, it's entirely
+possible to play relatively well without reading the rules at all,
+just by watching what other people do and playing along; at least one
+player did this for months.
+
+Of course, mere theorising about which rules are relevant or not is
+unlikely to be helpful. Therefore, I've spent time compiling a summary
+ruleset designed to explain the rules to new players. Every single
+rule is in there, although only the more important or common
+applications of each rule is listed. It's interesting to see just how
+far you have to go in it before the rules start becoming irrelevant or
+uninteresting; the gory details of CFJ assignment take up quite a bit
+more space than might be expected, for instance, as does the method
+for proposals. The summarised ruleset is only 732 lines long (without
+the explanatory header), as opposed to the 3614 in the SLR;
+nevertheless, I added notes likely to be useful to a new player,
+FLR-style. By comparison, BlogNomic's ruleset is 313 lines long, and
+626 lines long when formatted with a 70-character line width like this
+ruleset; and it's generally recognised as one of the simpler-
+rulesetted nomics. I think that 300 lines of the summary is certainly
+enough to get the gist of the way Agoran rules and behaviour works;
+and only a few is enough to start playing.
+
+----------------------------------------------------------------------
+
+This is a summarised version of Agora's ruleset. The rules likely to
+be more important or relevant to new players are mentioned nearer the
+top, subject to sorting the rules in a logical order; there are also
+notes about game custom added in there to clarify things for people
+unused to how Agora works. Please note that this covers only the more
+common uses of rules, not all the corner cases; if you're planning a
+scam, or want to see how an unusual interaction works, please consult
+a genuine ruleset. (I recommend the FLR; it has more context than the
+SLR, and information on judicial decisions that help to understand the
+rules.) I have also been calling things by what they are, rather than
+what they are called, where it helps to clarify the ruleset.
+
+Note that as you get further down the ruleset, the rules become
+increasingly irrelevant to players who do not do various things, or
+who are just starting out. If you stop reading halfway through, you're
+unlikely to miss anything that will come up immediately, as the rules
+lower down are specific, obscure, or don't apply to people unless they
+start opting into things like the judicial system.
+
+Actions
+=======
+How to do things.
+
+ 101 This rule was made by combining many smaller rules; note that it
+     is a particularly important rule, as the highest-priority rule
+     that has an effect. Because the protections in this rule have
+     separate effects, the parts of rule 101 are considered separately
+     in this document.
+ 101 i) Agora considers everything that happens in the universe as
+     potentially part of the game; however, the rules are written such
+     that things unrelated to the game are irrelevant to it, and
+     likewise that it doesn't affect things outside the game unless it
+     specifically tries to. The effect of this subrule, therefore, is
+     to make it legal to do things unrelated to the game. (This
+     doesn't mean that it's necessarily possible to do things
+     unrelated to the game; that's left up to the laws of physics to
+     determine, the ruleset itself has no opinion on that.)
+ 478 Fora are places where players communicate within the game. Most
+     actions only count if sent via public fora; discussion fora also
+     exist, but things there don't affect gameplay. (Note: there are
+     six fora at the moment. agora-business is used for most actions
+     within the game; agora-official is used by officers to publish
+     their reports. The other two public fora, tue and yoyo, are used
+     only if the main fora aren't working. There are also two
+     discussion fora, used to discuss the game; agora-discussion is
+     often used to discuss gamestate or proposals, ##nomic for quick
+     questions or for broking deals. One very very common mistake is
+     to send a message meant for a-b to a-d by mistake (because it's
+     the default reply-to on Agoran emails); if you do this, someone
+     will probably let you know by replying with the acronym NttPF
+     ("not to the Public Forum"), and the acronym TTttPF ("this time
+     to the Public Forum") is often used in the repeated message to
+     a-b instead.) An "announcement" is a message to a public forum;
+     most actions are done this way. (Note: State that you do
+     something in a message, for instance "I register" or "I transfer
+     2 x-points to ais523"; don't say you want to do something, or say
+     that you will do something, just do it.)
+ 101 v) Players mustn't be denied access to the fora.
+ 869 You can become a player ("register") by announcing that you do
+     (or by using a few close but not exact synonyms), although if you
+     cease to be a player for most reasons (other than inactivity),
+     you can't become a player again for 30 days. Likewise, you can
+     cease to be a player ("deregister") by announcing you do. For
+     prospective players who aren't real biological people, but rather
+     legal constructs, the rules are rather stricter.
+ 101 vii) You can always deregister rather than continue to play.
+1728 Certain actions are "dependent actions"; they're marked as
+     actions "without objection", "with support", or "with Agoran
+     consent", often with an amount involved. In general, instead of
+     performing a dependent action by announcement, you have to get
+     the support or wait for objections first; the correct method is
+     to announce that you intend to perform the action, wait for the
+     required amount of support, or wait 4 days for objections
+     (depending on the action), then if you got the needed
+     support/consent or there weren't enough objections, you can
+     actually do the action you intended to do in a second
+     announcement.
+2124 First-class players can object to or support dependent actions by
+     announcement, other than their own actions. Objections and
+     support can also be withdrawn; in addition, objections must come
+     after the intent for the action they object to.
+
+Things a new player must bear in mind
+=====================================
+The rules that you can break without becoming a judge or officer, and
+the things you'll have to watch out for.
+
+2130 Players can be marked inactive without objection; a player who's
+     been inactive for three months can be deregistered without
+     objection. You can also become active or inactive at will. (Note:
+     This rule is used to clean out inactive players, so if you
+     actually are active, it helps to object to attempts to get rid of
+     you. Inactive players can't vote or judge, although they can
+     reactivate at will; however, being inactive protects you from
+     incurring many obligations, so deliberately deactivating yourself
+     is a good idea if, for instance, you want to go on holiday.)
+2215 Making deliberately misleading statements, or trying to mislead
+     people that ineffective actions are effective, is illegal in the
+     public fora. Quoting other people does not repeat the offence.
+     (Note: it's common practice to use disclaimers to avoid
+     misleading people when doing something potentially misleading.)
+2170 People are considered to play as themselves in Agora, rather than
+     controlling some sort of rules-defined avatar or other entity. As
+     such, it's illegal to mislead people as to who you are (using a
+     pseudonym is fine, but don't pretend to be more than one person
+     or use sockpuppets, that tends to be punished severely if
+     discovered), attempt to use a name recently used to refer to
+     someone or something else (or that's otherwise confusing). This
+     rule also covers how to resolve situations where the identity of
+     people is unknown or sockpuppetry is discovered.
+
+Unusual points to bear in mind
+==============================
+Some things about Agora are rather different from games in general, so
+much so that you are unlikely to guess them. This section documents
+unusual or counterintutive rules that you're unlikely to guess without
+knowing them.
+
+2152 Things in Agora can be impossible or illegal (or both, or
+     neither). Trying to do something impossible (that you CAN NOT do)
+     simply fails; trying to do something illegal (that you MAY NOT /
+     MUST NOT do) succeeds unless impossible, but means that you can
+     be punished for it. (Note: Most games just have rules, and
+     breaches of the rules aren't well-defined and normally solved by
+     discussion, and by branding people as cheaters. This is rather
+     impractical for nomics, though; instead, it's explicit what
+     happens when someone tries something not allowed by rules (it
+     either fails, or succeeds but gets the person in trouble).)
+1023 "As soon as possible" means "within seven days". (Note: This
+     rather counterintuitive definition is presumably to give a
+     deadline in which to determine whether someone's late or not.)
+     More reasonably, days are considered to start at midnight UTC,
+     and weeks on Monday.
+
+The object of the game
+======================
+What you're actually aiming for. This section describes the basic
+rules related to winning, and some ways to win. Note that most wins
+need to be officially announced before they actually happen; if you
+think you've won, check the relevant rules in detail to see what you
+have to do for the win to count.
+
+2186 Rules that prevent someone winning override rules that allow
+     someone to win. When someone wins, instead of abandoning Agora
+     altogether, changes are made to the gamestate to prevent the win
+     repeating indefinitely (e.g. zeroing the score of a player who
+     wins by high score), and Agora continues.
+2244 Wins are considered to end a "game" and start a new one; however,
+     a game refers only to the period of time between winning, Agora
+     itself (and most of the things it defines) are continuous from
+     game to game.
+2245 If at any time every other active first-class player is prevented
+     from winning, the single remaining player who can win does.
+2110 Between two and four weeks after a player who has identified a
+     paradox that affects whether something is possible or legal has
+     had this confirmed by the judicial process, that player can win
+     but must then try to resolve the paradox.
+2199 You can win if you've done all the following since you last
+     became a player: amended a power-3 rule, passed a proposal with
+     no votes against, held an office for a whole month, deputised for
+     an office, judged a call for judgement, sentenced a player who
+     broke the rules, became a player for the first time or convinced
+     a first-time player to sponsor you, publically acknowledged
+     Agora's birthday, won the game some other way, earned a Patent
+     Title, earned a degree, and run a contest. (There are additional
+     restrictions on some of these, normally requiring the objective
+     to be nontrivial or on time.)
+2223 If you get enough control over the ruleset to be able to change
+     one or more rules at will, you win.
+2134 If you have high enough Caste that you can outvote all other
+     players combined on an ordinary decision, you win.
+2188 You can win if a proposal passes that gives you a win.
+2242 You can win if you win a Champion's Contest; a contest can be
+     made into a Champion's Contest without 2 objections, and must
+     specify how it is won. Amending a Champion's Contest makes it
+     back into an ordinary contest.
+2187 You can win if your number of x-points, times your number of
+     y-points, is at least 2500.
+
+Contests, Contracts, and Other Homemade Gamestate
+=================================================
+How to score points, and how to make your own bits of gamestate. In
+particular, joining contests is one of the easiest ways for a new
+player to score points and eventually win.
+
+1742 Contracts are binding agreements enforced by the rules; they must
+     be made by at least two people (unless pledges), but can be
+     created privately. They cease to exist when they don't bind
+     enough people, and it's illegal to break a contract.
+2197 The sorts of change that can be made to a contract are joining
+     it, leaving it, amending it, terminating it, or changing a
+     property of it.
+2198 Contract changes can be performed by agreement between all
+     parties (except for pledges), by a party without objection (for
+     pledges), using a mechanism specified by the contract itself, or
+     (if the contract is also a person) by the contract itself by
+     announcement. Also, any player can join a contract that doesn't
+     try to prevent people joining, and a contract can force its
+     properties to certain values by specifying them. Contract changes
+     fail if they're ambiguous, or if it can't be determined whether
+     they're permissible.
+ 101 iii) Nobody can be forced into a contract without their consent.
+     No, not even if the other the rules allow it by mistake.
+ 101 iv) Likewise, documents that already bind a player (contracts or
+     rules) can't be changed without giving that player the
+     opportunity to review the changes.
+2178 Properties of contracts are whether they are public (a public
+     contract must have its text and membership published, and changes
+     to it don't take effect unless public), and whether they are
+     equitable (disputes should be solved via equity), or legalistic
+     (breaches should be punished as breaches of the rules).
+2173 The Notary is responsible for tracking contracts; details about
+     contracts (even if private) should be reported to em.
+2191 Pledges are a sort of contract that only needs one party; they
+     must be public, can have equity cases about them initiated by
+     non-parties, and can be terminated by announcement if they no
+     longer impose ongoing or unsatisfied obligations.
+2136 Contests are a type of contract; a contest is a contract with a
+     contestmaster. Contestmasters can be flipped by any player
+     without 3 objections, or as specified by the contract; a player
+     cannot be made a contestmaster unless they are a member of the
+     contest, and they have consented to become contestmaster. Also, a
+     player can't become a contestmaster of a contest more often than
+     once every seven days.
+2234 Each month, a contestmaster is awarded 1 point, per axis, per
+     player in that contest.
+2166 Assets are things that can be owned; rules and contracts can
+     define them, and the rule or contract defining an asset
+     determines what can be done with it, and by who. By default,
+     assets can be transferred by announcement (unless "fixed"), and
+     destroyed by their owner by announcement, but rules and contracts
+     often change or extend the asset rules with respect to particular
+     assets they define.
+2145 Contracts can be used to construct persons ("partnerships"); but
+     must be strictly enforced, must pass their obligations onto their
+     parties, must be  public, and the resulting person is
+     second-class. The members of the partnership can be punished if
+     it breaks the rules.
+2174 Aliens are non-players who are members of contracts.
+
+Rewards
+=======
+Good stuff you can get for being helpful or doing well.
+
+2179 Points are used to measure a player's score; there are two sorts
+     of points, which can be described as x-points and y-points, or as
+     points worth 1 and i. Points can be transferred, but no more than
+     5 points can be transferred to or from any player each week. The
+     Scorekeepor is responsible for keeping track of them.
+2232 Contests have axes, which determine what sort of points they can
+     award (x, y, or both).
+2233 Contests can award points to and revoke points from parties to
+     them; up to 5 points per player can be awarded, and 2 points per
+     player revoked, per axis, per week. Points are awarded and
+     revoked by the contestmaster, but this must be as described in
+     the contest.
+2126 Notes are the general unit for rewards in Agora; they have
+     pitches (semitones from C up to B, the position in the scale is
+     important but the octave isn't), and the Conductor tracks them.
+     You can earn Notes for authoring passed proposals (more if they
+     have high interest indices), doing officer duties on time,
+     judging court cases, and gaining or awarding points. You can also
+     spend triads of notes to affect other people's Caste, five-note
+     sections of scales to affect your own Caste, notes to boost your
+     or another's voting limit for a single proposal, and notes
+     forming the score of "Happy Birthday" to win during Agora's
+     Birthday. Notes can also be spent to gain other Notes of
+     different pitches. Transferring notes has a 50% tax; you need to
+     spend 2 Notes of the same pitch to give someone one.
+2109 The Speaker gives out rewards every month, which must go to
+     recent winners if there are enough, or otherwise to anyone:
+     Default Officeholder (can take an empty office without an
+     election), Justiciar (can decide which appeals panels e sits on),
+     Wielder of Veto (can raise the AI of a proposal, making it harder
+     for it to pass), Wielder of Rubberstamp (can reduce the quorum of
+     a proposal, meaning it can pass with less discussion), and
+     Wielder of Extra Votes (gets 1.5 times the voting power).
+2211 Caste (which controls how many votes players get on ordinary
+     decisions) is changed by the Grand Poobah every month; one new
+     person is added to the castes 8, 5, 3, 2 from the caste below,
+     then castes which have too many players in have players demoted
+     to lower castes. One major exception to this is that players have
+     their Caste flipped from 8 to 1 automatically at the start of a
+     month.
+ 649 Patent Titles are awarded to people to record events or their
+     distinction; they can be awarded or revoked by proposals with
+     AI of at least 1.5, or as otherwise described in the rules, and
+     are tracked by the Herald.
+1922 This rule defines various Patent Titles that can be awarded via
+     methods other than proposals. (Note: One-off patent titles are
+     often also created by proposal, or by scam. Probably the most
+     relevant one there is Champion, which is awarded to people when
+     they win.)
+1367 Degrees are a sort of Patent Title awarded via proposal to
+     players who publish theses about Agora or nomic in general.
+2231 There are also Heroic patent titles, awarded to people for
+     meritorious service, which require a power 3 proposal.
+ 402 The Speaker is the active player who won earliest out of the
+     recent winners list.
+ 103 The Speaker is the figurehead of Agora.
+
+Changing the Rules
+==================
+The basic feature of a Nomic is that it's possible for its players to
+alter the rules as the game is played. Here's how you do that, and
+what you have to watch out for when doing it.
+
+1688 Everything has a Power number, which controls what it can do to
+     Agoran gamestate. For pretty much everything, it's 0. (Note: at
+     the moment, only rules and proposals can possibly have a higher
+     power than that; rules typically have powers in the range 1-3.)
+2140 Nothing can directly affect anything with a higher Power. (On the
+     other hand, higher-Power rules can look at the content of lower-
+     Power rules to decide what to do.) Note: I consider this to be
+     the one single rule that distinguishes Agora from other nomics.
+     In most nomics, any proposal or rule can affect the rules however
+     it likes; but in Agora, higher-Power rules need higher-Power
+     instruments to affect them.
+ 105 It's possible to enact, repeal, amend, retitle, and mutate
+     (change the Power of) rules; but if you want to do more than one
+     of those at a time, you have to make sure the order is clear.
+     Also, any attempt to change the rules must be unambiguous.
+ 106 Proposals can be submitted by anyone by publishing them in such a
+     way that it's obvious they're meant to be proposals. The
+     proposal's AI, interest index, title, text, and coauthors can be
+     set when the proposal is submitted, but cannot be changed after
+     that; however, an undistributed proposal can be revoked. When a
+     proposal is adopted, the changes in its text are applied to the
+     rules and gamestate; however, a proposal's Power for this purpose
+     is equal to its AI. (Note: After text, AI is the most important
+     attribute of a proposal, which you almost certainly need to set
+     to the correct value by hand. A quick guide to setting proposal AI
+     correctly: enacting a rule requires AI of at least the Power of
+     the new rule, amending, repealing, or repealing a rule requires
+     AI of at least the Power of that rule, mutating a rule to a
+     higher Power needs an AI of at least that higher Power, and
+     mutating a rule to a lower Power requires an AI of at least the
+     rule's original power. If you want to do more than one thing with
+     a proposal, set the AI high enough to do everything there.)
+2153 Various entities have interest indices from 0 to 3, which ought
+     to be set so as to reflect how complex they are. (Note: Interest
+     indices tend to determine how much attention is paid on things,
+     and people tend to be rewarded more for highly interesting things
+     that they do or are responsible for.)
+2224 When submitting a proposal, you can set its interest index; you
+     should set it to 0 for a trivial proposal that corrects errors
+     and ambiguities, or higher for other proposals.
+1607 Votes on proposals are initiated by the Promotor, which must be
+     either within the week after it was submitted, or earlier. (Note:
+     in practice, proposals are generally distributed in batches, when
+     enough of them accumulate.)
+
+Voting
+======
+How to vote on proposals and elections.
+
+ 639 Decisions must be initiated, then votes happen on them, then they
+     are resolved, in that order.
+ 107 A decision can only be initiated by someone authorized to do so
+     (Note: the Promotor for proposals, the IADoP for elections), and
+     they must give all the relevant information. The voting period
+     starts at 7 days.
+ 683 You can vote on a decision by announcement; voting multiple times
+     is legal, but only a certain number of your votes (1 by default)
+     will count on any given decision. Your first votes take
+     precedence over later votes, but you can revoke earlier votes so
+     that later votes apply. You can only vote during the voting
+     period, even if the decision hasn't been resolved yet.
+2127 Votes can also be conditional; conditional votes are evaluated at
+     the time the decision is resolved, and don't count at all unless
+     it's reasonable to determine what they evaluate to.
+2196 The possible votes on a proposal are FOR, AGAINST, PRESENT.
+     Decisions about proposals are democratic (if the proposal has an
+     AI of 2 or more), or ordinary by default (otherwise).
+2142 An ordinary decision can be changed to democratic with 2 support.
+1950 On democratic decisions, only active first-class players can
+     vote, and only 1 of their votes can be valid.
+2156 On ordinary decisions, all players can vote; they get 0, 1, 2, 3,
+     5, or 8 valid votes depending on their Caste. (Note: New players
+     start with a Caste of Epsilon = 1 vote; you can change Castes by
+     spending Notes.)
+ 208 Decisions don't take effect automatically, but instead when the
+     vote collector resolves them (which must be done within a week
+     after the voting period ends). The resolution must contain all
+     the relevant information.
+ 879 Quorum is 1/3 of the eligible voters on the decision, rounded up,
+     and at least 5 unless there are fewer than 5 eligible voters.
+ 955 A proposal passes only if the ratio of FOR to AGAINST votes (the
+     voting index) is positive, and at least equal to the proposal's
+     AI. Elections are by simple majority. In both cases, a decision
+     must pass quorum for anything to happen as a result of it; all
+     votes (including PRESENT) count towards quorum, but only one vote
+     per voter.
+2154 Votes are also run for officer elections; you can nominate
+     yourself (or anyone else, if they accept your nomination); after
+     four days of nominations, voting for the office opens and
+     nominations for the office close. All this activity is restricted
+     to Senators, rather than players, during an emergency.
+2168 The first time a decision fails quorum, the voting period is
+     doubled to allow more people to vote; when quorum is reached, the
+     voting period can be ended by the vote collector.
+
+Resolving disputes
+==================
+Agora's mechanisms for resolving unknown gamestate. One important note
+is that inquiry cases have no power of their own to affect the
+gamestate; instead, they're used to establish what the general belief
+is as to what the gamestate is. Such beliefs normally end up ratifying
+after a while because official reports are generally based on them.
+
+ 101 ii) The rules guarantee that some dispute-resolution mechanism is
+     always available. This rule is a protection that means you can
+     always appeal a punishment on you, and always seek judgement on a
+     dispute.
+ 991 Calls for Judgement ("CFJs") are used to resolve controversies;
+     they have ID numbers (unless appeals), and the CotC tracks them.
+2243 A player who submits a CFJ can instead submit it to the
+     Justiciar, in which case the Justiciar must perform all of the
+     CotC's duties with respect to it, rather than the CotC.
+2224 CFJs have interest indices, set by their initiator, and which can
+     be changed without 2 objections.
+1868 If a CFJ needs a judge but doesn't have one, the CotC must assign
+     a judge to it within 7 days. A CFJ can only have one judge at a
+     time.
+2175 CFJs can be retracted by their initiator if no judge has been
+     assigned to them; they can also be refused by the CotC if it is
+     the sixth or later CFJ initiated by its initiator that week.
+2158 A judge must assign a judgement to a CFJ within 7 days; the
+     judgement must be of a sort defined by the rules, and should be
+     an appropriate judgement for that CFJ.
+ 591 Disputes about the gamestate are handled by inquiry cases. A
+     player can initiate an inquiry case by announcement, specifying
+     the statement they're enquiring into; the initiator cannot be its
+     judge, and the initiator can also bar one other person from
+     judging it. The possible judgments for an inquiry case are FALSE,
+     TRUE, UNDECIDABLE (neither false nor true, such as a paradox),
+     IRRELEVANT, UNDETERMINED (if there is insufficient information to
+     make a judgement, or the CFJ statement is nonsensical), and
+     MALFORMED (if the statement is not actually a statement).
+2169 Disputes about a contract are handled by equity cases. A player
+     can initiate an equity case by announcement, specifying a
+     contract they're party to, and what went wrong in the contract;
+     the initiator must also list the parties to the contract. The
+     CFJ is judged with a set of requirements that all the parties to
+     the contract must abide by; breaching those requirements is
+     illegal, and such breaches can be remedied either by criminal
+     punishment or by the judge acting on behalf of the parties. Any
+     party to the contract can appeal an equity case.
+2205 The initiator, defendant in a criminal case, parties in an equity
+     case, and judge, should all submit arguments about and evidence
+     relevant to CFJs.
+2157 Judicial panels are collections of multiple persons.
+ 911 Appeal CFJs are created by appealing a CFJ (by any player with 2
+     support, or sometimes by other methods specific to a type of
+     CFJ); such CFJs are judged by judicial panels of three players,
+     each of which must give a separate judgement (and the majority
+     judgement is taken, defaulting to REMAND). The possible
+     judgements are AFFIRM (don't change the judgement), REMAND
+     (reopen the question and ask the original judge to rejudge),
+     REASSIGN (assign the case to a different judge), and OVERRULE
+     (replace the judgement directly).
+
+Criminal punishments
+====================
+What happens if you break the rules.
+
+2228 Rests are the basic unit of punishment in Agora; they're
+     negative-valued assets that you can't get rid of without spending
+     Notes (2 Notes remove one Rest). You can give yourself Rests, if
+     you want. (Note: Players generally only give themselves Rests if
+     required to by a contract as a punishment for something they did
+     in it.) If a partnership would gain Rests, they're given to its
+     members instead.
+2229 The more Rests you have, the more privileges you lose. A player
+     with any Rests cannot win; a player with at least 8 Rests cannot
+     spend Notes except to remove Rests; and a player with 24 Rests is
+     exiled from the game, deregistered and unable to become a player
+     until the Rest count reduces below 6. (While a person isn't a
+     player, they lose half their rests every month until they only
+     have 1 left.)
+2230 You can report a rules breach by publishing a Notice of Violation
+     about it, with information about the Accused, what illegal action
+     or inaction they performed, which rule they broke, and the size
+     of the default punishment for the breach (the rule's Power,
+     unless otherwise defined by that rule). It's illegal to publish
+     an NoV with incorrect information. NoVs can be contested within
+     the four days after they're published, or via a CFJ; if
+     uncontested, anyone can close them (or the Accused can close them
+     early), causing the default punishment to be applied to the
+     Accused, in Rests.
+2239 However, an NoV is invalid if it alleged a rules breach that
+     happened before the adoption of rule 2239.
+1504 Criminal CFJs can be called about alleged rules breaches, by
+     an announcement specifying the relevant NoV. The possible
+     judgements on the CFJ are GUILTY and NOT GUILTY; the Accused is
+     guilty if the breach happened, was committed by the Accused,
+     breached the rule specified, happened within 90 days before the
+     CFJ was called, was not punished for that act/rule combination
+     earlier, could have avoided committing the breach, and could not
+     have believed that the act did not violate the rule (despite
+     knowing the contents of the rule). The judge must also judge a
+     sentence for guilty players: DISCHARGE (no effect), APOLOGY (the
+     player gains 3 rests unless they publish an apology within a
+     week), and SILENCE (default punishment in Rests, which can be set
+     to another value from half to double the default punishment with
+     2 support.) Criminal cases can be appealed by the accused; the
+     verdict and sentence can be appealed separately.
+ 101 vi) No breach of the rules can be punished more than once.
+
+Judge eligibility
+=================
+
+1871 Players can be standing (eligible to judge), sitting (ineligible,
+     but becomes standing when there are no standing players yet),
+     leaning (ineligible to judge, but can serve on appeals panels),
+     or supine (ineligible to judge). You can become sitting, leaning,
+     or supine by announcement, become sitting if assigned to judge a
+     case, and become supine if recused from a case due to lateness.
+2204 A player can be assigned simultaneously to multiple cases, and
+     only becomes sitting upon the last assignment.
+2203 Players can also be hanging (cannot judge inquiry cases),
+     hugging (cannot judge criminal or equity cases), hemming-and-
+     hawing (can judge all sorts of cases), or hovering (like hanging,
+     but can judge inquiry cases if nobody else is available). Players
+     can change this by announcement.
+2226 As one final judicial eligibility classification, players have a
+     judicial rank (0, 1, 2, or 3), which determines the highest
+     interest index of case they can judge, can be flipped by
+     announcement, and goes down by 1 if a judgement by that player is
+     overruled.
+2164 Judges can recuse themself from cases they are assigned to (upon
+     which it's transferred to someone else instead by the CotC), and
+     can transfer a case to someone else, as long as the new judge
+     immediately assigns a judgement to it.
+
+Recovery
+========
+How Agora deals with things going wrong, and with invasions.
+
+ 217 Although the rules are the final word on the issue, if the rules
+     are silent, inconsistent, or unclear, then the decision about
+     what to do is based on game custom, common sense, past
+     judgements, and the best interests of the game.
+2177 A Senator is a player who's been registered for at least 60 days;
+     Senators can call an emergency with 2 Senate support, and end one
+     without 3 Senate objections (or they end after 21 days if not
+     ended manually). During an emergency, Senators can block
+     proposals from passing with 2 Senate support (and unblock them
+     again with 4 Senate support), and non-Senators can't judge.
+     (Note: this rule is designed to protect Agora from an invasion by
+     a large number of new players.)
+2160 If an officer is late in their duties, or an office doesn't have
+     an officer, then any player can perform their duties on behalf of
+     the office ("deputisation"). In the case where there is an
+     active, although late, officer, then two days' notice must be
+     given.
+1551 Messages can be "ratified", which changes the gamestate to what it
+     would be if they were correct at the time they were published.
+     (Note: In other words, history isn't chagned, but this means that
+     if reports start failing to reflect reality and nobody notices,
+     the gamestate will change to match the beiliefs of its players.)
+     In order to ratify something by proposal, you need an AI of at
+     least 3.
+2202 It's possible to ratify an official report without objection;
+     however, this does not modify the rules even if the report
+     mentioned them, and attempting to ratify something you know is
+     incorrect is illegal.
+2201 Various reports are self-ratifying; if nobody points out an error
+     in them within a week (specifying "Claim of Error", nearly always
+     in practice abbreviated to "CoE"), nor calls a judicial case
+     about a legal interpretation issue in the report, then the report
+     is automatically ratified.
+2212 In certain circumstaneces, judges can make declarations as part
+     of a judgement, which self-ratify.
+
+Security
+========
+Things that block attempts to abuse the rules. (Note: abusing
+loopholes in the rules to gain an advantage ("scamming") is generally
+accepted, although some people enjoy that sort of play more than
+others; breaking the rules to gain an advantage is a lot more
+controversial, some players consider it cheating whereas others
+consider it legitimate as long as you accept the punishment.)
+
+1482 If there is a contradiction between two rules, it's the more
+     powerful rule whose opinion is taken. Also, it's impossible to
+     change the rules to say otherwise, without amending this rule
+     first to remove the protection.
+1030 If there is a contradiction between two equally powerful rules,
+     the one with the lower ID number gets the say as to what to do,
+     unless the rules themselves specify a method of resolving the
+     contradiction.
+2240 If a rule tries to prevent its own effect in a paradoxical
+     manner, then earlier text in the rule overrides later text.
+2125 This rule basically lists the circumstances in which something is
+     considered relevant to the game, and thus only possible or legal
+     if allowed by the rules: anything the rules specifically forbid,
+     anything the rules allow only in certain circumstances, anything
+     the rules require a player to track, and anything else determined
+     as such in a court case.
+2222 It's never possible for one person to have more than 8 valid
+     votes on a decision; no more than 1 if the decision is
+     democratic.
+1450 Nobody can simultanesouly be Promotor and Assessor.
+1698 No change to the rules can make it impossible to make arbitrary
+     rule-changes within a 4-week period.
+
+Miscellany
+==========
+Things which are rather hard to classify.
+
+2221 Players can fix spelling and grammar problems without objection.
+1789 You can deregister dramatically by submitting a document labeled
+     as a Cantus Cygneus to the Registrar, detailing your grievances
+     and reproach against the Agoran community in general. That method
+     of deregistration has to be reported in future reports, unless
+     you reregister. (Note: this rule is mostly a contrived attempt to
+     construct a rather bad pun, but is nevertheless occasionally
+     useful in practice.)
+1769 There's a Holiday from 24 December to the first Monday after 2
+     January each year; you don't have to do things during a Holiday
+     or up to 72 hours after, and in fact distributing proposals or
+     judging during a Holiday is illegal.
+
+Foreign relations
+=================
+2200 A nomic is an entity defined by a nomic ruleset, which is a set
+     of rules which contain means for arbitrary amendments to them.
+2148 The Ambassador is responsible for relations with foreign nomics,
+     and can take actions in them with Agoran Consent. No player may
+     legally falsely claim to be the Ambassador to another nomic.
+2185 Foreign nomics can be recognised by Agora; the Ambassador can
+     switch their Recognition between Unknown, Protected, Friendly,
+     Neutral, Sanctioned, Hostile, and Abandoned. Only protectorates
+     can be Protected, and they must be.
+2147 Protectorates are foreign nomics whose rules are set up so that
+     Agoran decrees can alter their rulesets arbitrarily.
+2159 Protective decrees, that alter the gamestate of foreign nomics,
+     can be created by AI 2 proposals, and should always be
+     benevolent.
+2206 Players can export assets to foreign nomics by destroying them;
+     when doing so, the foreign nomic must be informed.
+2207 However, it's illegal to export an asset to a nomic which is not
+     Protected, Friendly, or Neutral.
+
+Officer Duties
+==============
+Things that you only have to worry about if you become an officer. The
+duties generally vary from officer to officer. These rules are very
+summarised here and only mention major obligations, not all the
+minutae of being an officer; therefore, if you plan to become an
+officer, read the rules pertaining to that officer carefully before
+applying.
+
+1681 There are two forms of the rules; the SLR, which contains the
+     minimum information necessary, and the FLR, which contains
+     history and useful annotations.
+1051 The Rulekeepor must publish the SLR weekly and the FLR monthly.
+2216 The Anarchist must submit a proposal to repeal 1 to 3 rules from
+     a random selection of 5 each week.
+2139 The Registrar must publish a list of players weekly, including
+     information sufficient to identify and contact them, and the date
+     on which they became players.
+2181 The Accountor must publish, once a month, a list of all the types
+     of assets in existence, except those defined by private
+     contracts, and who the recordkeepor for them is.
+2137 The Assessor is responsible for tracking votes.
+2135 The Ambassador is responsible for updating the nomicwiki page
+     about Agora to contain correct information, once a month.
+
+Common Sense
+============
+Things that should be obvious or are not particularly unusual or
+surprising, but are listed explicitly anyway because arguments tend to
+come up about them anyway or to prevent people gratuitously violating
+custom.
+
+2141 It's the rules, rather than anything else, that govern play. A
+     rule has a Power from 1 to 4 inclusive, an ID number, and a
+     title.
+1586 If the rules defining something change, then it changes too to
+     satisfy the new rules, without being destroyed. If the rules
+     defining something are repealed, it ceases to exist. Also, you
+     can't rename rules-defined or contract-defined entities to cause
+     a clash of names, nor is it effective to try to rename things to
+     make rules or contracts mean something else.
+2150 Biological organisms capable of communicating by email in English
+     are considered to be persons ("first-class" persons); although
+     other rules can define other sorts of person (normally legal
+     constructs), such persons are considered "second-class". (Note:
+     This summary is mostly concerned with first-class persons; a
+     second-class person has a somewhat more difficult time, generally
+     being given less useful free stuff by default and incapable of
+     doing certain unbalancing actions.)
+ 754 You're allowed to use synonyms, different dialects, and spelling
+     and grammar  variations (Note: typos are also generally
+     considered to fit within this category), without changing the
+     meaning of what you write, as long as it's unambiguous. The
+     meaning of things is determined by looking at definitions in the
+     rules (although definitions in low-powered rules are used only
+     for guidance when interpreting high-powered rules), or otherwise
+     by natural-language meanings.
+2161 Various things have ID numbers, which have to be assigned in
+     ascending order starting from 1 unless there's a good reason not
+     to. An appropriate officer is normally responsible for assigning
+     them. (This rule also contains information about what to do if
+     someone breaks the ID number rules.)
+2146 Indices are real numbers, with positive and negative infinity
+     included. This rule also defines how to compare and calculate
+     with them. (Note: They're used, for instance, to determine how
+     successful a proposal was; having explicit calculation rules is
+     useful to be able to state that a unanimous proposal had more
+     than the voting index 1 it might have needed to pass, for
+     instance.)
+2162 Switches are properties which can only have one of a defined set
+     of values; they can't have multiple values at once, and have a
+     default value they gain if they would have no or an illegal
+     value.
+1006 Offices are rules-defined roles; most are elected, and can be
+     resigned by their holder.
+2143 Offices have defined duties; official duties need to be perfomed
+     once per week unless otherwise specified, and information tracked
+     by officers needs to be published in reports (which must be
+     accurate and non-misleading).
+2227 Offices have interest indices.
+2138 The IADoP is responsible for keeping track of who holds which
+     office, and how long they've held it.
+2217 If nobody is holding an office, the IADoP has to nominate one or
+     more players for it.
+
+Rules that only give advice
+===========================
+Some rules don't bind anything, but give advice to players or are kept
+for historical reasons.
+
+1750 It's recommended that players read the ruleset during the first
+     week in February, or at least have a good reason not to.
+1727 Agora's birthday is on June 30.
+2215 Agora has an escutcheon, and a motto.
+2105 As far as I know, the map has no significance on gameplay.
+     (Note: for a while, it was traditional for players gaining
+     low-powered control over the ruleset to add themselves to the
+     map, but that tradition seems to have lapsed recently.)
+2029 The Town Fountain, which was placed there by a scam. Despite
+     being the most powerful rule in Agora, it has no obvious effect.
+ 104 For the very first game, Michael Norrish was the Speaker.
+     (Note: Yes, this fact is of nothing but historical interest
+     nowadays. However, this rule has much bigger value in that it's
+     the only rule which was in Agora's initial ruleset and has never
+     been amended ever; many players treat it as a sort of sacred
+     relic to be treasured, as a result.)
+
+----------------------------------------------------------------------
+
+So, what can we learn from this? Agora's ruleset is not as daunting as
+the statistics may indicate, although before now, there was no form of
+the ruleset which really worked at giving an introduction to the game
+for a new player. I hope this summarised ruleset is helpful,
+especially to new players, for grasping what Agora is like in a
+reasonable length of time, and why knowing all the rules is really not
+that essential. But even to experienced players: you know, February is
+not the only month in which you're allowed to read the rules in full,
+and if you have the time it can often be very rewarding.
