@@ -1,0 +1,193 @@
+(Degree status unknown)
+
+PRE-HISTORY
+
+Agora's initial rules [1] omitted Suber's concept of players acting in
+groups, but the concept was re-introduced within a few months by Deb
+and Bob, who effectively acted as a single player. [2] [3]
+
+The rules were soon amended to define Groups (for exercising joint
+influence over the game in general), Contests (for awarding Points
+toward a win), and Contracts (for enforcing agreements).  These were
+generalized into Organizations, leading to 1995's Mousetrap [4] which
+attempted to place obligations on players against their will; the rules
+were amended to prevent this, and the issue has not significantly
+arisen since.  Organizations were replaced with Subordinate Legal
+Contracts, but the specific sub-types remained largely the same
+(Contracts were apparently renamed to Agreements at some point).
+
+Recursiveness and non-disclosure were explored by 2001's UNDEAD Group,
+which responded to forced non-disclosure by automatically copying its
+private text to a new agreement and then amending itself to do little
+besides refer to the new agreement, thus obeying the letter of the
+requirement while violating the spirit.
+
+Groups were replaced with mostly-random Teams (with Team wins triggering
+a pair of trades) during 2003 and 2004, while Contests waxed and waned
+depending on whether Points were currently in political favor.
+
+LONG-TERM
+
+Pineapple Partnership
+---------------------
+
+In February, CFJs 1613 through 1616 questioned whether non-human
+entities (e.g. pineapples, avocados, as well as humans claiming to be
+avocados or blobs or what have you) were recognized as persons.  Shortly
+afterward, the Pineapple Partnership [5] (Goethe and Zefram, the callers
+of these CFJs) registered as a player, formally establishing the concept
+that legal persons backed by agreements might be able to do so.  Its
+control mechanism (either partner could control the partnership with the
+other's support, or without eir objection within one day) became a
+common template.
+
+Goethe was replaced by Eris in May, testing the continuity of
+partnerships through changes in membership, as well as the ramifications
+of failing to disclose the details of such changes.
+
+Pineapple became de facto inactive in August, and de jure in October.
+
+Human Point Two
+---------------
+
+Human Point Two (Murphy and Quazie, later OscarMeyr) registered in
+April, copying (with credit) Pineapple's control mechanism.  It became
+de facto inactive in September when Murphy left, and de jure in October.
+
+Primo Corporation
+-----------------
+
+Primo Corporation [6] registered in May, using a fundamentally different
+control mechanism:  only CEO BobTHJ could directly control it, but
+the agreement functioned as an active sub-nomic (with each shareholder
+having a number of votes equal to eir shares) and partly directing the
+CEO's actions.
+
+Primo was the first partnership to have another partnership as a member,
+as well as the first partnership to attempt to participate in another
+nomic; in June, it attempted to register as a player of B Nomic,
+prompting B to define factions as repositories of voting clout but not
+persons. [7]
+
+Primo became de facto inactive in July, and was dissolved by Issue
+(internal proposal) 26 in October.  This tested the clause requiring
+unanimous partner agreement, as one of the partners voted against the
+dissolution (but was decided to have agreed in the larger sense to
+Primo's charter allowing simple majority approval).
+
+Association of Federated Organizations
+--------------------------------------
+
+The Association of Federated Organizations (comex, Levi, and Murphy;
+later pikhq) registered in September, allowing any member to control it
+without prior consultation.  In practice, even the short one-day wait
+used by Pineapple and its imitators led to relatively low activity, as
+each partner had to keep track of eir own intent on an ongoing basis
+every time e wanted to make the partnership do something; by eliminating
+this, the AFO became more agile, while still retaining some ability for
+partners to overrule one another (e.g. by retracting votes or, more
+recently, CFJs).
+
+During Murphy's brief deregistration, the AFO was the first partnership
+with a non-player member (previously attempted by Bob's Quality Cards,
+see below; Primo narrowly missed it with bd_, who was introduced via
+B Nomic, but registered in Agora before becoming a shareholder).
+
+The AFO has attempted multiple contest scams involving subsidiary
+partnerships, and was used to scam a bug in the Marks rule and mint the
+equivalent of over 100 Blue Voting Credits (though this scam could have
+been executed just as easily without it).  This prompted a proposal to
+repeal partnerships, which is losing in the polls as of this writing.
+
+The AFO also claimed to register as a player of B Nomic, prompting a
+re-examination of the player and faction rules adopted in response to
+Primo's previous attempt. [8]
+
+Fookiemyartug
+-------------
+
+Fookiemyartug, fronted by BobTHJ on behalf of an undisclosed set of
+non-players, registered in October.  This was questioned in CFJ 1779,
+which was judged TRUE on the basis of BobTHJ's explicit testimony that
+it was indeed a person, and for lack of evidence to the contrary.
+
+SHORT-TERM
+
+Second-System Effect (Eris and Murphy) registered in May to explore the
+ramifications of an anonymous partner (Eris had planned to publish
+messages from a second address for the purpose), but soon dissolved
+after Pineapple beat them to the punch with the Goethe/Eris swap.
+
+Human Point Three through Human Point Fourteen came and went in May,
+effectively minting voters for a scam proposal to give Human Point Two
+a win.  Yin Corp and Yan Corp (Quazie and Zefram) came and went later
+in the month, further exploring the potential paradoxes of recursive
+memberships.
+
+The Hanging Judge (comex and Zefram) registered in May to work around
+a bug in the judicial rules, which left all other players ineligible
+to be assigned as judges.  It deregistered in June after the bug was
+fixed.
+
+The Host (Levi and Murphy) came and went in August, effectively minting
+contestmasters to give Levi a scam win on points.
+
+UNSUCCESSFUL
+
+root attempted to register square root (a partnership of one player,
+emself, acting as a corporation sole); this was quickly followed by
+Zefram attempting to register Nemo (a partnership of zero players,
+acting as a soulless corporation).  CFJs 1682 and 1683 held that
+agreements must be made among two or more players.
+
+BobTHJ attempted to register Bob's Quality Cards (a Colorado partnership
+with John Chapman) and Gunner Nomic 2.0 in June.  CFJ 1687 held that
+Colorado law was incompatible with the Agoran rules, and CFJ 1696 held
+that Gunner Nomic 2.0 was never a partnership because it was never
+intended to be governed by Agora.
+
+AMBIGUOUSLY SUCCESSFUL
+
+comex claimed to register Big Brother in September; this was questioned
+in CFJ 1744, which was judged UNDETERMINED for lack of evidence.  Its
+only purported action to date is an election vote.
+
+GENERAL OBSERVATIONS
+
+The obvious risk of partnerships is much the same as that of real-life
+corporate politics, namely that the democracy/meritocracy can be
+subverted by partners creating and manipulating additional legal
+persons.  In contrast, recruiting and directing an equal number of
+human confederates is relatively difficult in practice.  This has led
+to partnerships being defined as non-first-class (limiting their ability
+to vote and judge), and with their underlying basis of first-class
+persons subject to examination (allowing redundant partnerships to be
+forcibly deregistered).
+
+In theory, partnerships are based on the Contracts/Agreements
+rules.  In practice, they usually impose only a general obligation to
+ensure that the partnership's obligations are satisfied (a condition
+of being a partnership), and their role is otherwise closer to that of
+Groups/Teams (to give their members additional powers).  Agreements to
+perform specific actions are often informal, often obeyed, and thus not
+often required to be examined in public at all, much less become
+partnerships; the rare exceptions to this trend include CFJ 1325 (in
+which Lindrum deregistered before fulfilling some obligations), and
+some low-stakes cases deliberately created by Murphy and the other AFO
+partners to test the new equity court.
+
+REFERENCES
+
+[1] http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt
+[2]
+http://www.mail-archive.com/agora-discussion@agoranomic.org/msg01521.html
+[3]
+ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/lib-vlad2.html
+[4] http://www.nomic.net/~nomicwiki/index.php/MousetrapThesis
+[5] http://www.nomic.net/~nomicwiki/index.php/PineapplePartnership
+[6] http://groups.google.com/group/primo-corporation
+[7]
+http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200706/msg00071.html
+[8]
+http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200711/msg00142.html
+
