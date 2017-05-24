@@ -1,0 +1,172 @@
+(Degree status unknown)
+
+The Propositional Nomic
+an Agoran Thesis
+by Sean "coppro" Hunt
+
+Please note that this thesis requires UTF-8. I also apologize if my idea
+is not novel; a cursory search indicated it was, but such things are
+frequently misleading.
+
+Nomic is, by its own title, the Game of Self-Amendment. And yet, it is
+so much more. Nomic is every game that ever was, every game that will
+be. And yet, Nomic is none of these. Every nomic has aspects in common,
+such as a dispute-resolution system (of some nature), and a victory
+system (of some nature). Nomics tend to fulfill different roles
+depending on the medium and intent of the game - a face-to-face game,
+for instance, will likely grow a ruleset that allows it to end with a
+victor, while an email game often finds itself ending only when it lies
+decaying and unloved (and consider what the Agoran populace would say if
+you attempted to declare someone the Grand Winner of Agora, ending it).
+
+The one thing, however, that is truly common to every nomic, and that is
+pedanticism. Nomicites (as they are sometimes called) will all-too-often
+(or perhaps not often enough, if you enjoy it) argue over the most
+trivial of points - whether it is timing, phraseology, or the sort of
+coup that has now enterend the annals of nomic history as a "Lindrum".
+The devotion to the fine print does vary from game to game, as in some
+nomics it's acceptable to retroactively erase a misunderstanding
+(Agora's ratification process is an execellent is example), whereas in
+others, the rules must be followed to the letter (most famously in B
+Nomic, where more than a year's play was erased after the discovery of a
+misinterpretation of the rules).
+
+Is it possible to have a nomic where pedanticism not an integral part of
+the gameplay? I don't think so. I do believe, however, that it is
+possible to create a nomic where a formal system of logics can be used
+to determine the effects of the rules. The most interesting aspect of
+codifying a nomic (as redundant as tha tseems) is the temporal aspect.
+Systems of temporal logic are typically very complex and hardly
+understandable to the casual viewer.
+
+Suppose the following proposition were a rule, with P being the set of
+players, and A(x) meaning that a player is active (i.e. it is their
+turn). Standard mathematical symbols are used (this may be confusing to
+computer programmers; not in particular that the stroke | indicates
+NAND rather than OR).
+
+    (∃(p ∈ P)(A(p))) ∧ (∀(p ∈ P)(∀(q ∈ P)((p = q) ∨ (A(p) | A(q)))))
+
+This proposition reads, in logically-minded English "For some player p,
+p is active, and for all players p, and for all players q, either p is q
+or it is not the case that both p and q are active" This can be
+simplified down significantly in English, until we get to "Exactly one
+player is active." A set-theoretic definition is also an
+option:
+
+    |{p|(p ∈ P) ∧ A(p)}| = 1
+
+This assertion is that "The cardinality of the set of all p such that p
+is a member of the set of players and that p is active is one." Once
+again, this mathematical definition can be simplified down to "Exactly
+one player is active."
+
+So let's take a little step back? Is this really helpful? All I've gone
+and done is used a bunch of complicated and funky symbols to say
+something that took five words. Did we really gain anything?
+
+We haven't really gained anything here. Instead, we've forced ourselves
+to make a step we wouldn't otherwise have taken - we've forced ourselves
+to be explicit. The mathematical formulation had no benefit in this
+case, but we've stated explicitly a fact often taken for granted - and
+facts taken for granted are often the culprits for rules issues. In
+general, such is the case with nomic - formalizing the rules into
+mathematical symbols is not strictly necessary, but can improve the
+explicitness of the rules.
+
+However, we've gained something else here. When you consider those two
+assertions I made earlier in the context of formal logic, you discover
+something else. You don't need to take them for granted. Rather, treat
+them as propositions which are not necessarily true. Call the earlier
+statements about player activity R1 (remember, they're equivalent).
+Suppose wanted to add a rule that said that any number of players could
+be active on Tuesdays. Add an additional definition - that DOW() is the
+day of the week as a number (0 = Monday, 6 = Sunday), and you could have
+the following rule:
+
+    R1 ↔ (DOW() ≠ 1)
+
+And voila, you have now stated that R1 does not apply on Tuesdays. Using
+this as a framework, I present to you the following basic framework
+which could be used to construct what I call a "propositional nomic":
+
+  1. This game is defined by a set of rules. Each rule is either a
+     metarule, a definition, or a proposition.
+  2. Metarules are in plain English, and provide the general framework
+     of the game. Metarules each have a number.
+  3. Definitions are have a value of some sort (not necessarily a number
+     or truth value), and may not reference propositions. Each
+     definition shall have a name with which it can be referred, and may
+     have a variable value (determined by a set of parameters or state
+     outside the game).
+  4. A proposition is a statement of truth. A proposition is interpreted
+     mathematically and may or may not be true. Each proposition has a
+     natural number associated with it; the first proposition has the
+     number 1, and each subsequent proposition has the following natural
+     number. A proposition may be referred to as P1, where P is its
+     number.
+  5. A definition or a proposition is referred to as an f-rule.
+  6. A metarule may define constructs to be referenced in f-rules.
+  7. No f-rule may be introduced nor amended such that a circular set of
+     references within the f-rules would be created, and no f-rule may
+     be introduced nor amended that is self-contradictory.
+  8. A terminal proposition is a proposition that is not referenced by
+     any other proposition.
+  9. For the purposes of this metarule, let N be the number of
+     propositions that are true and let M be the sum of their
+     associated numbers. Together, they cannot have values that would
+     lead to a logical paradox or uncertainty. N always has its maximal
+     value, and M always has its maximal value for a given value of N.
+     [ This is a precedence rule with a "majority rules" effect. ]
+ 10. This game has a temporal aspect. The set of values referred to but
+     not defined by the rules (including the text of the rules) or the
+     outside environment are collectively referred to as the game state.
+     The game state has whatever value it most recently had, except
+     where an unique amendment or set of amendments is necessary to
+     satisfy metarule #9. The game state is constantly reevaluated until
+     no change is necessary. If the game state is stuck in an infinite
+     loop, the last player to do something which affected the game state
+     wins.
+
+This small ruleset is designed to be very strongly specified, and should
+rarely, if ever, bear amendment. The majority of the game's meat would
+be contained within the definitions. Paradox is generally avoided with a
+strongly-defined precedence system and an explicit prohibition against
+circular reference. A temporal paradox wins a player the game, in
+traditional nomic fashion (though the method of selection could be
+better; it was written to provide a quick-and-dirty fix).
+
+An example set of definitions and propositions is provided below.
+
+  Pl(p) is true if p is a player.
+  P is the set of all persons.
+  Post(t, p) is true iff t is a text and p is a person and, since the
+    last evaluation of the game state, p has posted a message with text
+    t.
+
+ P1: ∀(p ∈ P)(Post("I register.", p) → Pl(p))
+ P2: ∀(p ∈ P)(Post("I deregister.", p) → ¬Pl(p))
+
+This very simple system provides a framework for players to register and
+deregister. If a person posts a message reading exactly "I register.",
+then P1 would be false if that person was not a player. The game state
+can be amended to make it true, so the game state is amended to make
+em a player. This is not a particularly detailed example, but exists to
+show how a propositional system can be used to introduce amendments to
+game state. Note that if a given message would cause an ambiguous change
+to the game state, metarule #9 will step in to prevent this from
+happening.
+
+While I don't believe that a propositional nomic (at least given my
+sample ruleset) would be a very easy game to play, it would provide a
+very interesting experience. There are probably flaws with my metarules
+as formulated, but that is not in the design - the idea is that they are
+supposed to be airtight and provide a framework under which the
+definitions and propositions can have contradictions, but never such
+that they are fatal to the game.
+
+Different rule frameworks can provide different insights into Nomic, and
+I hope that my suggestion of a propositional nomic here has been
+enlightening to you.
+
+Thank you for taking the time to read this.
