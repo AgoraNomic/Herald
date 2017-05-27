@@ -1,0 +1,76 @@
+Actions in Nomic
+by Publius Scribonius Scholasticus 
+Draft for Peer Review submitted May 27, 2017
+
+First, we must define what an action is before we can classify them. We find the most recent definition of an action in CFJ 3511, in which Gaelan defines an action as anything fulfilling the common English definition of action. However, I expanded on this in CFJ 3515 defining an action as "any rule-defined or non-rule-defined verb”. However, nichdel has brought to my attention the flaw in this reasoning, therefore at this time I would define an action using Merriam Webster's definition 1B as "the accomplishment of a thing usually over a period of time, in stages, or with the possibility of repetition.” [1]​ All actions we take in Agora accomplish a thing and this seems to adequately capture what we mean by action in Agora. From this, we as a game can take a lesson that sometimes definitions of common words should be left to the experts.
+
+Second, let us consider actions in Suber’s original ruleset [2]. In Suber’s original ruleset, actions are not explicitly mentioned. However, all actions fall into one of two categories: regulated or unregulated. Regulated actions are actions which are defined in the rules. The Unregulated rules are too broad to allow classification, therefore we will look only at the regulated actions. All Regulated actions fall into two further categories: those actions which may be done individually and those actions which may be done only with permission of the group. In the first category are actions such as disseminating information to the group or invoking judgement. In the second category are actions such as changing the rules. Interestingly, Suber’s ruleset leaves very basic actions such as joining or leaving the game unregulated allowing them to occur in any manner.
+
+Third, let us classify Agoran actions. Agora actions are like the actions of Suber’s original ruleset. All actions fall into one of two categories: regulated or unregulated. However, here we get into many more types of actions than in Suber’s ruleset. The primary categories of actions are actions done by announcement, actions done with support, actions done with notice, and actions that automatically occur. Actions done by announcement are actions that occur by virtue of someone stating that they occur. However, many actions before they can be taken by announcement must have support as described in Rule 1728(/35). These are actions, which require consent from other players or lack of objection from other players before they can occur. Other actions must have notice issued before they can be done my announcement. These are actions that require a certain time period to pass between the player stating that they will take an action and when they actual take the action. Finally, a completely separate set of actions are actions, which occur automatically and without any players doing anything. The primary example of this is the Payday procedure laid out in Rule 2484(/2). Additionally, are qualifiers on who can take an action. In Agora the various categories which may take actions are entities, players, persons, non-player persons, organizations, subsets of players, and Agora. In Appendix A, a discussion can be found of what types of actions should have what attributes. In Appendix B, a list of all actions defined in the ruleset can be found.
+
+Finally, let us conclude that actions are hard to define and have various attributes including how they may be performed, who may perform them, when they may be performed, and what effects they may have.
+
+**Appendix A**
+
+Below is a table showing along the left a list of groups who can take actions and along the top a list of methods by which actions can be performed. In the cross sections are a list of qualifiers for the actions that in my view should fall into that category. Below the table is a written explanation of the table with additional reasoning to explain recommendations.
+
+╔═══════════════╤═════════════════════════════╤═════════════════════════════╤═══════════════════════════════════════════╤═══════════════════════════╗
+║               │ By Announcement(1)          │ With Support(2)             │ With Notice(3)                            │ Automatic(4)              ║
+╠═══════════════╪═════════════════════════════╪═════════════════════════════╪═══════════════════════════════════════════╪═══════════════════════════╣
+║ Entities(A)   │ -Status-amending actions    │ None                        │ -Agreements and Agreement-changing actions│ -Reception and Possession ║
+╟───────────────┼─────────────────────────────┼─────────────────────────────┤                                           │                           ║
+║ Persons(B)    │ -Status-amending actions    │ -Rule-changing actions      │                                           │                           ║
+╟───────────────┼─────────────────────────────┼─────────────────────────────┤                                           │                           ║
+║ Players(C)    │ -Gamestate-changing actions │ -Rule-changing actions      │                                           │                           ║
+╟───────────────┼─────────────────────────────┴─────────────────────────────┤                                           ├───────────────────────────╢
+║ Agora(D)      │ None                                                      │                                           │ -Awards and Payment       ║
+╟───────────────┼─────────────────────────────┬─────────────────────────────┤                                           ├───────────────────────────╢
+║ Organizations │ -Reception and Possession   │ -Gamestate-changing actions │                                           │ None                      ║
+║ (E)           ├─────────────────────────────┤                             │                                           │                           ║
+║               │ -Awards and Payment         │                             │                                           │                           ║
+╚═══════════════╧═════════════════════════════╧═════════════════════════════╧═══════════════════════════════════════════╧═══════════════════════════╝
+NOTE: For cells, spanning multiple rows and/or columns please refer to them by the identifier of the left uppermost corner of the cell.
+
+For cells, 1A and 1B, I believe that this should be actions changing their status because these should be done in such a way that they control, but that is public. This would be actions like registration or turning a partnership into an organization or agency as these are actions. For 1C, this includes actions such as transactions, pending, and proposals. I think these should fall here because this allows the player autonomy without too much chaos. For 1E, I believe these should fall here to require organizations to manage their own awards and payment, but choose not to receive or possess items if they wish. For 2B and 2C, I believe that rules need support to be changed because otherwise it devolves into anarchy. For 2E, I believe this belongs here to not allow organizations to act without approval, but customarily it will be possible as their membership will support. For 3A, I believe this should fall here as it allows agreements to be backed out of before changes take effect or for dependent agreements to be amended. For 4A, this makes sense because it allows players to be given things without being overly involved. For 4D, this allows payments and awards to be made even if no officer is available to cause Agora to make payments or awards.
+
+While these are only rough guidelines, I hope that in the future we will use them to help guide our rule-making. As time passes, updates and refinements may need to be made.
+
+
+**Appendix B*
+
+- To communicate (syn. To send a message)
+ * To announce
+ * To publish
+ * To submit
+- To propose
+- To obstruct access (Disallowed)
+- To register
+- To deregister
+- To bind
+- To compel
+- To harass
+- To track
+- To change (syn. To flip, To modify, To set)
+- To note
+- To treat
+- To detail
+- To govern
+- To assign
+- To ratify
+- To allow
+- To disallow
+- To interpret
+- To apply
+- To judge
+- To resolve
+- To enact
+- To repeal
+- To reenact
+- To amend
+- To retitle
+- To define
+- To perform
+- To fail
+
+[1] https://web.archive.org/web/20170526210039/https://www.merriam-webster.com/dictionary/action
+[2] https://web.archive.org/web/20170527190648/https://legacy.earlham.edu/~peters/writing/nomic.htm
