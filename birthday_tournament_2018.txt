@@ -267,7 +267,7 @@ and appreciated and worthy of further recognition.
 STYLE:  2.0
 
 
-#12 PSS. 11 Jul 2018 11:06:26 -0400
+INVALID #12 PSS. 11 Jul 2018 11:06:26 -0400
 (DOCKET #1)
 Your Honor, My Fellow Counselor V.J. Rada seems to have made a fatal
 error in the presentation of eir reasons for Agora's eksallance. In
@@ -348,12 +348,13 @@ Nomic of Agora, being at least several months older.
 mentions the Great and Ancient Nomic of FRC.
 
 THE JUDGE RULES
-VALID.  Further, for developing Docket-specific Rules of Evidence and entering
-the first true evidence into the arguments, recognition must be granted.
+VALID.  Further, for developing Docket-specific Rules of Evidence and
+entering the first true evidence into the arguments, recognition must be
+granted.
 STYLE: 2.5.
 
 
-#14 Aris 11 Jul 2018 11:46:35 -0700
+INVALID #14 Aris 11 Jul 2018 11:46:35 -0700
 Docket #2
 Your honor, I would like to bring another matter before the court. I hereby
 open arguments in docket #2, with the question "What is the goal of Nomic"?
@@ -396,5 +397,28 @@ point of discussion on which both supporters of Agora (G.A.N) and FRC
 Style: +2.0
 
 
+INVALID #16 CuddleBeam 11 Jul 2018 23:33:51 +0200
+The g0al of of a nomic (as a game in general, not Suber's original item per
+se, which had a more instrumental goal; which was Suber's interests for
+making nomic in the first place at the time) is to satisfy its players. Whether
+it be the thrill of competition, spectator entertainment of our blunders
+and loopholes, or just social exploration; people bother to play and
+sustain this obscure game because they get enough enjoyment from it. Nomic
+itself has no intent or goal on its own if we're referring to this ghostly
+common reverie that comprises it, this "ghost" itself has no purpose, it's
+just a phenomenon created by us for a purpose. That purpose being to make
+fun (which I believe satisfies the question of "What is the goal of Nomic",
+unless the question is referring to this ghost or something else).
+
+THE JUDGE RULES
+While this public submission to the court is greatly appreciated, entering
+the contest was closed 2 days ago, so the Hon. CuddleBeam can no longer 
+become a contestant.  Close reading of the tournament regulations implies
+this is an automatically-INVALID rule (as opposed to being "not a rule").
+(though I encourage Counsellors to respond to invalid arguments that are
+interesting as this one is, as they will be part of the record even if they
+cannot make any limitations)  Also on this one:  More respect for the Most
+Heroic Suber as per #6.
+no style.
 
 
