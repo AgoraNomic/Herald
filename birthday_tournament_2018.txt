@@ -193,7 +193,8 @@ forms of address need similar levels of respect - "you" needs to be "your
 honor" or "the court" or similar).
 (no style)
 
-#9 Aris 9 Jul 2018 21:29:46 -0700
+INVALID #9 Aris 9 Jul 2018 21:29:46 -0700
+(DOCKET #1)
 Eff-arr-quee should be considered vastly superior to all other games.
 I will refute the arguments of My Fellow Counselor, V.J. Rada, on this
 matter.
@@ -217,5 +218,183 @@ such critical offices.
 themselves board games, must be superior to Agora.
 
 THE JUDGE RULES
-VALID, and a set of intriguing arguments that would take some refuting
-Counsellor.  Style +2.0.
+INVALID, as The Most Heroic Peter Suber is not addressed thus, as per
+#6.
+(no style)
+
+
+#10 PSS 11 Jul 2018 10:44:46 -0400
+PROCEDURAL
+Your Honor, My Fellow Counselors V.J. Rada and Aris seem to have no
+respect for the Great and Ancient Nomics. I ask the court that all
+Counselors SHALL refer to FRC and Agora as the Great and Ancient Nomic
+of the FRC and the Great and Ancient Nomic of Agora, respectively, in
+order to show respect not just to persons, but also for the Great and
+Ancient Nomics. Additionally, your honor, I ask the court that @11
+Counselors SHALL NOT use "wildly non-standard 5pe11ink" when
+addressing individuals, Great and Ancient Nomics, or the court, as
+doing so lessens the respect shown to the addressed person or entity.
+
+THE JUDGE RULES
+VALID, while noting, Counsellor, your return towards procedural has
+an effect on your style, but that is ameliorated by limiting the
+scope of the abominable spelling. 
+STYLE:  1.5
+
+
+#11 V.J. Rada 12 Jul 2018 01:02:59 +1000
+PROCEDURAL
+Your most humble and gracious honour: the ridiculous requirements on us 411
+regarding the f0rm of our arguments are piling up, detracting from the
+quality of our arguments. I therefore ask the court to rule that no further
+such requirements shall be imposed until at least 10 non-procedural
+arguments are made.
+
+THE JUDGE RULES
+VALID.  OOC: for the phrase "ask the Court to rule", while that is phrased
+as a decision to be made by the judge, all limitations should come from the
+rules themselves and not be subject to judicial choice.  The flavor is
+appreciated and to be encouraged, so all SHALLs and other limitations 
+phrased as "requests" to the court will be assumed granted if they are
+otherwise valid (e.g. just read this as  "No further such requirements shall
+be imposed until at least 10...").
+
+IC now:  Counsellor, the court grants your request to keep procedings 
+moving forward.  The fact that this is a proscribed Docket is cancelled
+by the limitations you've placed on the Docket (net 1.0).  However, that
+the limitation is a courteous request to the judge is well-recognized
+and appreciated and worthy of further recognition.
+STYLE:  2.0
+
+
+#12 PSS. 11 Jul 2018 11:06:26 -0400
+(DOCKET #1)
+Your Honor, My Fellow Counselor V.J. Rada seems to have made a fatal
+error in the presentation of eir reasons for Agora's eksallance. In
+eir argument, e stated that e would present six reasons. However, he
+proceeded to present five reasons. Your Honor, I do not believe that
+making such false statements before the court should be tolerated.
+
+Your Honor, while I concur with My Fellow Counselor Aris's objections
+to many of My Fellow Counselor V.J. Rada's reasons, I intend to argue
+that the arguments before the court are needless division. I believe
+that My Fellow Counselors V.J. Rada and Aris are engaging in a petty
+battle to divide the Great and Ancient Nomics when it would be most
+beneficial to all, if the Great and Ancient Nomics were to come
+together in cooperation to attempt to develop a better understanding
+of the theory and practice of Nomic and develop a larger following to
+address the problems that My Fellow Counselor Aris noted, regarding
+the lack of dedication within the playerbase of the Great and Ancient
+Nomic of Agora. To this end, I propose that a Joint Commissions on the
+Shared Interests be formed to address those issues that affect the
+Great and Ancient Nomics, with representatives from all interested
+nomics.
+
+THE JUDGE RULES
+It is time for a serious discussion with regard to Court Procedure
+and Rules #6 and #10 along the following points:
+#6 first reads "I ask that the court require all Counselors and
+strangers to address each other with the deserved respect.".  This
+applies to both second person and third person forms of address.
+However, the examples that follow are strictly third person forms.
+For second-person addressing, rather than using tortured grammar,
+phrases of deserved respect such as "Your Honor" or, if you're
+preferring the Commonwealth, "M'lud" will do.
+SECOND, the Court will henceforth allow abbrevations to function
+as long as they are clear.  For example, Hon., Rt.Hon., and
+G.A.N. of Agora are acceptable, or even Agora (G.A.N.). However, in
+this case the Court is not persuaded with the "indirect quote" and
+this argument is INVALID for failure to refer to the G.A.N. nature
+of the G.A.N. of Agora.
+(no style)
+
+
+#13 Corona 11 Jul 2018 20:27:01 +0200
+DOCKET #1
+Your Honor:
+
+My Fellow Counselors Aris' and VJ Rada's arguments are based on their
+opinions only. I submit that in order to make further discussion more
+meaningful, he♫cef☻rth every argument submitted to the first docket by one
+of My Fellow Counsellors SHALL include Evidence, in the form of information
+reasonably accessible
+
+by any of My Fellow Counsellors, Your Honor, or Strangers interested in
+these proceedings.
+
+Your Honor, to demonstrate the effective use of Evidence, I will now argue
+that
+
+the Great and Ancient Nomic of FRC is older than the Great and Ancient
+Nomic of Agora:
+
+The Great and Ancient Nomic of Agora itself claims to be born after the
+collapse of the Most Great and Ancient Nomic of Nomic World, which occurred
+in June 1993 [1].
+
+However, the Great and Ancient Nomic of FRC used to be a part of the Most
+Great and Ancient Nomic of Nomic World, and though the exact date of
+founding does not matter, I will note that Great and Ancient Nomic of FRC's
+existence was recorded in March 1993 [2].
+
+Therefore, it can be concluded that
+the Great and Ancient Nomic of FRC is older than the Great and Ancient
+Nomic of Agora, being at least several months older.
+
+[1] https://agoranomic.org/ruleset/flr.txt
+
+[2] http://www.nomic.net/deadgames/nomicworld/norrish/ - Please note that
+"Summary: seventh month" was posted on 11 March 1993, and it explicitly
+mentions the Great and Ancient Nomic of FRC.
+
+THE JUDGE RULES
+VALID.  Further, for developing Docket-specific Rules of Evidence and entering
+the first true evidence into the arguments, recognition must be granted.
+STYLE: 2.5.
+
+
+#14 Aris 11 Jul 2018 11:46:35 -0700
+Docket #2
+Your honor, I would like to bring another matter before the court. I hereby
+open arguments in docket #2, with the question "What is the goal of Nomic"?
+Docket #2
+I hereby request that the court consider a matter of the utmost urgency.
+We're gathered here, in the Great and Ancient Nomic of Agora, to play a
+game of, well, Nomic. What is the object of this game? Is it to win? To
+have fun? To make the best nomic ever? I call to the attention of the court
+the fact that our economy might stop having problems if we knew what the
+goal of an economy was. To that end, I request that this docket may contain
+arguments about the successes and failures of the various nomics, whether
+great and ancient or otherwise, so that we can answer the all important
+question: what does Nomic attempt to accomplish?
+
+THE JUDGE RULES
+As much as it kills the Court to do so, we must rule INVALID due to lack
+of bad spelling, as noted by the learned Counsellor emself.
+no style.
+
+
+#15 Aris 11 Jul 2018 11:49:57 -0700
+Your honor, I would like to bring another matter before the court. I hereby
+open arguments in docket #2, with the question "What is the goal of Nomic"?
+Docket #2
+I hereby request that the court consider a matter of the utmost urquincy.
+We're gathered here, in the Great and Ancient Nomic of Agora, to play a
+game of, well, Nomic. What is the object of this game? Is it to win? To
+have fun? To make the best nomic ever? I call to the attention of the court
+the fact that our economy might stop having problems if we knew what the
+goal of an economy was. To that end, I request that this docket may contain
+arguments about the successes and failures of the various nomics, whether
+great and ancient or otherwise, so that we can answer the all important
+question: what does Nomic attempt to accomplish?
+
+THE JUDGE RULES
+This is VALID by all appearances, and a worthy extension of the Court's
+duties that desrves a fresh docket, especially as it provides a common
+point of discussion on which both supporters of Agora (G.A.N) and FRC
+(G.A.N.) may agree.
+Style: +2.0
+
+
+
+
