@@ -421,4 +421,83 @@ cannot make any limitations)  Also on this one:  More respect for the Most
 Heroic Suber as per #6.
 no style.
 
+INVALID #17 by PSS 11 Jul 2018 20:45:53 -0400
+Your Honor, My Fellow Counselor V.J. Rada seems to have made a fatal
+error in the presentation of eir reasons for G.A.N. of Agora's eksallance. In
+eir argument, e stated that e would present six reasons. However, he
+proceeded to present five reasons. Your Honor, I do not believe that
+making such false statements before the court should be tolerated.
+
+Your Honor, while I concur with My Fellow Counselor Aris's objections
+to many of My Fellow Counselor V.J. Rada's reasons, I intend to argue
+that the arguments before the court are needless division. I believe
+that My Fellow Counselors V.J. Rada and Aris are engaging in a petty
+battle to divide the Great and Ancient Nomics when it would be most
+beneficial to all, if the Great and Ancient Nomics were to come
+together in cooperation to attempt to develop a better understanding
+of the theory and practice of Nomic and develop a larger following to
+address the problems that My Fellow Counselor Aris noted, regarding
+the lack of dedication within the playerbase of the Great and Ancient
+Nomic of Agora. To this end, I propose that a Joint Commissions on the
+Shared Interests be formed to address those issues that affect the
+Great and Ancient Nomics, with representatives from all interested
+nomics.
+
+THE JUDGE RULES
+(see Rule #18)
+
+#18 V.J. Rada 12 Jul 2018 11:14:22 +1000
+Your honour, I submit the following argument to d0ket two:
+This court should rule that the purpose of a nomic is to develop into a
+perfect game, and nomics therefore should ultimately "work themselves
+pure", removing nomic elements over time for game elements.
+
+THE JUDGE RULES
+Rule #17 (submitted by Counselor PSS) and Rule #18 (by Counselor V.J.
+Rada) present the Court with a broader question:  are "submission
+statements" (e.g. "I submit the following arguments") part of the
+arguments, or separate?
+
+If submission statements are separate, then Counselor PSS's rule would
+be VALID.  For e published a text with no direct submission statement,
+and than later quoted the same text with "I classify this as being on
+the first docket." This could be taken (rather generously on The Court's
+part) as a submission statement, and the whole rule wouldn't have been
+considered submitted before that submission statement, which included the
+Docket.  After all, in G.A.N. Agora, we wouldn't blink twice if someone
+quoted a previously-published body of text and wrote "I submit the
+following body of text as a proposal."  
+
+On the other hand, Counselor V.J. Rada's arguments would be INVALID, as
+the m1zzp3ll1ng (ugh) would be "outside" the arguments, and Rule #7
+requires the damaged spelling to be "in" their arguments.
+
+On the other hand, if submission statements are *part* of the arguments,
+then Counselor PSS's submission would be INVALID, as This Court
+maintains that a rule must be submitted as a singular "body of text
+intended to become a rule" in the words of Tournament Regulation #1, and
+not split over messages.  So eir first body of text would be taken to be
+a whole, submitted rule and INVALID due to missing a docket. 
+
+On the other hand, Counselor V.J. Rada's would be VALID, as the 40rr18le
+text in RUle #18 (Eris help us) would be part of the arguments.
+
+The tradition is mixed.  This Court's Clerk is inconsistent, in that
+sometimes submission statements are included in the record (e.g. Rule
+#4) and sometimes not (e.g. Rule #6)[*].  Counselors are also
+inconsistent about whether their "flavor" starts within the submission
+statement or after.
+
+This Court has considered carefully, and the decision lies in Fantasy
+Rule #1, which reads in part:  "all rules and pronouncements we see, in
+the form of arguments shall be."  By this, "pronouncements" would
+include submission statements, which are thus part of the "arguments".  
+
+Thus, Rule #17 (by Counselor PSS) was INVALID, and Rule #18 (by
+Counselor V.J. Rada) was VALID.  The short but straightforward text of
+Rule #18 is granted 1.0 Style.  Going forward, This Court shall ensure
+that eir Clerk is more consistent in eir task.
+
+[*] Evidence:  
+https://agoranomic.org/Herald/birthday_tournament_2018.txt
 
