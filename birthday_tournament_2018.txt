@@ -1,20 +1,24 @@
 
 
-GAME START           5 Jul 2018 18:52:15 UTC 
-ENTRIES CLOSE        9 Jul 2018 18:52:15 UTC
-ELIMINATION BEGINS  11 Jul 2018 18:52:15 UTC
-
-STRIKES:  V.J. Rada(1)
-
-ELIMINATION CLOCK (WHEN ELIMINATED IF NO VALID RULE IS POSTED)
-(Valid rule extends clock 48 hours for submitter and 24 hours for
-everyone unelimiated)
-
-Aris        12 Jul 2018 04:29:46 UTC
-V.J. Rada   11 Jul 2018 18:52:15 UTC
-PSS         11 Jul 2018 18:52:15 UTC
-Corona      11 Jul 2018 18:52:15 UTC
-
+#1 Aris:                                          05 Jul 2018 19:01:09
+#2 V.J. Rada:                                     05 Jul 2018 23:54:51
+#3 Aris:                                          06 Jul 2018 06:46:01
+#4 PSS:                                           06 Jul 2018 14:57:31
+#5 PSS:                                           07 Jul 2018 23:34:47
+#6 PSS:                                           07 Jul 2018 23:54:14
+#7 Corona:                                        09 Jul 2018 18:43:52
+INVALID #8 V.J. Rada:                             10 Jul 2018 15:41:49
+INVALID #9 Aris:                                  10 Jul 2018 04:29:46
+#10 PSS:                                          11 Jul 2018 14:44:46
+#11 V.J. Rada:                                    11 Jul 2018 15:02:59
+INVALID #12 PSS.:                                 11 Jul 2018 15:06:26
+#13 Corona:                                       11 Jul 2018 18:27:01
+INVALID #14 Aris:                                 11 Jul 2018 18:46:35
+#15 Aris:                                         11 Jul 2018 18:49:57
+INVALID #16 CuddleBeam:                           11 Jul 2018 21:33:51
+INVALID #17 by PSS:                               12 Jul 2018 00:45:53
+#18 V.J. Rada:                                    12 Jul 2018 00:45:53
+#19 P.S.S.:                                       12 Jul 2018 01:30:16
 
 #1 Aris 5 Jul 2018 12:01:09 -0700
 (PROCEDURAL)
