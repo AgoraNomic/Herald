@@ -16,7 +16,7 @@
 #14 Aris (INVALID, STRIKE):                       11 Jul 2018 18:46:35
 #15 Aris:                                         11 Jul 2018 18:49:57
 #16 CuddleBeam (INVALID):                         11 Jul 2018 21:33:51
-#17 by PSS (INVALID, STRIKE):                     12 Jul 2018 00:45:53
+#17 PSS (INVALID, STRIKE):                        12 Jul 2018 00:45:53
 #18 V.J. Rada:                                    12 Jul 2018 01:14:22
 #19 P.S.S.:                                       12 Jul 2018 01:30:16
 
@@ -426,7 +426,7 @@ Heroic Suber as per #6.
 no style.
 
 
-INVALID #17 by PSS 11 Jul 2018 20:45:53 -0400
+INVALID #17 PSS 11 Jul 2018 20:45:53 -0400
 Your Honor, My Fellow Counselor V.J. Rada seems to have made a fatal
 error in the presentation of eir reasons for G.A.N. of Agora's eksallance. In
 eir argument, e stated that e would present six reasons. However, he
