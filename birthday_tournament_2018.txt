@@ -7,16 +7,16 @@
 #5 PSS:                                           07 Jul 2018 23:34:47
 #6 PSS:                                           07 Jul 2018 23:54:14
 #7 Corona:                                        09 Jul 2018 18:43:52
-INVALID #8 V.J. Rada:                             10 Jul 2018 15:41:49
-INVALID #9 Aris:                                  10 Jul 2018 04:29:46
+#8 V.J. Rada (INVALID, STRIKE):                   10 Jul 2018 15:41:49
+#9 Aris (INVALID, STRIKE):                        10 Jul 2018 04:29:46
 #10 PSS:                                          11 Jul 2018 14:44:46
 #11 V.J. Rada:                                    11 Jul 2018 15:02:59
-INVALID #12 PSS.:                                 11 Jul 2018 15:06:26
+#12 PSS. (INVALID, STRIKE):                       11 Jul 2018 15:06:26
 #13 Corona:                                       11 Jul 2018 18:27:01
-INVALID #14 Aris:                                 11 Jul 2018 18:46:35
+#14 Aris (INVALID, STRIKE):                       11 Jul 2018 18:46:35
 #15 Aris:                                         11 Jul 2018 18:49:57
-INVALID #16 CuddleBeam:                           11 Jul 2018 21:33:51
-INVALID #17 by PSS:                               12 Jul 2018 00:45:53
+#16 CuddleBeam (INVALID):                         11 Jul 2018 21:33:51
+#17 by PSS (INVALID, STRIKE):                     12 Jul 2018 00:45:53
 #18 V.J. Rada:                                    12 Jul 2018 00:45:53
 #19 P.S.S.:                                       12 Jul 2018 01:30:16
 
