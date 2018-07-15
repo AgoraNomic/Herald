@@ -4,3 +4,7 @@ Herald's Report Archive:
 
 [Theses](/Theses/)
 
+[Scroll of Agora](/Reports/15-July-2018.txt/)
+
+[Library and Archive of Agora](http://agoranomic.org/Library/)
+
