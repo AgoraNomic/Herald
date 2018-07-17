@@ -68,7 +68,7 @@ G. raised a banner and was awarded the Patent Title, Champion
 
                       Alexis, Bucky(x2), omd
 
-            Politics  Aris
+            Politics  Aris, Publius Scribonius Scholasticus
 
             Proposal  Human Point Two, Morendil, Steve(x3),
 
@@ -83,6 +83,8 @@ G. raised a banner and was awarded the Patent Title, Champion
          Renaissance  ais523, Alexis(x3), Murphy, G.(x2)
 
             Solitude  ais523(x2), Alexis(x2), omd
+            
+          Tournament  Aris, 
 
     Via Ratification  The President
 
