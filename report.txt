@@ -16,7 +16,8 @@
 
                           -------------------
 
-Aris and P.S.S. were granted the patent title Champion, having won the Birthday Tournament on July 16, 2018
+Aris and P.S.S. were granted the patent title Champion, having won the
+  Birthday Tournament on July 16, 2018
 
                           -------------------
 
@@ -38,9 +39,11 @@ Aris and P.S.S. were granted the patent title Champion, having won the Birthday 
 
                Cards  Taral, G., Murphy, OscarMeyr, root
 
-        Championship  Wooble, root, Taral, OscarMeyr
-
                Clout  ais523, Alexis
+               
+             Contest  Wooble, root, Taral, OscarMeyr, Aris,
+                      
+                      Publius Scribonius Scholasticus
 
             Election  G.
 
@@ -83,8 +86,6 @@ Aris and P.S.S. were granted the patent title Champion, having won the Birthday 
          Renaissance  ais523, Alexis(x3), Murphy, G.(x2)
 
             Solitude  ais523(x2), Alexis(x2), omd
-            
-          Tournament  Aris, Publius Scribonius Scholasticus
 
     Via Ratification  The President
 
