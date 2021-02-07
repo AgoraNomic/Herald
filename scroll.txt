@@ -6,8 +6,15 @@
                        ===============================
 
                            Herald's Monthly Report
-                              December 31, 2020
+                              February 07, 2021
+                              
+                             -------------------
+                                    NEWS
+                             -------------------
 
+              Cuddlebeam won by Taking Over the Economy on January 
+                  20th, 2021. Noted here as Economic Takeover.
+                             
                              -------------------
                                  CHAMPION by
                              -------------------
@@ -19,6 +26,7 @@
                          Bayushi, nix, grok, babelian, twg, D. Margaux
                   Cards  Taral, G., Murphy, OscarMeyr, root
                   Clout  ais523, Alexis
+      Economic Takeover  Cuddlebeam
                Election  G.
                  Escape  omd
              High Score  Elysion, G.(x2), Levi, Murphy(x2), Steve,
