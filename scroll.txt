@@ -16,7 +16,7 @@
                          Tenhigitsune, Warrigal, Quazie,
                          Publius Scribonius Scholasticus, tmanthe2nd,
                          Gaelan(x2), Ienpw III, Veggiekeks, omd, R. Lee,
-                         Bayushi, nch, grok, babelian, twg, D. Margaux
+                         Bayushi, nix, grok, babelian, twg, D. Margaux
                   Cards  Taral, G., Murphy, OscarMeyr, root
                   Clout  ais523, Alexis
                Election  G.
@@ -26,7 +26,7 @@
                          root, Wooble, Tiger, Murphy, BobTHJ, Walker,
                          Falsifian, twg(x2), Jason, CuddleBeam, Trigon
                   Junta  ais523(x2), the AFO, omd(x2), G., OscarMeyr,
-                         Alexis, nch
+                         Alexis, nix
              Leadership  ais523
                   Lotto  Alexis, omd
                  Maniac  Craig, root
@@ -87,44 +87,45 @@
                                     ------
                                     BADGES
                                     ------
-     Coming of Age
+     Coming of Age [Jul 2011]
       (awarded to Active Players on Agora's 18th Birthday, July 2011).
               root, ais523, Droowl, ehird, G., Gondolier, Math321,
               Murphy, omd, Pavitra, Roujo, Alexis, Warrigal,
               Turiski, Walker, woggle, Yally, The President
 
-     Agora XX
+     Agora XX [Jul 2013]
       (awarded to players of the Agora 20th Anniversary blitz Nomic
        game, July 2013).
               Fool, omd, FSX, Walker, Chuck, ehird, Yally, Michael,
               Alexis, Roujo, Murphy, Goethe (G.), Steve, Blob, Tiger,
               woggle, Ørjan.
 
-     Order of the Lemming
-      (awarded to players who voted unanimously for a major change
-       in the ruleset in Jan, 2014)
-             omd, Max Schutz, ais523, nch, Sprocklem, Khoyo,
+     Order of the Lemming [Jan 2014]
+      (Persons who cast valid votes of FOR or PRESENT on at least one of
+       P7610, P7614, or P7616)
+             omd, Max Schutz, ais523, nix, Sprocklem, Khoyo,
              Yally,  OscarMeyr, Wooble, G., Telnaior, Roujo, Henri,
              Tiger, woggle, Alexis, Murphy.
 
-     Badge of the Great Agoran Revival
+     Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
-             tmanthe2nd, G., CuddleBeam, Ienpw III, nch, Alexis,
+             tmanthe2nd, G., CuddleBeam, Ienpw III, nix, Alexis,
              o, Ørjan, Aris, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
              Roujo, ais523, Gaelan, Tenhigitsune, grok
 
-     Badge of the Salted Earth
+     Badge of the Salted Earth [2018]
       (awarded to Agoran persons who owned land in Agora in 2018)
              Gaelan, Kenyon, Trigon, Corona, Aris, ATMunn, G.,
              Quazie, o, twg, Murphy, Publius Scribonius Scholasticus,
              R. Lee, D. Margaux
-     Badge of Diplonomic
+             
+     Badge of Diplonomic [2020]
       (awarded to persons who played or otherwise participated in the
        2020 Birthday Tournament, Diplonomic)
              ATMunn, G., Jason, Aris, Falsifian, R. Lee, omd, Trigon,
-             Ben & Claire of BC System,
-             Publius Scribonius Scholasticus
+             Ben & Claire of BC System, Publius Scribonius Scholasticus
+             
                                    --------
                                    AND MORE
                                    --------
