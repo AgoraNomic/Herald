@@ -33,3 +33,7 @@ mapping = {'notices': notices, 'fancy_time': fancy_time}
 
 with open('Reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))
+
+#TODO: implement fresh report
+#with open('scroll.txt', 'w') as ofile:
+    #ofile.write(template.format_map(mapping))
