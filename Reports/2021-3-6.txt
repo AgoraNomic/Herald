@@ -9,13 +9,16 @@
                                     NEWS
                              -------------------
 
-Cuddlebeam has officially been awarded a win for Economic Takeover. 
+                    Cuddlebeam has officially been awarded
+                        a win for Economic Takeover. 
  
- The "Champions" portion of this report is now automatically generated. Feedback appreciated.
+                 The "Champions" portion of this report is now 
+                 automatically generated. Feedback appreciated.
                              
                              -------------------
                                  CHAMPION by
                              -------------------
+
                Anarchy: Alexis
                 Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
                         Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
