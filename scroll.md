@@ -1,3 +1,4 @@
+```
                        ===============================
                              THE SCROLL OF AGORA
                        ===============================
@@ -271,3 +272,4 @@
 22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
 
                        === END OF REPORT ===
+```
