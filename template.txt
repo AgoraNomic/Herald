@@ -9,7 +9,8 @@
                                     NEWS
                              -------------------
 
-                               None, currently.
+                 Changed "Tenhigitsune" to "天火狐" to better
+                   reflect this person's self-designation.
                              
                              -------------------
                                  CHAMPION by
@@ -68,7 +69,7 @@
              tmanthe2nd, G., CuddleBeam, Ienpw III, nix, Alexis,
              o, Ørjan, Aris, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
-             Roujo, ais523, Gaelan, Tenhigitsune, grok
+             Roujo, ais523, Gaelan, 天火狐, grok
 
      Badge of the Salted Earth [2018]
       (awarded to Agoran persons who owned land in Agora in 2018)
@@ -90,7 +91,7 @@
             Agoran Spy:               pikhq
             Agoraphobe:               Antimatter, BethMo, Blue
             Bard:                     G., Maud, Elysion, Sherlock,
-                                      Murphy, Alexis, Tenhigitsune,
+                                      Murphy, Alexis, 天火狐,
             Boor:                     General Chaos, Macross, Murphy,
                                       Sherlock, elJefe, Crito
             Came Back in a Puff:      BobTHJ

@@ -9,9 +9,7 @@
                                     NEWS
                              -------------------
 
-Cuddlebeam has officially been awarded a win for Economic Takeover. 
- 
- The "Champions" portion of this report is now automatically generated. Feedback appreciated.
+                               None, currently.
                              
                              -------------------
                                  CHAMPION by
@@ -20,8 +18,8 @@ Cuddlebeam has officially been awarded a win for Economic Takeover.
               Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
                       Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
                       omd, Publius Scribonius Scholasticus, Quazie, 
-                      R. Lee, Sprocklem, Tenhigitsune, tmanthe2nd, twg, 
-                      Veggiekeks, Warrigal
+                      R. Lee, Sprocklem, tmanthe2nd, twg, Veggiekeks, 
+                      Warrigal, 天火狐
                Cards: G., Murphy, OscarMeyr, root, Taral
      Champion*(11/6): Kelly
       Champion*(3/2): Chuck, Kelly, Steve
@@ -118,7 +116,7 @@ Cuddlebeam has officially been awarded a win for Economic Takeover.
              tmanthe2nd, G., CuddleBeam, Ienpw III, nix, Alexis,
              o, Ørjan, Aris, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
-             Roujo, ais523, Gaelan, Tenhigitsune, grok
+             Roujo, ais523, Gaelan, 天火狐, grok
 
      Badge of the Salted Earth [2018]
       (awarded to Agoran persons who owned land in Agora in 2018)
@@ -140,7 +138,7 @@ Cuddlebeam has officially been awarded a win for Economic Takeover.
             Agoran Spy:               pikhq
             Agoraphobe:               Antimatter, BethMo, Blue
             Bard:                     G., Maud, Elysion, Sherlock,
-                                      Murphy, Alexis, Tenhigitsune,
+                                      Murphy, Alexis, 天火狐,
             Boor:                     General Chaos, Macross, Murphy,
                                       Sherlock, elJefe, Crito
             Came Back in a Puff:      BobTHJ
