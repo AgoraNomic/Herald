@@ -70,7 +70,7 @@ for title in wins_lists:
 with open('template.txt', 'r') as infile:
     template = infile.read()
 
-mapping = {'notices': notices, 'fancy_time': fancy_time, 'champions': champions}
+mapping = {'fancy_time': fancy_time, 'champions': champions}
 
 with open('Reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))
