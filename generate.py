@@ -12,9 +12,6 @@ def scroll_center(string):
     #TODO: maybe expand this function's usages? or get rid of it.
     return int((72 / 2) - (len(string) / 2) + 2)
 
-notices_str = "Cuddlebeam has officially been awarded a win for Economic Takeover. \n \n The \"Champions\" portion of this report is now automatically generated. Feedback appreciated."
-notices = " " * scroll_center(notices_str) + notices_str
-
 # Determine timestamp
 now = datetime.now(timezone.utc)
 
@@ -33,9 +30,9 @@ with open('Data/champions.csv', 'r') as infile:
     in_wins = reader(infile, delimiter=',', quotechar="\"")
     next(in_wins) #skip header line
     for row in in_wins:
-        times = 1
         # If there's an entry in the "times" column, use it. Otherwise,
         # assume it was just once.
+        times = 1
         if row[5] != "":
             times = int(row[5])
         # If this title isn't in the dict yet, add it.
