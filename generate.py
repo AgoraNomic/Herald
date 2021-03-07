@@ -9,16 +9,14 @@ if isTest:
 
 def scroll_center(string):
     #TODO: fix the scroll alignment so I don't have to add an extra 2
+    #TODO: maybe expand this function's usages? or get rid of it.
     return int((72 / 2) - (len(string) / 2) + 2)
 
 notices_str = "Cuddlebeam has officially been awarded a win for Economic Takeover. \n \n The \"Champions\" portion of this report is now automatically generated. Feedback appreciated."
 notices = " " * scroll_center(notices_str) + notices_str
 
 # Determine timestamp
-
 now = datetime.now(timezone.utc)
-
-isTest = True
 
 if isTest:
     report_name = "test"
@@ -36,34 +34,42 @@ with open('Data/champions.csv', 'r') as infile:
     next(in_wins) #skip header line
     for row in in_wins:
         times = 1
+        # If there's an entry in the "times" column, use it. Otherwise,
+        # assume it was just once.
         if row[5] != "":
             times = int(row[5])
+        # If this title isn't in the dict yet, add it.
         if not(row[0] in wins_lists):
             wins_lists[row[0]] = {}
+        # If this person isn't in the title's dict yet, add em.
         if not(row[1] in wins_lists[row[0]]):
             wins_lists[row[0]][row[1]] = times
+        # If e already is, add the times to the current tally.
         else:
             wins_lists[row[0]][row[1]] += times
 
+# format wins for the report
 max_title_len = 20
 
 champions = ""
-for key in wins_lists:
-    champions_line = " " * (max_title_len - len(key)) + key + ": "
-    cur_len = len(champions)
-    for winner in wins_lists[key]:
+for title in wins_lists:
+    # pad each title to a length of 20, right-aligned
+    champions_line = " " * (max_title_len - len(title)) + title + ": "
+    # add each winner and a ", " but first check if it would be too long
+    # and start a new line if so
+    for winner in wins_lists[title]:
         this_winner = winner
-        if wins_lists[key][winner] > 1:
-            this_winner += " (x" + str(wins_lists[key][winner]) + ")"
+        if wins_lists[title][winner] > 1:
+            this_winner += " (x" + str(wins_lists[title][winner]) + ")"
         this_winner += ", "
         if (len(champions_line) + len(this_winner)) > 72:
             champions += champions_line[0:72] + "\n"
             champions_line = " " * (max_title_len + 2) + champions_line[72:]
         champions_line += this_winner
+    # remove the last ", " and add a new line for the next title
     champions += champions_line[:-2] + "\n"
 
 # Apply map and output report
-
 with open('template.txt', 'r') as infile:
     template = infile.read()
 
