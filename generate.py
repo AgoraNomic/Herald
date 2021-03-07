@@ -2,6 +2,11 @@ from sys import argv
 from csv import reader
 from datetime import datetime, timezone 
 
+isTest = "-t" in argv
+
+if isTest:
+    print("Running test generation.")
+
 def scroll_center(string):
     #TODO: fix the scroll alignment so I don't have to add an extra 2
     return int((72 / 2) - (len(string) / 2) + 2)
@@ -13,22 +18,19 @@ notices = " " * scroll_center(notices_str) + notices_str
 
 now = datetime.now(timezone.utc)
 
-isTest = False
+isTest = True
 
 if isTest:
     report_name = "test"
 else:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
 
-time_str = now.strftime('%B') + " " + str(now.day).zfill(2) + ", " + str(now.year)
-#TODO: conver whole line to strftime
+time_str = now.strftime('%B %d, %Y')
 
 fancy_time = " " * scroll_center(time_str) + time_str
 
 # import and process wins
 wins_lists = {}
-total_wins = 0
-max_title_len = 0
 with open('Data/champions.csv', 'r') as infile:
     in_wins = reader(infile, delimiter=',', quotechar="\"")
     next(in_wins) #skip header line
@@ -42,10 +44,8 @@ with open('Data/champions.csv', 'r') as infile:
             wins_lists[row[0]][row[1]] = times
         else:
             wins_lists[row[0]][row[1]] += times
-        total_wins += times
-        max_title_len = max(max_title_len, len(wins_lists[row[0]]))
-        
-print(wins_lists)
+
+max_title_len = 20
 
 champions = ""
 for key in wins_lists:
@@ -62,8 +62,6 @@ for key in wins_lists:
         champions_line += this_winner
     champions += champions_line[:-2] + "\n"
 
-print(champions)
-
 # Apply map and output report
 
 with open('template.txt', 'r') as infile:
@@ -74,6 +72,6 @@ mapping = {'notices': notices, 'fancy_time': fancy_time, 'champions': champions}
 with open('Reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))
 
-#TODO: implement fresh report
-#with open('scroll.txt', 'w') as ofile:
-    #ofile.write(template.format_map(mapping))
+if not isTest:
+    with open('scroll.txt', 'w') as ofile:
+        ofile.write(template.format_map(mapping))

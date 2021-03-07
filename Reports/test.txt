@@ -3,7 +3,7 @@
                        ===============================
 
                            Herald's Monthly Report
-                               March 06, 2021
+                               March 07, 2021
 
                              -------------------
                                     NEWS
@@ -16,55 +16,54 @@ Cuddlebeam has officially been awarded a win for Economic Takeover.
                              -------------------
                                  CHAMPION by
                              -------------------
-               Anarchy: Alexis
-                Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
-                        Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
-                        omd, Publius Scribonius Scholasticus, Quazie, 
-                        R. Lee, Sprocklem, Tenhigitsune, tmanthe2nd, 
-                        twg, Veggiekeks, Warrigal
-                 Cards: G., Murphy, OscarMeyr, root, Taral
-       Champion*(11/6): Kelly
-        Champion*(3/2): Chuck, Kelly, Steve
-        Champion*(4/3): Chuck, Kelly, KoJen, Steve, 
-                        Troublemaker at Large, Wes
-        Champion*(5/3): Kelly, Steve
-        Champion*(7/6): Chuck, elJefe, Kelly, KoJen, Morendil, Steve, 
-                        Swann, Troublemaker at Large
-                 Clout: ais523, Alexis
-     Economic Takeover: Cuddlebeam
-              Election: G.
-                Escape: omd
-            High Score: ais523 (x3), Alexis (x2), BobTHJ, Cuddlebeam, 
-                        Elysion, Falsifian, G. (x2), Jason, Levi, 
-                        Murphy (x3), omd (x4), Pavitra, root, Steve, 
-                        Tiger, Trigon, twg (x2), Walker, Wooble
-                 Junta: ais523 (x2), Alexis, G., nix, omd (x2), 
-                        OscarMeyr, the AFO
-            Leadership: ais523
-                 Lotto: Alexis, omd
-                Maniac: Craig, root
-          Musicianship: ais523, omd, Tiger, Wooble, Zefram
-               Paradox: ais523, Alexis, BobTHJ (x2), Bucky (x2), ehird, 
-                        G., Murphy, omd, root
-              Politics: Aris, D. Margaux (x2)
-              Proposal: ais523 (x4), Alexis (x3), allispaul, Andon, 
-                        Andre (x3), BobTHJ, Bucky, Canada, Cuddlebeam, 
-                        D. Margaux (x501), G. (x2), Human Point Two, 
-                        Morendil, Murphy, omd (x2), Spitemaster, 
-                        Steve (x3), Tiger, Trigon, twg, woggle, Yally
-           Renaissance: ais523, Alexis (x3), G. (x3), Jason, Murphy, 
-                        twg
-           Rulebending: G., Jason, nix
-              Solitude: ais523 (x2), Alexis (x2), omd
-               Spaaace: Falsifian, Jason (x1000)
-            Tournament: Aris, ATMunn, G., grok, Jason (x2), OscarMeyr, 
-                        Publius Scribonius Scholasticus, root, Taral, 
-                        Wooble
-           Unspecified: Blob, Chuck, Dave Bowen, elJefe, favor, Garth, 
-                        General Chaos, Ian, Jeffrey, KoJen, Michael, 
-                        Oerjan, Steve, Swann, t, Timothy, 
-                        Troublemaker at Large, Vanyel (x2), Wes (x2)
-      Via Ratification: The President
+             Anarchy: Alexis
+              Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
+                      Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
+                      omd, Publius Scribonius Scholasticus, Quazie, 
+                      R. Lee, Sprocklem, Tenhigitsune, tmanthe2nd, twg, 
+                      Veggiekeks, Warrigal
+               Cards: G., Murphy, OscarMeyr, root, Taral
+     Champion*(11/6): Kelly
+      Champion*(3/2): Chuck, Kelly, Steve
+      Champion*(4/3): Chuck, Kelly, KoJen, Steve, 
+                      Troublemaker at Large, Wes
+      Champion*(5/3): Kelly, Steve
+      Champion*(7/6): Chuck, elJefe, Kelly, KoJen, Morendil, Steve, 
+                      Swann, Troublemaker at Large
+               Clout: ais523, Alexis
+   Economic Takeover: Cuddlebeam
+            Election: G.
+              Escape: omd
+          High Score: ais523 (x3), Alexis (x2), BobTHJ, Cuddlebeam, 
+                      Elysion, Falsifian, G. (x2), Jason, Levi, 
+                      Murphy (x3), omd (x4), Pavitra, root, Steve, 
+                      Tiger, Trigon, twg (x2), Walker, Wooble
+               Junta: ais523 (x2), Alexis, G., nix, omd (x2), 
+                      OscarMeyr, the AFO
+          Leadership: ais523
+               Lotto: Alexis, omd
+              Maniac: Craig, root
+        Musicianship: ais523, omd, Tiger, Wooble, Zefram
+             Paradox: ais523, Alexis, BobTHJ (x2), Bucky (x2), ehird, 
+                      G., Murphy, omd, root
+            Politics: Aris, D. Margaux (x2)
+            Proposal: ais523 (x4), Alexis (x3), allispaul, Andon, 
+                      Andre (x3), BobTHJ, Bucky, Canada, Cuddlebeam, 
+                      D. Margaux (x501), G. (x2), Human Point Two, 
+                      Morendil, Murphy, omd (x2), Spitemaster, 
+                      Steve (x3), Tiger, Trigon, twg, woggle, Yally
+         Renaissance: ais523, Alexis (x3), G. (x3), Jason, Murphy, twg
+         Rulebending: G., Jason, nix
+            Solitude: ais523 (x2), Alexis (x2), omd
+             Spaaace: Falsifian, Jason (x1000)
+          Tournament: Aris, ATMunn, G., grok, Jason (x2), OscarMeyr, 
+                      Publius Scribonius Scholasticus, root, Taral, 
+                      Wooble
+         Unspecified: Blob, Chuck, Dave Bowen, elJefe, favor, Garth, 
+                      General Chaos, Ian, Jeffrey, KoJen, Michael, 
+                      Oerjan, Steve, Swann, t, Timothy, 
+                      Troublemaker at Large, Vanyel (x2), Wes (x2)
+    Via Ratification: The President
 
 
                         --------------------------------
