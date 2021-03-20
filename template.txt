@@ -154,21 +154,7 @@
 
 
                              LONG SERVICE AWARDS
-            Three Months:    Taral, G., Sherlock, Michael, Murphy,
-                             OscarMeyr, root, Iammers, Wooble, Zefram,
-                             ais523, BobTHJ, omd, PerlNomic
-                             Partnership, the AFO, Sgeo, Tiger,
-                             Alexis, Yally, woggle, aranea, Jason,
-                             Publius Scribonius Scholasticus
-            Six Months:      Michael, Murphy, OscarMeyr, root,
-                             Sherlock, G., Zefram, Wooble, PerlNomic
-                             Partnership, omd, ais523, Alexis, Yally,
-                             woggle, aranea
-            Nine Months:     Michael, Murphy, OscarMeyr, root, G.,
-                             Zefram, Wooble, omd, woggle, aranea, Jason
-            Twelve Months:   Michael, Murphy, OscarMeyr, root, G.,
-                             Zefram, Wooble, omd, Aris, Falsifian,
-                             Trigon
+{service_titles}
 
                              SILVER QUILLS
             Alexis (2014/13: P 7629), ais523 (2015/07, 2016/13: P 8430)

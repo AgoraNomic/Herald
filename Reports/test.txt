@@ -3,13 +3,14 @@
                        ===============================
 
                            Herald's Monthly Report
-                               March 07, 2021
+                               March 20, 2021
 
                              -------------------
                                     NEWS
                              -------------------
 
-                               None, currently.
+                 Changed "Tenhigitsune" to "天火狐" to better
+                   reflect this person's self-designation.
                              
                              -------------------
                                  CHAMPION by
@@ -201,21 +202,22 @@
 
 
                              LONG SERVICE AWARDS
-            Three Months:    Taral, G., Sherlock, Michael, Murphy,
-                             OscarMeyr, root, Iammers, Wooble, Zefram,
-                             ais523, BobTHJ, omd, PerlNomic
-                             Partnership, the AFO, Sgeo, Tiger,
-                             Alexis, Yally, woggle, aranea, Jason,
-                             Publius Scribonius Scholasticus
-            Six Months:      Michael, Murphy, OscarMeyr, root,
-                             Sherlock, G., Zefram, Wooble, PerlNomic
-                             Partnership, omd, ais523, Alexis, Yally,
-                             woggle, aranea
-            Nine Months:     Michael, Murphy, OscarMeyr, root, G.,
-                             Zefram, Wooble, omd, woggle, aranea, Jason
-            Twelve Months:   Michael, Murphy, OscarMeyr, root, G.,
-                             Zefram, Wooble, omd, Aris, Falsifian,
-                             Trigon
+        Three Months: ais523, Alexis, aranea, BobTHJ, G., 
+                      Iammers, Jason, Michael, Murphy, omd, 
+                      OscarMeyr, PerlNomic Partnership, Publius Scriboni
+                      root, Sgeo, Sherlock, Taral, the AFO, 
+                      Tiger, woggle, Wooble, Yally, Zefram
+          Six Months: ais523, Alexis, aranea, G., Michael, 
+                      Murphy, omd, OscarMeyr, PerlNomic Partnership, 
+                      root, Sherlock, woggle, Wooble, Yally, 
+                      Zefram
+         Nine Months: aranea, G., Jason, Michael, Murphy, 
+                      omd, OscarMeyr, root, woggle, Wooble, 
+                      Zefram
+       Twelve Months: Aris, Falsifian, G., Michael, Murphy, 
+                      omd, OscarMeyr, root, Trigon, Wooble, 
+                      Zefram
+
 
                              SILVER QUILLS
             Alexis (2014/13: P 7629), ais523 (2015/07, 2016/13: P 8430)

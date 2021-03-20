@@ -66,11 +66,43 @@ for title in wins_lists:
     # remove the last ", " and add a new line for the next title
     champions += champions_line[:-2] + "\n"
 
+
+# TODO: sort values here so I don't need a silly column in the csv
+# import and process service awards
+service_lists = {}
+with open('Data/service.csv', 'r') as infile:
+    in_service = reader(infile, delimiter=',', quotechar="\"")
+    next(in_service) #skip header line
+    for row in in_service:
+        # If this title isn't in the dict yet, add it.
+        if not(row[1] in service_lists):
+            service_lists[row[1]] = []
+        # If this person isn't in the title's list yet, add em.
+        if not(row[2] in service_lists[row[1]]):
+            service_lists[row[1]].append(row[2])
+
+service_titles = ""
+for title in service_lists:
+    # pad to a length of 20, right-aligned
+    title_line = " " * (max_title_len - len(title)) + title + ": "
+    # add each holder and a ", " but first check if it would be too long
+    # and start a new line if so
+    for holder in service_lists[title]:
+        this_holder = holder + ", "
+        if (len(title_line) + len(this_winner)) > 72:
+            service_titles += title_line[0:72] + "\n"
+            title_line = " " * (max_title_len + 2)
+        title_line += this_holder
+    # remove the last ", " and add a new line for the next title
+    service_titles += title_line[:-2] + "\n"
+
+print(service_lists)
+
 # Apply map and output report
 with open('template.txt', 'r') as infile:
     template = infile.read()
 
-mapping = {'fancy_time': fancy_time, 'champions': champions}
+mapping = {'fancy_time': fancy_time, 'champions': champions, 'service_titles': service_titles}
 
 with open('Reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))
