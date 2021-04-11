@@ -3,7 +3,7 @@
                        ===============================
 
                            Herald's Monthly Report
-                               March 20, 2021
+                               April 11, 2021
 
                              -------------------
                                     NEWS
@@ -11,6 +11,16 @@
 
                  Changed "Tenhigitsune" to "天火狐" to better
                    reflect this person's self-designation.
+                   
+                 ATMunn, Jason, and nix have received new Long
+                               Service Awards.
+                 
+                 Aris, Falsifian, Jason, and Trigon have received
+                   Long Service Awards lower than eir current
+                    highest that were not previously awarded.
+                 
+                 G. has become Champion via Transcending Logic,
+                          recorded here as Paradox.
                              
                              -------------------
                                  CHAMPION by
@@ -44,7 +54,7 @@
               Maniac: Craig, root
         Musicianship: ais523, omd, Tiger, Wooble, Zefram
              Paradox: ais523, Alexis, BobTHJ (x2), Bucky (x2), ehird, 
-                      G., Murphy, omd, root
+                      G. (x2), Murphy, omd, root
             Politics: Aris, D. Margaux (x2)
             Proposal: ais523 (x4), Alexis (x3), allispaul, Andon, 
                       Andre (x3), BobTHJ, Bucky, Canada, Cuddlebeam, 
@@ -202,21 +212,21 @@
 
 
                              LONG SERVICE AWARDS
-        Three Months: ais523, Alexis, aranea, BobTHJ, G., 
-                      Iammers, Jason, Michael, Murphy, omd, 
-                      OscarMeyr, PerlNomic Partnership, Publius Scriboni
-                      root, Sgeo, Sherlock, Taral, the AFO, 
-                      Tiger, woggle, Wooble, Yally, Zefram
-          Six Months: ais523, Alexis, aranea, G., Michael, 
-                      Murphy, omd, OscarMeyr, PerlNomic Partnership, 
-                      root, Sherlock, woggle, Wooble, Yally, 
-                      Zefram
-         Nine Months: aranea, G., Jason, Michael, Murphy, 
-                      omd, OscarMeyr, root, woggle, Wooble, 
-                      Zefram
-       Twelve Months: Aris, Falsifian, G., Michael, Murphy, 
-                      omd, OscarMeyr, root, Trigon, Wooble, 
-                      Zefram
+        Three Months: ais523, Alexis, aranea, Aris, ATMunn, BobTHJ, 
+                      Falsifian, G., Iammers, Jason, Michael, Murphy, 
+                      nix, omd, OscarMeyr, PerlNomic Partnership, 
+                      Publius Scribonius Scholasticus, root, Sgeo, 
+                      Sherlock, Taral, the AFO, Tiger, Trigon, woggle, 
+                      Wooble, Yally, Zefram
+          Six Months: ais523, Alexis, aranea, Aris, Falsifian, G., 
+                      Jason, Michael, Murphy, omd, OscarMeyr, 
+                      PerlNomic Partnership, root, Sherlock, Trigon, 
+                      woggle, Wooble, Yally, Zefram
+         Nine Months: aranea, Aris, Falsifian, G., Jason, Michael, 
+                      Murphy, omd, OscarMeyr, root, Trigon, woggle, 
+                      Wooble, Zefram
+       Twelve Months: Aris, Falsifian, G., Jason, Michael, Murphy, omd, 
+                      OscarMeyr, root, Trigon, Wooble, Zefram
 
 
                              SILVER QUILLS

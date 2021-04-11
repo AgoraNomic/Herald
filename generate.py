@@ -89,7 +89,7 @@ for title in service_lists:
     # and start a new line if so
     for holder in service_lists[title]:
         this_holder = holder + ", "
-        if (len(title_line) + len(this_winner)) > 72:
+        if (len(title_line) + len(this_holder)) > 72:
             service_titles += title_line[0:72] + "\n"
             title_line = " " * (max_title_len + 2)
         title_line += this_holder
