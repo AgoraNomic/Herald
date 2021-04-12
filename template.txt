@@ -111,7 +111,7 @@
             Distributor:              Steve, Taral, omd
             Elder Lurker:             David Nicol, Michael
             Entrepreneur:             Chuck
-            Exorcist:                 Oerjan
+            Exorcist:                 Ørjan
             Fantasy Rule Catalyst:    Peter
             Fantasy Rule Compulsion   Zefram
             Fantasy Rule Conspirator: OscarMeyr
@@ -178,7 +178,7 @@
 
                            WINNERS' CUPS
             Paper Cup:     Dave Bowen, favor, Garth, Harlequin, Ian,
-                           Jeffrey, Michael, Murphy, Oerjan, Timothy,
+                           Jeffrey, Michael, Murphy, Ørjan, Timothy,
                            Vanyel
             Tin Cup:       Blob
             Glass Cup:     Swann, elJefe, KoJen, Troublemaker
