@@ -9,18 +9,21 @@
                                     NEWS
                              -------------------
 
-                 Changed "Tenhigitsune" to "天火狐" to better
-                   reflect this person's self-designation.
-                   
-                 ATMunn, Jason, and nix have received new Long
-                               Service Awards.
-                 
-                 Aris, Falsifian, Jason, and Trigon have received
-                   Long Service Awards lower than eir current
-                    highest that were not previously awarded.
-                 
-                 G. has become Champion via Transcending Logic,
-                          recorded here as Paradox.
+           Falsifian has won by collecting 5 stones and wielding the
+                 gauntlet. Recorded here as via Gauntlet.
+
+                   Falsifian has won by Economic Takeover.
+
+             Gaelan has won by transcending logic, recorded here
+                                as Paradox.
+
+                           Aris has won by Proposal.
+
+           nix has been awarded a Silver Quill for the year 2020, for
+                          proposal 8408 (Sets v1.4).
+
+           Aris has been awarded a Silver Quill for the year 2020, for
+                       proposal 8514 (The Buoyant Economy).
                              
                              -------------------
                                  CHAMPION by
@@ -168,7 +171,7 @@
 
                              SILVER QUILLS
             Alexis (2014/13: P 7629), ais523 (2015/07, 2016/13: P 8430)
-            G. (2019: P 8167)
+            G. (2019: P 8167), nix (2020: P 8408), Aris (2020: P 8514)
 
                              TAPECUTTERS
             G. (2020/06: P 8407)
