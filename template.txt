@@ -1,44 +1,40 @@
-                       ===============================
-                             THE SCROLL OF AGORA
-                       ===============================
+                    ===============================
+                          THE SCROLL OF AGORA
+                    ===============================
 
-                           Herald's Monthly Report
+                        Herald's Monthly Report
+
 {fancy_time}
 
-                             -------------------
-                                    NEWS
-                             -------------------
+                          -------------------
+                                  NEWS
+                          -------------------
 
-           Falsifian has won by collecting 5 stones and wielding the
-                 gauntlet. Recorded here as via Gauntlet.
+   Some of the scroll has been properly centered on 72 width. More to
+                                  come
 
-                   Falsifian has won by Economic Takeover.
+                     Jason has won by Renaissance.
 
-             Gaelan has won by transcending logic, recorded here
-                                as Paradox.
+       Aris has seen it wise to grant the titles Popular, Popular
+    Philanthropist, Very Popular, and Most Popular to some players.
+                    These are listed in "And More".
 
-                           Aris has won by Proposal.
+                       Alphabet re-alphabetized.
 
-           nix has been awarded a Silver Quill for the year 2020, for
-                          proposal 8408 (Sets v1.4).
-
-           Aris has been awarded a Silver Quill for the year 2020, for
-                       proposal 8514 (The Buoyant Economy).
-                             
-                             -------------------
-                                 CHAMPION by
-                             -------------------
+                          -------------------
+                              CHAMPION by
+                          -------------------
 {champions}
 
-                        --------------------------------
-                        ORDER OF THE HERO OF AGORA NOMIC
-                        --------------------------------
-                            GRAND HERO OF AGORA NOMIC
-                 Peter Suber, Chuck Carroll, Douglas Hofstadter,
-                 Michael Norrish
+                    --------------------------------
+                    ORDER OF THE HERO OF AGORA NOMIC
+                    --------------------------------
 
-                               HERO OF AGORA NOMIC
-                                 Murphy, G., omd
+                       GRAND HERO OF AGORA NOMIC
+    Peter Suber, Chuck Carroll, Douglas Hofstadter, Michael Norrish
+
+                          HERO OF AGORA NOMIC
+                            Murphy, G., omd
 
                                 ----------------
                                 HIGHER EDUCATION
@@ -53,6 +49,7 @@
        Magisteriate of Nomic (M.N.):                ais523, Jason
        Doctorate of Nomic History (D.N.Hist.):      Swann, Vlad
        Doctorate of Nomic Philosophy (D.N.Phil.):   Steve, ais523
+       Doctorate of Nomic Science (D.N.Sci.):       Jason
 
                                     ------
                                     BADGES
@@ -138,10 +135,15 @@
             MacGyver:                 Falsifian
             Maniac:                   Craig, Peekee, root
             Money Launderer:          R. Lee
+            Most Popular:             Aris
             Nomic Thief:              Swann
             Orator:                   twg
             Originator:               Chuck
             Plagiarist:               ehird
+            Popular:                  ATMunn, Aris, Cuddle Beam, 
+                                      cuddlybanana, G., Jason, Murphy,
+                                      Trigon.
+            Popular Philanthropist:   ATMunn
             Prince of Andorra:        Alexis
             Princess of Agora:        Alexis
             Reformist Bug:            Trigon
@@ -156,9 +158,10 @@
             Second fiddle:            omd
             Simon Said:               Wooble
             Sorcerer's Apprentice:    omd
-            Unchampion:               aranea
             Tiger Team:               Telnaior
             Too Intense:              Gaelan
+            Unchampion:               aranea
+            Very Popular:             Aris, Jason, Trigon
             273rd Prepared Piano:     Murphy
 
                              EMPLOYEE OF THE YEAR
