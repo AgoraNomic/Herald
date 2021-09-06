@@ -10,16 +10,11 @@
                                   NEWS
                           -------------------
 
-   Some of the scroll has been properly centered on 72 width. More to
-                                  come
-
-                     Jason has won by Renaissance.
-
-       Aris has seen it wise to grant the titles Popular, Popular
-    Philanthropist, Very Popular, and Most Popular to some players.
-                    These are listed in "And More".
-
-                       Alphabet re-alphabetized.
+          Aris has awarded Trigon the title Popular Polygon.
+          
+          R. Lee has won via paradox.
+          
+          R. Lee has won by Noticing the Gauntlet.
 
                           -------------------
                               CHAMPION by
@@ -142,8 +137,9 @@
             Plagiarist:               ehird
             Popular:                  ATMunn, Aris, Cuddle Beam, 
                                       cuddlybanana, G., Jason, Murphy,
-                                      Trigon.
+                                      Trigon
             Popular Philanthropist:   ATMunn
+            Popular Polygon:          Trigon
             Prince of Andorra:        Alexis
             Princess of Agora:        Alexis
             Reformist Bug:            Trigon

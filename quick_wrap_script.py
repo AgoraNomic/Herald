@@ -1,4 +1,4 @@
-messages = ["===============================", "THE SCROLL OF AGORA", "===============================", "Herald's Monthly Report", "-------------------", "NEWS", "-------------------", "Some of the scroll has been properly centered on 72 width. More to come", "Jason has won by Renaissance.","Aris has seen it wise to grant the titles Popular, Popular Philanthropist, Very Popular, and Most Popular to some players. These are listed in \"And More\".","Alphabet re-alphabetized.", "CHAMPION by", "ORDER OF THE HERO OF AGORA NOMIC", "--------------------------------", "GRAND HERO OF AGORA NOMIC","Peter Suber, Chuck Carroll, Douglas Hofstadter, Michael Norrish", "HERO OF AGORA NOMIC", "Murphy, G., omd"]
+messages = ["Aris has awarded Trigon the title Popular Polygon"]
 
 for item in messages:
     word_salad = item.split()
