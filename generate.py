@@ -26,24 +26,36 @@ fancy_time = " " * scroll_center(time_str) + time_str
 
 # import and process wins
 wins_lists = {}
-with open('Data/champions.csv', 'r') as infile:
-    in_wins = reader(infile, delimiter=',', quotechar="\"")
-    next(in_wins) #skip header line
-    for row in in_wins:
-        # If there's an entry in the "times" column, use it. Otherwise,
-        # assume it was just once.
-        times = 1
-        if row[5] != "":
-            times = int(row[5])
-        # If this title isn't in the dict yet, add it.
-        if not(row[0] in wins_lists):
-            wins_lists[row[0]] = {}
-        # If this person isn't in the title's dict yet, add em.
-        if not(row[1] in wins_lists[row[0]]):
-            wins_lists[row[0]][row[1]] = times
-        # If e already is, add the times to the current tally.
-        else:
-            wins_lists[row[0]][row[1]] += times
+service_lists = {}
+with open('Data/titles.csv', 'r') as infile:
+    in_titles = reader(infile, delimiter=',', quotechar="\"")
+    next(in_titles) #skip header line
+    
+    # add the titles for service manually, so they're sorted
+    service_lists["Three Months"] = []
+    service_lists["Six Months"] = []
+    service_lists["Nine Months"] = []
+    service_lists["Twelve Months"] = []
+    
+    for row in in_titles:
+        if row[0] == "Champion":
+            # If there's an entry in the "times" column, use it. Otherwise,
+            # assume it was just once.
+            times = 1
+            if row[6] != "":
+                times = int(row[6])
+            # If this title isn't in the dict yet, add it.
+            if not(row[1] in wins_lists):
+                wins_lists[row[1]] = {}
+            # If this person isn't in the title's dict yet, add em.
+            if not(row[2] in wins_lists[row[1]]):
+                wins_lists[row[1]][row[2]] = times
+            # If e already is, add the times to the current tally.
+            else:
+                wins_lists[row[1]][row[2]] += times
+        elif row[0] == "Service Award":
+            if not(row[2] in service_lists[row[1]]):
+                service_lists[row[1]].append(row[2])
 
 # format wins for the report
 max_title_len = 20
@@ -66,21 +78,6 @@ for title in wins_lists:
     # remove the last ", " and add a new line for the next title
     champions += champions_line[:-2] + "\n"
 
-
-# TODO: sort values here so I don't need a silly column in the csv
-# import and process service awards
-service_lists = {}
-with open('Data/service.csv', 'r') as infile:
-    in_service = reader(infile, delimiter=',', quotechar="\"")
-    next(in_service) #skip header line
-    for row in in_service:
-        # If this title isn't in the dict yet, add it.
-        if not(row[1] in service_lists):
-            service_lists[row[1]] = []
-        # If this person isn't in the title's list yet, add em.
-        if not(row[2] in service_lists[row[1]]):
-            service_lists[row[1]].append(row[2])
-
 service_titles = ""
 for title in service_lists:
     # pad to a length of 20, right-aligned
@@ -95,8 +92,6 @@ for title in service_lists:
         title_line += this_holder
     # remove the last ", " and add a new line for the next title
     service_titles += title_line[:-2] + "\n"
-
-print(service_lists)
 
 # Apply map and output report
 with open('template.txt', 'r') as infile:
