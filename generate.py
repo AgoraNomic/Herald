@@ -10,7 +10,7 @@ if isTest:
 def scroll_center(string):
     #TODO: fix the scroll alignment so I don't have to add an extra 2
     #TODO: maybe expand this function's usages? or get rid of it.
-    return int((72 / 2) - (len(string) / 2) + 2)
+    return int((72 / 2) - (len(string) / 2))
 
 # Determine timestamp
 now = datetime.now(timezone.utc)
