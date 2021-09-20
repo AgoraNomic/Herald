@@ -60,9 +60,12 @@ with open('Data/titles.csv', 'r') as infile:
                 
         # build player info
         if row[2] not in player_lists:
-            player_lists[row[2]] = []
+            player_lists[row[2]] = {}
         
-        player_lists[row[2]].append(row[1])
+        if row[0] not in player_lists[row[2]]:
+            player_lists[row[2]][row[0]] = []
+        
+        player_lists[row[2]][row[0]].append(row[1])
 
 print(player_lists)
 
@@ -71,11 +74,16 @@ with open('player_template.txt', 'r') as infile:
     pl_template = infile.read()
 
     for player in player_lists:
-        titles = player_lists[player]
+        titles = ""
+        for category in player_lists[player]:
+            titles+=category + "s: "
+            for title in player_lists[player][category]:
+                titles+= title + ", "
+            titles = titles[:-2] + "\n"
         
         pl_mapping = {'player': player, 'titles': titles}
 
-        with open('Players/' + player + '.txt', 'w') as ofile:
+        with open('Players/' + player + ".md", 'w') as ofile:
             ofile.write(pl_template.format_map(pl_mapping))
     
 # format wins for the report

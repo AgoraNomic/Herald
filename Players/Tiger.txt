@@ -1,5 +1,0 @@
-                    ===============================
-                          Tiger
-                    ===============================
-
-                        ['Agora XX', 'Order of the Lemming', 'High Score', 'Musicianship', 'Proposal', 'Three Months']

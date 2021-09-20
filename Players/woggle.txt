@@ -1,5 +1,0 @@
-                    ===============================
-                          woggle
-                    ===============================
-
-                        ['Agora XX', 'Coming of Age', 'Order of the Lemming', 'Proposal', 'Nine Months', 'Six Months', 'Three Months']

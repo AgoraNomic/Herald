@@ -1,5 +1,0 @@
-                    ===============================
-                          omd
-                    ===============================
-
-                        ['Agora XX', 'Badge of Diplonomic', 'Coming of Age', 'Order of the Lemming', 'Apathy', 'Escape', 'High Score', 'High Score', 'High Score', 'High Score', 'Junta', 'Junta', 'Lotto', 'Musicianship', 'Paradox', 'Proposal', 'Proposal', 'Solitude', 'Hero', 'Distributor', 'Rulebender', 'Scamster', 'Sorcerer’s Apprentice', 'Nine Months', 'Six Months', 'Three Months', 'Twelve Months']

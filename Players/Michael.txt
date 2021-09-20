@@ -1,5 +1,0 @@
-                    ===============================
-                          Michael
-                    ===============================
-
-                        ['Agora XX', 'Unspecified', 'Samurai', 'Shogun', 'Elder Lurker', 'Nine Months', 'Six Months', 'Three Months', 'Twelve Months', 'Paper Cup']

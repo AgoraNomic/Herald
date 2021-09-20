@@ -1,5 +1,0 @@
-                    ===============================
-                          Falsifian
-                    ===============================
-
-                        ['Badge of Diplonomic', 'Economic Takeover', 'Gauntlet', 'High Score', 'Spaaace', 'Juris Doctorate of Nomic', 'Employee of the Year', 'Hard Labor', 'MacGyver', 'Rulebender', 'Nine Months', 'Six Months', 'Three Months', 'Twelve Months', 'Wooden Gavel']
