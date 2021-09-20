@@ -79,7 +79,7 @@ with open('player_template.txt', 'r') as infile:
             titles+=category + "s: "
             for title in player_lists[player][category]:
                 titles+= title + ", "
-            titles = titles[:-2] + "\n"
+            titles = titles[:-2] + "\n\n"
         
         pl_mapping = {'player': player, 'titles': titles}
 
