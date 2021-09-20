@@ -1,0 +1,5 @@
+                    ===============================
+                          Taral
+                    ===============================
+
+                        ['Cards', 'Tournament', 'Current Champion', 'Distributor', 'Three Months']

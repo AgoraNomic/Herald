@@ -25,6 +25,7 @@ time_str = now.strftime('%B %d, %Y')
 fancy_time = " " * scroll_center(time_str) + time_str
 
 # import and process wins
+player_lists = {}
 wins_lists = {}
 service_lists = {}
 with open('Data/titles.csv', 'r') as infile:
@@ -56,7 +57,27 @@ with open('Data/titles.csv', 'r') as infile:
         elif row[0] == "Service Award":
             if not(row[2] in service_lists[row[1]]):
                 service_lists[row[1]].append(row[2])
+                
+        # build player info
+        if row[2] not in player_lists:
+            player_lists[row[2]] = []
+        
+        player_lists[row[2]].append(row[1])
 
+print(player_lists)
+
+# create player pages
+with open('player_template.txt', 'r') as infile:
+    pl_template = infile.read()
+
+    for player in player_lists:
+        titles = player_lists[player]
+        
+        pl_mapping = {'player': player, 'titles': titles}
+
+        with open('Players/' + player + '.txt', 'w') as ofile:
+            ofile.write(pl_template.format_map(pl_mapping))
+    
 # format wins for the report
 max_title_len = 20
 
