@@ -4,14 +4,17 @@
 
                         Herald's Monthly Report
 
-                            October 02, 2021
+                          September 06, 2021
 
                           -------------------
                                   NEWS
                           -------------------
 
-                   Trigon has been awarded Champion for
-                      winning via Economic Takeover.
+          Aris has awarded Trigon the title Popular Polygon.
+          
+          R. Lee has won via paradox.
+          
+          R. Lee has won by Noticing the Gauntlet.
 
                           -------------------
                               CHAMPION by
@@ -31,7 +34,7 @@
       Champion*(7/6): Chuck, elJefe, Kelly, KoJen, Morendil, Steve, 
                       Swann, Troublemaker at Large
                Clout: ais523, Alexis
-   Economic Takeover: Cuddlebeam, Falsifian, Trigon
+   Economic Takeover: Cuddlebeam, Falsifian
             Election: G.
               Escape: omd
             Gauntlet: Falsifian, R. Lee
