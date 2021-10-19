@@ -2,7 +2,7 @@
 
 Herald's Report Archive:
 
-[Scroll of Agora](scroll.md)
+[Scroll of Agora (WIP)](scroll.md)
 
 [Scroll of Agora (Plain text)](scroll.txt)
 

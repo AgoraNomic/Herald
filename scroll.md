@@ -1,7 +1,7 @@
-\                    ===============================
-\                          THE SCROLL OF AGORA
-\                    ===============================
-\
+                    ===============================
+                          THE SCROLL OF AGORA
+                    ===============================
+
                         Herald's Monthly Report
 
                             October 19, 2021
@@ -10,25 +10,25 @@
                                   NEWS
                           -------------------
 
-\                  [Trigon](Players/Trigon.md)has been awarded Champion for
-\                      winning via Economic Takeover.
-\                      
-\                        Removed Fugitives section.
+                  [Trigon](Players/Trigon.md)has been awarded Champion for
+                      winning via Economic Takeover.
+                      
+                        Removed Fugitives section.
 
-\                          -------------------
-\                              CHAMPION by
-\                          -------------------
-\             Anarchy: Alexis
-\              Apathy:[ais523](Players/ais523.md)[Aris](Players/Aris.md)[babelian](Players/babelian.md)[Bayushi](Players/Bayushi.md)[D. Margaux](Players/D. Margaux.md) 
-\                     [Gaelan](Players/Gaelan.md)(x2),[grok](Players/grok.md)[Ienpw III](Players/Ienpw III.md)[Murphy](Players/Murphy.md)[nix](Players/nix.md)[o](Players/o.md) 
-\                     [omd](Players/omd.md)[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)[Quazie](Players/Quazie.md) 
-\                     [R. Lee](Players/R. Lee.md)[Sprocklem](Players/Sprocklem.md)[tmanthe2nd](Players/tmanthe2nd.md)[twg](Players/twg.md)[Veggiekeks](Players/Veggiekeks.md) 
-\                     [Warrigal](Players/Warrigal.md) 天火狐
-\               Cards:[G.](Players/G..md)[Murphy](Players/Murphy.md)[OscarMeyr](Players/OscarMeyr.md)[root](Players/root.md) Taral
-\     Champion*(11/6): Kelly
-\      Champion*(3/2):[Chuck](Players/Chuck.md)[Kelly](Players/Kelly.md) Steve
-\      Champion*(4/3):[Chuck](Players/Chuck.md)[Kelly](Players/Kelly.md)[KoJen](Players/KoJen.md)[Steve](Players/Steve.md) 
-\                     [Troublemaker at Large](Players/Troublemaker at Large.md) Wes
+>                          -------------------
+>                              CHAMPION by
+>                          -------------------
+>             Anarchy: Alexis
+>              Apathy:[ais523](Players/ais523.md)[Aris](Players/Aris.md)[babelian](Players/babelian.md)[Bayushi](Players/Bayushi.md)[D. Margaux](Players/D. Margaux.md) 
+>                     [Gaelan](Players/Gaelan.md)(x2),[grok](Players/grok.md)[Ienpw III](Players/Ienpw III.md)[Murphy](Players/Murphy.md)[nix](Players/nix.md)[o](Players/o.md) 
+>                     [omd](Players/omd.md)[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)[Quazie](Players/Quazie.md) 
+>                     [R. Lee](Players/R. Lee.md)[Sprocklem](Players/Sprocklem.md)[tmanthe2nd](Players/tmanthe2nd.md)[twg](Players/twg.md)[Veggiekeks](Players/Veggiekeks.md) 
+>                     [Warrigal](Players/Warrigal.md) 天火狐
+>               Cards:[G.](Players/G..md)[Murphy](Players/Murphy.md)[OscarMeyr](Players/OscarMeyr.md)[root](Players/root.md) Taral
+>     Champion*(11/6): Kelly
+>      Champion*(3/2):[Chuck](Players/Chuck.md)[Kelly](Players/Kelly.md) Steve
+>      Champion*(4/3):[Chuck](Players/Chuck.md)[Kelly](Players/Kelly.md)[KoJen](Players/KoJen.md)[Steve](Players/Steve.md) 
+                     [Troublemaker at Large](Players/Troublemaker at Large.md) Wes
       Champion*(5/3):[Kelly](Players/Kelly.md) Steve
       Champion*(7/6):[Chuck](Players/Chuck.md)[elJefe](Players/elJefe.md)[Kelly](Players/Kelly.md)[KoJen](Players/KoJen.md)[Morendil](Players/Morendil.md)[Steve](Players/Steve.md) 
                      [Swann](Players/Swann.md) Troublemaker at Large
