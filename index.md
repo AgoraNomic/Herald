@@ -2,11 +2,13 @@
 
 Herald's Report Archive:
 
+[Scroll of Agora](scroll.md)
+
+[Scroll of Agora (Plain text)](scroll.txt)
+
 [2018 Birthday Tournament](birthday_tournament_2018.txt)
 
 [Theses](/Theses/)
-
-[Scroll of Agora](scroll.txt/)
 
 [Library and Archive of Agora](http://agoranomic.org/Library/)
 

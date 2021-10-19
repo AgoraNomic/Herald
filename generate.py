@@ -68,8 +68,6 @@ with open('Data/titles.csv', 'r') as infile:
         
         player_lists[row[2]][row[0]].append(row[1])
 
-print(player_lists)
-
 # create player pages
 with open('player_template.txt', 'r') as infile:
     pl_template = infile.read()
@@ -137,10 +135,19 @@ with open('template.txt', 'r') as infile:
 
 mapping = {'fancy_time': fancy_time, 'champions': champions, 'service_titles': service_titles}
 
+report = template.format_map(mapping)
+
 if isReport:
     with open('Reports/' + report_name + '.txt', 'w') as ofile:
-        ofile.write(template.format_map(mapping))
+        ofile.write(report)
 
 if not isTest:
     with open('scroll.txt', 'w') as ofile:
-        ofile.write(template.format_map(mapping))
+        ofile.write(report)
+    # Generate a version with hyperlinks
+    
+    for name in player_lists:
+        report = report.replace(name, "[" + name + "]" + "(" + "Players/" + name + ".md)")
+    
+    with open('scroll.md', 'w') as ofile:
+        ofile.write(report)
