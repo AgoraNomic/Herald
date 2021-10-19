@@ -86,6 +86,14 @@ with open('player_template.txt', 'r') as infile:
 
         with open('Players/' + player + ".md", 'w') as ofile:
             ofile.write(pl_template.format_map(pl_mapping))
+            
+# delete pages, in case of name change
+from os import listdir as listdir
+from os import remove as remove
+
+for page in listdir("Players/"):
+    if page[:-3] not in player_lists:
+        remove("Players/" + page)
     
 # format wins for the report
 max_title_len = 20
