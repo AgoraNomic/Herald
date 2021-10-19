@@ -3,6 +3,7 @@ from csv import reader
 from datetime import datetime, timezone 
 
 isTest = "-t" in argv
+isReport = "-r" in argv
 
 if isTest:
     print("Running test generation.")
@@ -128,8 +129,9 @@ with open('template.txt', 'r') as infile:
 
 mapping = {'fancy_time': fancy_time, 'champions': champions, 'service_titles': service_titles}
 
-with open('Reports/' + report_name + '.txt', 'w') as ofile:
-    ofile.write(template.format_map(mapping))
+if isReport:
+    with open('Reports/' + report_name + '.txt', 'w') as ofile:
+        ofile.write(template.format_map(mapping))
 
 if not isTest:
     with open('scroll.txt', 'w') as ofile:

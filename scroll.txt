@@ -4,7 +4,7 @@
 
                         Herald's Monthly Report
 
-                            October 02, 2021
+                            October 19, 2021
 
                           -------------------
                                   NEWS
@@ -12,6 +12,8 @@
 
                    Trigon has been awarded Champion for
                       winning via Economic Takeover.
+                      
+                        Removed Fugitives section.
 
                           -------------------
                               CHAMPION by
@@ -266,15 +268,6 @@
             Samurai:                  Michael, Murphy
             Shogun:                   Michael
             Zeitgeist:                Chuck (3848)
-
-                      FUGITIVES OF THE OLD LAW
-(A Fugitive is someone who last left Agora before completing eir
-    penal sentence - unofficial designation covers a range of penal
-    codes over time).
-         Elde, Time Agent, Antimatter, Proglet, Macross, root, Vlad,
-         Morendil, Beefurabi, elJefe, Ziggy, Evantine, pTang, Blaise,
-         Syllepsis, neil, Blob, Magu, Peekee, Cainech, t, Pakaran,
-         0x44, Elysion, Quazie
 
 22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
 
