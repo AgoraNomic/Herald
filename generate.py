@@ -147,7 +147,8 @@ if not isTest:
     # Generate a version with hyperlinks
     
     for name in player_lists:
-        report = report.replace(name, "[" + name + "]" + "(" + "Players/" + name + ".md)")
+        report = report.replace(" " + name + " ", "[" + name + "]" + "(" + "Players/" + name + ".md)")
+        report = report.replace(" " + name + ",", "[" + name + "]" + "(" + "Players/" + name + ".md)")
     
     with open('scroll.md', 'w') as ofile:
         ofile.write(report)
