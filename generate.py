@@ -148,7 +148,9 @@ if not isTest:
     
     for name in player_lists:
         report = report.replace(" " + name + " ", "[" + name + "]" + "(" + "Players/" + name + ".md)")
-        report = report.replace(" " + name + ",", "[" + name + "]" + "(" + "Players/" + name + ".md)")
+        report = report.replace(" " + name + ",", "[" + name + "]" + "(" + "Players/" + name + ".md),")
+        report = report.replace("\n" + name + ",", "\n[" + name + "]" + "(" + "Players/" + name + ".md)")
+        report = report.replace(" " + name + "\n", "\n[" + name + "]" + "(" + "Players/" + name + ".md)\n")
     
     with open('scroll.md', 'w') as ofile:
         ofile.write(report)

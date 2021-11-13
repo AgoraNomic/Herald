@@ -4,16 +4,13 @@
 
                         Herald's Monthly Report
 
-                            October 19, 2021
+                           November 13, 2021
 
                           -------------------
                                   NEWS
                           -------------------
 
-                   Trigon has been awarded Champion for
-                      winning via Economic Takeover.
-                      
-                        Removed Fugitives section.
+                    Name for tris' titles updated.
 
                           -------------------
                               CHAMPION by
@@ -22,7 +19,7 @@
               Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
                       Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
                       omd, Publius Scribonius Scholasticus, Quazie, 
-                      R. Lee, Sprocklem, tmanthe2nd, twg, Veggiekeks, 
+                      R. Lee, Sprocklem, tris, twg, Veggiekeks, 
                       Warrigal, 天火狐
                Cards: G., Murphy, OscarMeyr, root, Taral
      Champion*(11/6): Kelly
