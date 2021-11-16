@@ -4,7 +4,7 @@
 
                         Herald's Monthly Report
 
-                           November 13, 2021
+                           November 16, 2021
 
                           -------------------
                                   NEWS
@@ -154,7 +154,7 @@
 
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
-             tmanthe2nd,[G.](Players/G..md), CuddleBeam,[Ienpw III](Players/Ienpw III.md),[nix](Players/nix.md),[Alexis](Players/Alexis.md),
+            [tris](Players/tris.md),[G.](Players/G..md), CuddleBeam,[Ienpw III](Players/Ienpw III.md),[nix](Players/nix.md),[Alexis](Players/Alexis.md),
             [o](Players/o.md),[Ørjan](Players/Ørjan.md),[Aris](Players/Aris.md),[Murphy](Players/Murphy.md),[Quazie](Players/Quazie.md),
             [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[Sprocklem](Players/Sprocklem.md),[Veggiekeks](Players/Veggiekeks.md),
             [Roujo](Players/Roujo.md),[ais523](Players/ais523.md),[Gaelan](Players/Gaelan.md),[天火狐](Players/天火狐.md),
