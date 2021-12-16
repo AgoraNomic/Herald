@@ -371,6 +371,16 @@
 [Michael](Players/Michael.md)
             Zeitgeist:               [Chuck](Players/Chuck.md)(3848)
 
+                      FUGITIVES OF THE OLD LAW
+(A Fugitive is someone who last left Agora before completing eir
+    penal sentence - unofficial designation covers a range of penal
+    codes over time).
+        [Elde](Players/Elde.md),[Time Agent](Players/Time Agent.md),[Antimatter](Players/Antimatter.md),[Proglet](Players/Proglet.md),[Macross](Players/Macross.md),[root](Players/root.md),[Vlad](Players/Vlad.md),
+        [Morendil](Players/Morendil.md),[Beefurabi](Players/Beefurabi.md),[elJefe](Players/elJefe.md),[Ziggy](Players/Ziggy.md),[Evantine](Players/Evantine.md),[pTang](Players/pTang.md),[Blaise](Players/Blaise.md),
+        [Syllepsis](Players/Syllepsis.md),[neil](Players/neil.md),[Blob](Players/Blob.md),[Magu](Players/Magu.md),[Peekee](Players/Peekee.md),[Cainech](Players/Cainech.md),[t](Players/t.md),[Pakaran](Players/Pakaran.md),
+        [0x44](Players/0x44.md),[Elysion](Players/Elysion.md),
+[Quazie](Players/Quazie.md)
+
 22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
 
                        === END OF REPORT ===

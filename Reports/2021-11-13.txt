@@ -4,11 +4,13 @@
 
                         Herald's Monthly Report
 
-                           December 16, 2021
+                           November 13, 2021
 
                           -------------------
                                   NEWS
                           -------------------
+
+                    Name for tris' titles updated.
 
                           -------------------
                               CHAMPION by
@@ -116,7 +118,7 @@
 
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
-             tris, G., CuddleBeam, Ienpw III, nix, Alexis,
+             tmanthe2nd, G., CuddleBeam, Ienpw III, nix, Alexis,
              o, Ørjan, Aris, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
              Roujo, ais523, Gaelan, 天火狐, grok
@@ -263,15 +265,6 @@
             Samurai:                  Michael, Murphy
             Shogun:                   Michael
             Zeitgeist:                Chuck (3848)
-
-                      FUGITIVES OF THE OLD LAW
-(A Fugitive is someone who last left Agora before completing eir
-    penal sentence - unofficial designation covers a range of penal
-    codes over time).
-         Elde, Time Agent, Antimatter, Proglet, Macross, root, Vlad,
-         Morendil, Beefurabi, elJefe, Ziggy, Evantine, pTang, Blaise,
-         Syllepsis, neil, Blob, Magu, Peekee, Cainech, t, Pakaran,
-         0x44, Elysion, Quazie
 
 22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
 
