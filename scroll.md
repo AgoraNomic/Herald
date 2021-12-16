@@ -4,13 +4,11 @@
 
                         Herald's Monthly Report
 
-                           November 16, 2021
+                           December 16, 2021
 
                           -------------------
                                   NEWS
                           -------------------
-
-                    Name for tris' titles updated.
 
                           -------------------
                               CHAMPION by
