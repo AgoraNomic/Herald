@@ -16,7 +16,7 @@ now = datetime.now(timezone.utc)
 if isTest:
     print("Running test generation.")
     report_name = "test"
-else:
+elif isReport:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
     print("Generating report: " + report_name)
 

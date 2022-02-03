@@ -10,6 +10,11 @@
                                   NEWS
                           -------------------
 
+                [Aspen](Players/Aspen.md)has been awarded a patent title.
+                          
+                Some accidentally reverted changes in the
+                   last version have been unreverted.
+                          
                           -------------------
                               CHAMPION by
                           -------------------
@@ -73,8 +78,8 @@
                      [woggle](Players/woggle.md),
 [Yally](Players/Yally.md)
          Renaissance:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md)(x3),[G.](Players/G..md)(x3),[Jason](Players/Jason.md)(x2),[Murphy](Players/Murphy.md), 
-                     
-[twg](Players/twg.md)
+                     [twg](Players/twg.md),
+[Aspen](Players/Aspen.md)
          Rulebending:[G.](Players/G..md),[Jason](Players/Jason.md),
 [nix](Players/nix.md)
             Solitude:[ais523](Players/ais523.md)(x2),[Alexis](Players/Alexis.md)(x2),
