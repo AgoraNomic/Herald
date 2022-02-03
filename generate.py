@@ -3,6 +3,7 @@ from csv import reader
 from datetime import datetime, timezone 
 
 isTest = "-t" in argv
+isReport = "-r" in argv
 
 def scroll_center(string):
     #TODO: fix the scroll alignment so I don't have to add an extra 2
@@ -66,8 +67,6 @@ with open('Data/titles.csv', 'r') as infile:
         
         player_lists[row[2]][row[0]].append(row[1])
 
-print(player_lists)
-
 # create player pages
 with open('player_template.txt', 'r') as infile:
     pl_template = infile.read()
@@ -84,6 +83,14 @@ with open('player_template.txt', 'r') as infile:
 
         with open('Players/' + player + ".md", 'w') as ofile:
             ofile.write(pl_template.format_map(pl_mapping))
+            
+# delete pages, in case of name change
+from os import listdir as listdir
+from os import remove as remove
+
+for page in listdir("Players/"):
+    if page[:-3] not in player_lists:
+        remove("Players/" + page)
     
 # format wins for the report
 max_title_len = 20
@@ -127,9 +134,22 @@ with open('template.txt', 'r') as infile:
 
 mapping = {'fancy_time': fancy_time, 'champions': champions, 'service_titles': service_titles}
 
-with open('Reports/' + report_name + '.txt', 'w') as ofile:
-    ofile.write(template.format_map(mapping))
+report = template.format_map(mapping)
+
+if isReport:
+    with open('Reports/' + report_name + '.txt', 'w') as ofile:
+        ofile.write(report)
 
 if not isTest:
     with open('scroll.txt', 'w') as ofile:
-        ofile.write(template.format_map(mapping))
+        ofile.write(report)
+    # Generate a version with hyperlinks
+    
+    for name in player_lists:
+        report = report.replace(" " + name + " ", "[" + name + "]" + "(" + "Players/" + name + ".md)")
+        report = report.replace(" " + name + ",", "[" + name + "]" + "(" + "Players/" + name + ".md),")
+        report = report.replace("\n" + name + ",", "\n[" + name + "]" + "(" + "Players/" + name + ".md)")
+        report = report.replace(" " + name + "\n", "\n[" + name + "]" + "(" + "Players/" + name + ".md)\n")
+    
+    with open('scroll.md', 'w') as ofile:
+        ofile.write(report)
