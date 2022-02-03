@@ -19,7 +19,7 @@
                               CHAMPION by
                           -------------------
              Anarchy: Alexis
-              Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
+              Apathy: ais523, Aspen, babelian, Bayushi, D. Margaux, 
                       Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
                       omd, Publius Scribonius Scholasticus, Quazie, 
                       R. Lee, Sprocklem, tris, twg, Veggiekeks, 
@@ -49,9 +49,9 @@
         Musicianship: ais523, omd, Tiger, Wooble, Zefram
              Paradox: ais523, Alexis, BobTHJ (x2), Bucky (x2), ehird, 
                       G. (x2), Gaelan, Murphy, omd, R. Lee, root
-            Politics: Aris, D. Margaux (x2)
+            Politics: Aspen, D. Margaux (x2)
             Proposal: ais523 (x4), Alexis (x3), allispaul, Andon, 
-                      Andre (x3), Aris, BobTHJ, Bucky, Canada, 
+                      Andre (x3), Aspen, BobTHJ, Bucky, Canada, 
                       Cuddlebeam, D. Margaux (x501), G. (x2), 
                       Human Point Two, Morendil, Murphy, omd (x2), 
                       Spitemaster, Steve (x3), Tiger, Trigon, twg, 
@@ -61,7 +61,7 @@
          Rulebending: G., Jason, nix
             Solitude: ais523 (x2), Alexis (x2), omd
              Spaaace: Falsifian, Jason (x1000)
-          Tournament: Aris, ATMunn, G., grok, Jason (x2), OscarMeyr, 
+          Tournament: Aspen, ATMunn, G., grok, Jason (x2), OscarMeyr, 
                       Publius Scribonius Scholasticus, root, Taral, 
                       Wooble
          Unspecified: Blob, Chuck, Dave Bowen, elJefe, favor, Garth, 
@@ -84,7 +84,7 @@
                                 ----------------
                                 HIGHER EDUCATION
                                 ----------------
-       Associate of Nomic Artistry (A.N.A.):        Aris, Cuddlebeam
+       Associate of Nomic Artistry (A.N.A.):        Aspen, Cuddlebeam
        Associate of Nomic (A.N.):                   G., Alexis, twg
        Juris Doctorate of Nomic (J.N.):             Falsifian, G.
        Baccalaureate of Nomic (B.N.):               elJefe, favor,
@@ -122,20 +122,20 @@
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
              tris, G., CuddleBeam, Ienpw III, nix, Alexis,
-             o, Ørjan, Aris, Murphy, Quazie,
+             o, Ørjan, Aspen, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
              Roujo, ais523, Gaelan, 天火狐, grok
 
      Badge of the Salted Earth [2018]
       (awarded to Agoran persons who owned land in Agora in 2018)
-             Gaelan, Kenyon, Trigon, Corona, Aris, ATMunn, G.,
+             Gaelan, Kenyon, Trigon, Corona, Aspen, ATMunn, G.,
              Quazie, o, twg, Murphy, Publius Scribonius Scholasticus,
              R. Lee, D. Margaux
              
      Badge of Diplonomic [2020]
       (awarded to persons who played or otherwise participated in the
        2020 Birthday Tournament, Diplonomic)
-             ATMunn, G., Jason, Aris, Falsifian, R. Lee, omd, Trigon,
+             ATMunn, G., Jason, Aspen, Falsifian, R. Lee, omd, Trigon,
              Ben, Claire, Publius Scribonius Scholasticus
              
                                    --------
@@ -180,12 +180,12 @@
             MacGyver:                 Falsifian
             Maniac:                   Craig, Peekee, root
             Money Launderer:          R. Lee
-            Most Popular:             Aris
+            Most Popular:             Aspen
             Nomic Thief:              Swann
             Orator:                   twg
             Originator:               Chuck
             Plagiarist:               ehird
-            Popular:                  ATMunn, Aris, Cuddle Beam, 
+            Popular:                  ATMunn, Aspen, Cuddle Beam, 
                                       cuddlybanana, G., Jason, Murphy,
                                       Trigon
             Popular Philanthropist:   ATMunn
@@ -194,7 +194,7 @@
             Princess of Agora:        Alexis
             Reformist Bug:            Trigon
             Roboticist General:       Jason
-            Rulebender:               Aris, Cuddle Beam, Falsifian, G.,
+            Rulebender:               Aspen, Cuddle Beam, Falsifian, G.,
                                       Gaelan, Jason, Murphy,
                                       Publius Scribonius Scholasticus,
                                       R. Lee, Trigon, nix, omd, twg
@@ -207,7 +207,7 @@
             Tiger Team:               Telnaior
             Too Intense:              Gaelan
             Unchampion:               aranea
-            Very Popular:             Aris, Jason, Trigon
+            Very Popular:             Aspen, Jason, Trigon
             273rd Prepared Piano:     Murphy
 
                              EMPLOYEE OF THE YEAR
@@ -216,26 +216,26 @@
 
 
                              LONG SERVICE AWARDS
-        Three Months: ais523, Alexis, aranea, Aris, ATMunn, BobTHJ, 
+        Three Months: ais523, Alexis, aranea, Aspen, ATMunn, BobTHJ, 
                       Falsifian, G., Iammers, Jason, Michael, Murphy, 
                       nix, omd, OscarMeyr, PerlNomic Partnership, 
                       Publius Scribonius Scholasticus, root, Sgeo, 
                       Sherlock, Taral, the AFO, Tiger, Trigon, woggle, 
                       Wooble, Yally, Zefram
-          Six Months: ais523, Alexis, aranea, Aris, Falsifian, G., 
+          Six Months: ais523, Alexis, aranea, Aspen, Falsifian, G., 
                       Jason, Michael, Murphy, omd, OscarMeyr, 
                       PerlNomic Partnership, root, Sherlock, Trigon, 
                       woggle, Wooble, Yally, Zefram
-         Nine Months: aranea, Aris, Falsifian, G., Jason, Michael, 
+         Nine Months: aranea, Aspen, Falsifian, G., Jason, Michael, 
                       Murphy, omd, OscarMeyr, root, Trigon, woggle, 
                       Wooble, Zefram
-       Twelve Months: Aris, Falsifian, G., Jason, Michael, Murphy, omd, 
-                      OscarMeyr, root, Trigon, Wooble, Zefram
+       Twelve Months: Aspen, Falsifian, G., Jason, Michael, Murphy, 
+                      omd, OscarMeyr, root, Trigon, Wooble, Zefram
 
 
                              SILVER QUILLS
             Alexis (2014/13: P 7629), ais523 (2015/07, 2016/13: P 8430)
-            G. (2019: P 8167), nix (2020: P 8408), Aris (2020: P 8514)
+            G. (2019: P 8167), nix (2020: P 8408), Aspen (2020: P 8514)
 
                              TAPECUTTERS
             G. (2020/06: P 8407)

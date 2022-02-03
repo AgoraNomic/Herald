@@ -20,7 +20,7 @@
                           -------------------
              Anarchy:
 [Alexis](Players/Alexis.md)
-              Apathy:[ais523](Players/ais523.md),[Aris](Players/Aris.md),[babelian](Players/babelian.md),[Bayushi](Players/Bayushi.md),[D. Margaux](Players/D. Margaux.md), 
+              Apathy:[ais523](Players/ais523.md),[Aspen](Players/Aspen.md),[babelian](Players/babelian.md),[Bayushi](Players/Bayushi.md),[D. Margaux](Players/D. Margaux.md), 
                      [Gaelan](Players/Gaelan.md)(x2),[grok](Players/grok.md),[Ienpw III](Players/Ienpw III.md),[Murphy](Players/Murphy.md),[nix](Players/nix.md),[o](Players/o.md), 
                      [omd](Players/omd.md),[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[Quazie](Players/Quazie.md), 
                      [R. Lee](Players/R. Lee.md),[Sprocklem](Players/Sprocklem.md),[tris](Players/tris.md),[twg](Players/twg.md),[Veggiekeks](Players/Veggiekeks.md), 
@@ -69,9 +69,9 @@
              Paradox:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[BobTHJ](Players/BobTHJ.md)(x2),[Bucky](Players/Bucky.md)(x2),[ehird](Players/ehird.md), 
                      [G.](Players/G..md)(x2),[Gaelan](Players/Gaelan.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md),[R. Lee](Players/R. Lee.md),
 [root](Players/root.md)
-            Politics:[Aris](Players/Aris.md),[D. Margaux](Players/D. Margaux.md)(x2)
+            Politics:[Aspen](Players/Aspen.md),[D. Margaux](Players/D. Margaux.md)(x2)
             Proposal:[ais523](Players/ais523.md)(x4),[Alexis](Players/Alexis.md)(x3),[allispaul](Players/allispaul.md),[Andon](Players/Andon.md), 
-                     [Andre](Players/Andre.md)(x3),[Aris](Players/Aris.md),[BobTHJ](Players/BobTHJ.md),[Bucky](Players/Bucky.md),[Canada](Players/Canada.md), 
+                     [Andre](Players/Andre.md)(x3),[Aspen](Players/Aspen.md),[BobTHJ](Players/BobTHJ.md),[Bucky](Players/Bucky.md),[Canada](Players/Canada.md), 
                      [Cuddlebeam](Players/Cuddlebeam.md),[D. Margaux](Players/D. Margaux.md)(x501),[G.](Players/G..md)(x2), 
                      [Human Point Two](Players/Human Point Two.md),[Morendil](Players/Morendil.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md)(x2), 
                      [Spitemaster](Players/Spitemaster.md),[Steve](Players/Steve.md)(x3),[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[twg](Players/twg.md), 
@@ -85,7 +85,7 @@
             Solitude:[ais523](Players/ais523.md)(x2),[Alexis](Players/Alexis.md)(x2),
 [omd](Players/omd.md)
              Spaaace:[Falsifian](Players/Falsifian.md),[Jason](Players/Jason.md)(x1000)
-          Tournament:[Aris](Players/Aris.md),[ATMunn](Players/ATMunn.md),[G.](Players/G..md),[grok](Players/grok.md),[Jason](Players/Jason.md)(x2),[OscarMeyr](Players/OscarMeyr.md), 
+          Tournament:[Aspen](Players/Aspen.md),[ATMunn](Players/ATMunn.md),[G.](Players/G..md),[grok](Players/grok.md),[Jason](Players/Jason.md)(x2),[OscarMeyr](Players/OscarMeyr.md), 
                      [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[root](Players/root.md),[Taral](Players/Taral.md), 
                      
 [Wooble](Players/Wooble.md)
@@ -111,7 +111,7 @@
                                 ----------------
                                 HIGHER EDUCATION
                                 ----------------
-       Associate of Nomic Artistry (A.N.A.):       [Aris](Players/Aris.md),
+       Associate of Nomic Artistry (A.N.A.):       [Aspen](Players/Aspen.md),
 [Cuddlebeam](Players/Cuddlebeam.md)
        Associate of Nomic (A.N.):                  [G.](Players/G..md),[Alexis](Players/Alexis.md),
 [twg](Players/twg.md)
@@ -158,14 +158,14 @@
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
             [tris](Players/tris.md),[G.](Players/G..md), CuddleBeam,[Ienpw III](Players/Ienpw III.md),[nix](Players/nix.md),[Alexis](Players/Alexis.md),
-            [o](Players/o.md),[Ørjan](Players/Ørjan.md),[Aris](Players/Aris.md),[Murphy](Players/Murphy.md),[Quazie](Players/Quazie.md),
+            [o](Players/o.md),[Ørjan](Players/Ørjan.md),[Aspen](Players/Aspen.md),[Murphy](Players/Murphy.md),[Quazie](Players/Quazie.md),
             [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[Sprocklem](Players/Sprocklem.md),[Veggiekeks](Players/Veggiekeks.md),
             [Roujo](Players/Roujo.md),[ais523](Players/ais523.md),[Gaelan](Players/Gaelan.md),[天火狐](Players/天火狐.md),
 [grok](Players/grok.md)
 
      Badge of the Salted Earth [2018]
       (awarded to Agoran persons who owned land in Agora in 2018)
-            [Gaelan](Players/Gaelan.md),[Kenyon](Players/Kenyon.md),[Trigon](Players/Trigon.md),[Corona](Players/Corona.md),[Aris](Players/Aris.md),[ATMunn](Players/ATMunn.md),[G.](Players/G..md),
+            [Gaelan](Players/Gaelan.md),[Kenyon](Players/Kenyon.md),[Trigon](Players/Trigon.md),[Corona](Players/Corona.md),[Aspen](Players/Aspen.md),[ATMunn](Players/ATMunn.md),[G.](Players/G..md),
             [Quazie](Players/Quazie.md),[o](Players/o.md),[twg](Players/twg.md),[Murphy](Players/Murphy.md),[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),
             [R. Lee](Players/R. Lee.md),
 [D. Margaux](Players/D. Margaux.md)
@@ -173,7 +173,7 @@
      Badge of Diplonomic [2020]
       (awarded to persons who played or otherwise participated in the
        2020 Birthday Tournament, Diplonomic)
-            [ATMunn](Players/ATMunn.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Aris](Players/Aris.md),[Falsifian](Players/Falsifian.md),[R. Lee](Players/R. Lee.md),[omd](Players/omd.md),[Trigon](Players/Trigon.md),
+            [ATMunn](Players/ATMunn.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[R. Lee](Players/R. Lee.md),[omd](Players/omd.md),[Trigon](Players/Trigon.md),
             [Ben](Players/Ben.md),[Claire](Players/Claire.md),
 [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)
              
@@ -248,7 +248,7 @@
             Money Launderer:         
 [R. Lee](Players/R. Lee.md)
             Most Popular:            
-[Aris](Players/Aris.md)
+[Aspen](Players/Aspen.md)
             Nomic Thief:             
 [Swann](Players/Swann.md)
             Orator:                  
@@ -257,7 +257,7 @@
 [Chuck](Players/Chuck.md)
             Plagiarist:              
 [ehird](Players/ehird.md)
-            Popular:                 [ATMunn](Players/ATMunn.md),[Aris](Players/Aris.md), Cuddle Beam, 
+            Popular:                 [ATMunn](Players/ATMunn.md),[Aspen](Players/Aspen.md), Cuddle Beam, 
                                      [cuddlybanana](Players/cuddlybanana.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Murphy](Players/Murphy.md),
                                      
 [Trigon](Players/Trigon.md)
@@ -273,7 +273,7 @@
 [Trigon](Players/Trigon.md)
             Roboticist General:      
 [Jason](Players/Jason.md)
-            Rulebender:              [Aris](Players/Aris.md), Cuddle Beam,[Falsifian](Players/Falsifian.md),[G.](Players/G..md),
+            Rulebender:              [Aspen](Players/Aspen.md), Cuddle Beam,[Falsifian](Players/Falsifian.md),[G.](Players/G..md),
                                      [Gaelan](Players/Gaelan.md),[Jason](Players/Jason.md),[Murphy](Players/Murphy.md),
                                      [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),
                                      [R. Lee](Players/R. Lee.md),[Trigon](Players/Trigon.md),[nix](Players/nix.md),[omd](Players/omd.md),
@@ -294,7 +294,7 @@
 [Gaelan](Players/Gaelan.md)
             Unchampion:              
 [aranea](Players/aranea.md)
-            Very Popular:            [Aris](Players/Aris.md),[Jason](Players/Jason.md),
+            Very Popular:            [Aspen](Players/Aspen.md),[Jason](Players/Jason.md),
 [Trigon](Players/Trigon.md)
             273rd Prepared Piano:    
 [Murphy](Players/Murphy.md)
@@ -305,30 +305,30 @@
 
 
                              LONG SERVICE AWARDS
-        Three Months:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[aranea](Players/aranea.md),[Aris](Players/Aris.md),[ATMunn](Players/ATMunn.md),[BobTHJ](Players/BobTHJ.md), 
+        Three Months:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[aranea](Players/aranea.md),[Aspen](Players/Aspen.md),[ATMunn](Players/ATMunn.md),[BobTHJ](Players/BobTHJ.md), 
                      [Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Iammers](Players/Iammers.md),[Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md), 
                      [nix](Players/nix.md),[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md),[PerlNomic Partnership](Players/PerlNomic Partnership.md), 
                      [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[root](Players/root.md),[Sgeo](Players/Sgeo.md), 
                      [Sherlock](Players/Sherlock.md),[Taral](Players/Taral.md),[the AFO](Players/the AFO.md),[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[woggle](Players/woggle.md), 
                      [Wooble](Players/Wooble.md),[Yally](Players/Yally.md),
 [Zefram](Players/Zefram.md)
-          Six Months:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[aranea](Players/aranea.md),[Aris](Players/Aris.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md), 
+          Six Months:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[aranea](Players/aranea.md),[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md), 
                      [Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md), 
                      [PerlNomic Partnership](Players/PerlNomic Partnership.md),[root](Players/root.md),[Sherlock](Players/Sherlock.md),[Trigon](Players/Trigon.md), 
                      [woggle](Players/woggle.md),[Wooble](Players/Wooble.md),[Yally](Players/Yally.md),
 [Zefram](Players/Zefram.md)
-         Nine Months:[aranea](Players/aranea.md),[Aris](Players/Aris.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Michael](Players/Michael.md), 
+         Nine Months:[aranea](Players/aranea.md),[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Michael](Players/Michael.md), 
                      [Murphy](Players/Murphy.md),[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md),[root](Players/root.md),[Trigon](Players/Trigon.md),[woggle](Players/woggle.md), 
                      [Wooble](Players/Wooble.md),
 [Zefram](Players/Zefram.md)
-       Twelve Months:[Aris](Players/Aris.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md), 
-                     [OscarMeyr](Players/OscarMeyr.md),[root](Players/root.md),[Trigon](Players/Trigon.md),[Wooble](Players/Wooble.md),
+       Twelve Months:[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md), 
+                     [omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md),[root](Players/root.md),[Trigon](Players/Trigon.md),[Wooble](Players/Wooble.md),
 [Zefram](Players/Zefram.md)
 
 
                              SILVER QUILLS
            [Alexis](Players/Alexis.md)(2014/13: P 7629),[ais523](Players/ais523.md)(2015/07, 2016/13: P 8430)
-           [G.](Players/G..md)(2019: P 8167),[nix](Players/nix.md)(2020: P 8408),[Aris](Players/Aris.md)(2020: P 8514)
+           [G.](Players/G..md)(2019: P 8167),[nix](Players/nix.md)(2020: P 8408),[Aspen](Players/Aspen.md)(2020: P 8514)
 
                              TAPECUTTERS
            [G.](Players/G..md)(2020/06: P 8407)
