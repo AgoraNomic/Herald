@@ -10,6 +10,9 @@
                                   NEWS
                           -------------------
 
+                   Trigon has been awarded Champion for
+                      winning via Economic Takeover.
+
                           -------------------
                               CHAMPION by
                           -------------------
@@ -17,7 +20,7 @@
               Apathy: ais523, Aris, babelian, Bayushi, D. Margaux, 
                       Gaelan (x2), grok, Ienpw III, Murphy, nix, o, 
                       omd, Publius Scribonius Scholasticus, Quazie, 
-                      R. Lee, Sprocklem, tris, twg, Veggiekeks, 
+                      R. Lee, Sprocklem, tmanthe2nd, twg, Veggiekeks, 
                       Warrigal, 天火狐
                Cards: G., Murphy, OscarMeyr, root, Taral
      Champion*(11/6): Kelly
@@ -116,7 +119,7 @@
 
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
-             tris, G., CuddleBeam, Ienpw III, nix, Alexis,
+             tmanthe2nd, G., CuddleBeam, Ienpw III, nix, Alexis,
              o, Ørjan, Aris, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
              Roujo, ais523, Gaelan, 天火狐, grok

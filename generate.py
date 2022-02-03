@@ -5,9 +5,6 @@ from datetime import datetime, timezone
 isTest = "-t" in argv
 isReport = "-r" in argv
 
-if isTest:
-    print("Running test generation.")
-
 def scroll_center(string):
     #TODO: fix the scroll alignment so I don't have to add an extra 2
     #TODO: maybe expand this function's usages? or get rid of it.
@@ -17,9 +14,11 @@ def scroll_center(string):
 now = datetime.now(timezone.utc)
 
 if isTest:
+    print("Running test generation.")
     report_name = "test"
 else:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
+    print("Generating report: " + report_name)
 
 time_str = now.strftime('%B %d, %Y')
 

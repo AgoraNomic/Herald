@@ -4,7 +4,7 @@
 
                         Herald's Monthly Report
 
-                           December 16, 2021
+                           February 03, 2022
 
                           -------------------
                                   NEWS
