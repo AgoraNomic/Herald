@@ -1,568 +1,568 @@
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ===============================
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;===============================
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; THE SCROLL OF AGORA
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;THE&ensp;SCROLL&ensp;OF&ensp;AGORA
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ===============================
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;===============================
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Herald's Monthly Report
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Herald's&ensp;Monthly&ensp;Report
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  February 05, 2022
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;February&ensp;05,&ensp;2022
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; -------------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-------------------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; NEWS
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;NEWS
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; -------------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-------------------
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Aspen](Players/Aspen.md)has been awarded a patent title.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Aspen]&ensp;(Players/Aspen.md)&ensp;has&ensp;been&ensp;awarded&ensp;a&ensp;patent&ensp;title.
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Some accidentally reverted changes in the
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Some&ensp;accidentally&ensp;reverted&ensp;changes&ensp;in&ensp;the
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  last version have been unreverted.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;last&ensp;version&ensp;have&ensp;been&ensp;unreverted.
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; -------------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-------------------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; CHAMPION by
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;CHAMPION&ensp;by
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; -------------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-------------------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Anarchy:[Alexis](Players/Alexis.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Anarchy:&ensp;[Alexis](Players/Alexis.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Apathy:[ais523](Players/ais523.md),[Aspen](Players/Aspen.md),[babelian](Players/babelian.md),[Bayushi](Players/Bayushi.md),[D. Margaux](Players/D. Margaux.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Apathy:[ais523]&ensp;(Players/ais523.md),[Aspen]&ensp;(Players/Aspen.md),[babelian]&ensp;(Players/babelian.md),[Bayushi]&ensp;(Players/Bayushi.md),[D.&ensp;Margaux]&ensp;(Players/D.&ensp;Margaux.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Gaelan](Players/Gaelan.md)(x2),[grok](Players/grok.md),[Ienpw III](Players/Ienpw III.md),[Murphy](Players/Murphy.md),[nix](Players/nix.md),[o](Players/o.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Gaelan]&ensp;(Players/Gaelan.md)&ensp;(x2),[grok]&ensp;(Players/grok.md),[Ienpw&ensp;III]&ensp;(Players/Ienpw&ensp;III.md),[Murphy]&ensp;(Players/Murphy.md),[nix]&ensp;(Players/nix.md),[o]&ensp;(Players/o.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[omd](Players/omd.md),[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[Quazie](Players/Quazie.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[omd]&ensp;(Players/omd.md),[Publius&ensp;Scribonius&ensp;Scholasticus]&ensp;(Players/Publius&ensp;Scribonius&ensp;Scholasticus.md),[Quazie]&ensp;(Players/Quazie.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[R. Lee](Players/R. Lee.md),[Sprocklem](Players/Sprocklem.md),[tris](Players/tris.md),[twg](Players/twg.md),[Veggiekeks](Players/Veggiekeks.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[R.&ensp;Lee]&ensp;(Players/R.&ensp;Lee.md),[Sprocklem]&ensp;(Players/Sprocklem.md),[tris]&ensp;(Players/tris.md),[twg]&ensp;(Players/twg.md),[Veggiekeks]&ensp;(Players/Veggiekeks.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Warrigal](Players/Warrigal.md),[天火狐](Players/天火狐.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Warrigal]&ensp;(Players/Warrigal.md),&ensp;[天火狐](Players/天火狐.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Cards:[G.](Players/G..md),[Murphy](Players/Murphy.md),[OscarMeyr](Players/OscarMeyr.md),[root](Players/root.md),[Taral](Players/Taral.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Cards:[G.]&ensp;(Players/G..md),[Murphy]&ensp;(Players/Murphy.md),[OscarMeyr]&ensp;(Players/OscarMeyr.md),[root]&ensp;(Players/root.md),&ensp;[Taral](Players/Taral.md)
 
-&ensp; &ensp;  Champion*(11/6):[Kelly](Players/Kelly.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;Champion*(11/6):&ensp;[Kelly](Players/Kelly.md)
 
-&ensp; &ensp; &ensp; Champion*(3/2):[Chuck](Players/Chuck.md),[Kelly](Players/Kelly.md),[Steve](Players/Steve.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Champion*(3/2):[Chuck]&ensp;(Players/Chuck.md),[Kelly]&ensp;(Players/Kelly.md),&ensp;[Steve](Players/Steve.md)
 
-&ensp; &ensp; &ensp; Champion*(4/3):[Chuck](Players/Chuck.md),[Kelly](Players/Kelly.md),[KoJen](Players/KoJen.md),[Steve](Players/Steve.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Champion*(4/3):[Chuck]&ensp;(Players/Chuck.md),[Kelly]&ensp;(Players/Kelly.md),[KoJen]&ensp;(Players/KoJen.md),[Steve]&ensp;(Players/Steve.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Troublemaker at Large](Players/Troublemaker at Large.md),[Wes](Players/Wes.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Troublemaker&ensp;at&ensp;Large]&ensp;(Players/Troublemaker&ensp;at&ensp;Large.md),&ensp;[Wes](Players/Wes.md)
 
-&ensp; &ensp; &ensp; Champion*(5/3):[Kelly](Players/Kelly.md),[Steve](Players/Steve.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Champion*(5/3):[Kelly]&ensp;(Players/Kelly.md),&ensp;[Steve](Players/Steve.md)
 
-&ensp; &ensp; &ensp; Champion*(7/6):[Chuck](Players/Chuck.md),[elJefe](Players/elJefe.md),[Kelly](Players/Kelly.md),[KoJen](Players/KoJen.md),[Morendil](Players/Morendil.md),[Steve](Players/Steve.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Champion*(7/6):[Chuck]&ensp;(Players/Chuck.md),[elJefe]&ensp;(Players/elJefe.md),[Kelly]&ensp;(Players/Kelly.md),[KoJen]&ensp;(Players/KoJen.md),[Morendil]&ensp;(Players/Morendil.md),[Steve]&ensp;(Players/Steve.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Swann](Players/Swann.md),[Troublemaker at Large](Players/Troublemaker at Large.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Swann]&ensp;(Players/Swann.md),&ensp;[Troublemaker&ensp;at&ensp;Large](Players/Troublemaker&ensp;at&ensp;Large.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Clout:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Clout:[ais523]&ensp;(Players/ais523.md),&ensp;[Alexis](Players/Alexis.md)
 
-&ensp;  Economic Takeover:[Madrid](Players/Madrid.md),[Falsifian](Players/Falsifian.md),[Trigon](Players/Trigon.md)
+&ensp;&ensp;&ensp;Economic&ensp;Takeover:[Madrid]&ensp;(Players/Madrid.md),[Falsifian]&ensp;(Players/Falsifian.md),&ensp;[Trigon](Players/Trigon.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Election:[G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Election:&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Escape:[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Escape:&ensp;[omd](Players/omd.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Gauntlet:[Falsifian](Players/Falsifian.md),[R. Lee](Players/R. Lee.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Gauntlet:[Falsifian]&ensp;(Players/Falsifian.md),&ensp;[R.&ensp;Lee](Players/R.&ensp;Lee.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; High Score:[ais523](Players/ais523.md)(x3),[Alexis](Players/Alexis.md)(x2),[BobTHJ](Players/BobTHJ.md),[Madrid](Players/Madrid.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;High&ensp;Score:[ais523]&ensp;(Players/ais523.md)&ensp;(x3),[Alexis]&ensp;(Players/Alexis.md)&ensp;(x2),[BobTHJ]&ensp;(Players/BobTHJ.md),[Madrid]&ensp;(Players/Madrid.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Elysion](Players/Elysion.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md)(x2),[Jason](Players/Jason.md),[Levi](Players/Levi.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Elysion]&ensp;(Players/Elysion.md),[Falsifian]&ensp;(Players/Falsifian.md),[G.]&ensp;(Players/G..md)&ensp;(x2),[Jason]&ensp;(Players/Jason.md),[Levi]&ensp;(Players/Levi.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Murphy](Players/Murphy.md)(x3),[omd](Players/omd.md)(x4),[Pavitra](Players/Pavitra.md),[root](Players/root.md),[Steve](Players/Steve.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy]&ensp;(Players/Murphy.md)&ensp;(x3),[omd]&ensp;(Players/omd.md)&ensp;(x4),[Pavitra]&ensp;(Players/Pavitra.md),[root]&ensp;(Players/root.md),[Steve]&ensp;(Players/Steve.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[twg](Players/twg.md)(x2),[Walker](Players/Walker.md),[Wooble](Players/Wooble.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Tiger]&ensp;(Players/Tiger.md),[Trigon]&ensp;(Players/Trigon.md),[twg]&ensp;(Players/twg.md)&ensp;(x2),[Walker]&ensp;(Players/Walker.md),&ensp;[Wooble](Players/Wooble.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Junta:[ais523](Players/ais523.md)(x2),[Alexis](Players/Alexis.md),[G.](Players/G..md),[nix](Players/nix.md),[omd](Players/omd.md)(x2), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Junta:[ais523]&ensp;(Players/ais523.md)&ensp;(x2),[Alexis]&ensp;(Players/Alexis.md),[G.]&ensp;(Players/G..md),[nix]&ensp;(Players/nix.md),[omd]&ensp;(Players/omd.md)&ensp;(x2),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[OscarMeyr](Players/OscarMeyr.md),[the AFO](Players/the AFO.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[OscarMeyr]&ensp;(Players/OscarMeyr.md),&ensp;[the&ensp;AFO](Players/the&ensp;AFO.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; Leadership:[ais523](Players/ais523.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Leadership:&ensp;[ais523](Players/ais523.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Lotto:[Alexis](Players/Alexis.md),[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Lotto:[Alexis]&ensp;(Players/Alexis.md),&ensp;[omd](Players/omd.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Maniac:[Craig](Players/Craig.md),[root](Players/root.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Maniac:[Craig]&ensp;(Players/Craig.md),&ensp;[root](Players/root.md)
 
-&ensp; &ensp; &ensp; &ensp; Musicianship:[ais523](Players/ais523.md),[omd](Players/omd.md),[Tiger](Players/Tiger.md),[Wooble](Players/Wooble.md),[Zefram](Players/Zefram.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Musicianship:[ais523]&ensp;(Players/ais523.md),[omd]&ensp;(Players/omd.md),[Tiger]&ensp;(Players/Tiger.md),[Wooble]&ensp;(Players/Wooble.md),&ensp;[Zefram](Players/Zefram.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Paradox:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[BobTHJ](Players/BobTHJ.md)(x2),[Bucky](Players/Bucky.md)(x2),[ehird](Players/ehird.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Paradox:[ais523]&ensp;(Players/ais523.md),[Alexis]&ensp;(Players/Alexis.md),[BobTHJ]&ensp;(Players/BobTHJ.md)&ensp;(x2),[Bucky]&ensp;(Players/Bucky.md)&ensp;(x2),[ehird]&ensp;(Players/ehird.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[G.](Players/G..md)(x2),[Gaelan](Players/Gaelan.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md),[R. Lee](Players/R. Lee.md),[root](Players/root.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.]&ensp;(Players/G..md)&ensp;(x2),[Gaelan]&ensp;(Players/Gaelan.md),[Murphy]&ensp;(Players/Murphy.md),[omd]&ensp;(Players/omd.md),[R.&ensp;Lee]&ensp;(Players/R.&ensp;Lee.md),&ensp;[root](Players/root.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Politics:[Aspen](Players/Aspen.md),[D. Margaux](Players/D. Margaux.md)(x2)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Politics:[Aspen]&ensp;(Players/Aspen.md),[D.&ensp;Margaux]&ensp;(Players/D.&ensp;Margaux.md)&ensp;(x2)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Proposal:[ais523](Players/ais523.md)(x4),[Alexis](Players/Alexis.md)(x3),[allispaul](Players/allispaul.md),[Andon](Players/Andon.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Proposal:[ais523]&ensp;(Players/ais523.md)&ensp;(x4),[Alexis]&ensp;(Players/Alexis.md)&ensp;(x3),[allispaul]&ensp;(Players/allispaul.md),[Andon]&ensp;(Players/Andon.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Andre](Players/Andre.md)(x3),[Aspen](Players/Aspen.md),[BobTHJ](Players/BobTHJ.md),[Bucky](Players/Bucky.md),[Canada](Players/Canada.md),[Madrid](Players/Madrid.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Andre]&ensp;(Players/Andre.md)&ensp;(x3),[Aspen]&ensp;(Players/Aspen.md),[BobTHJ]&ensp;(Players/BobTHJ.md),[Bucky]&ensp;(Players/Bucky.md),[Canada]&ensp;(Players/Canada.md),[Madrid]&ensp;(Players/Madrid.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[D. Margaux](Players/D. Margaux.md)(x501),[G.](Players/G..md)(x2),[Human Point Two](Players/Human Point Two.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[D.&ensp;Margaux]&ensp;(Players/D.&ensp;Margaux.md)&ensp;(x501),[G.]&ensp;(Players/G..md)&ensp;(x2),[Human&ensp;Point&ensp;Two]&ensp;(Players/Human&ensp;Point&ensp;Two.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Morendil](Players/Morendil.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md)(x2),[Spitemaster](Players/Spitemaster.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Morendil]&ensp;(Players/Morendil.md),[Murphy]&ensp;(Players/Murphy.md),[omd]&ensp;(Players/omd.md)&ensp;(x2),[Spitemaster]&ensp;(Players/Spitemaster.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Steve](Players/Steve.md)(x3),[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[twg](Players/twg.md),[woggle](Players/woggle.md),[Yally](Players/Yally.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Steve]&ensp;(Players/Steve.md)&ensp;(x3),[Tiger]&ensp;(Players/Tiger.md),[Trigon]&ensp;(Players/Trigon.md),[twg]&ensp;(Players/twg.md),[woggle]&ensp;(Players/woggle.md),&ensp;[Yally](Players/Yally.md)
 
-&ensp; &ensp; &ensp; &ensp;  Renaissance:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md)(x3),[G.](Players/G..md)(x3),[Jason](Players/Jason.md)(x2),[Murphy](Players/Murphy.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Renaissance:[ais523]&ensp;(Players/ais523.md),[Alexis]&ensp;(Players/Alexis.md)&ensp;(x3),[G.]&ensp;(Players/G..md)&ensp;(x3),[Jason]&ensp;(Players/Jason.md)&ensp;(x2),[Murphy]&ensp;(Players/Murphy.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[twg](Players/twg.md),[Aspen](Players/Aspen.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[twg]&ensp;(Players/twg.md),&ensp;[Aspen](Players/Aspen.md)
 
-&ensp; &ensp; &ensp; &ensp;  Rulebending:[G.](Players/G..md),[Jason](Players/Jason.md),[nix](Players/nix.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Rulebending:[G.]&ensp;(Players/G..md),[Jason]&ensp;(Players/Jason.md),&ensp;[nix](Players/nix.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Solitude:[ais523](Players/ais523.md)(x2),[Alexis](Players/Alexis.md)(x2),[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Solitude:[ais523]&ensp;(Players/ais523.md)&ensp;(x2),[Alexis]&ensp;(Players/Alexis.md)&ensp;(x2),&ensp;[omd](Players/omd.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Spaaace:[Falsifian](Players/Falsifian.md),[Jason](Players/Jason.md)(x1000)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Spaaace:[Falsifian]&ensp;(Players/Falsifian.md),[Jason]&ensp;(Players/Jason.md)&ensp;(x1000)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; Tournament:[Aspen](Players/Aspen.md),[ATMunn](Players/ATMunn.md),[G.](Players/G..md),[grok](Players/grok.md),[Jason](Players/Jason.md)(x2),[OscarMeyr](Players/OscarMeyr.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Tournament:[Aspen]&ensp;(Players/Aspen.md),[ATMunn]&ensp;(Players/ATMunn.md),[G.]&ensp;(Players/G..md),[grok]&ensp;(Players/grok.md),[Jason]&ensp;(Players/Jason.md)&ensp;(x2),[OscarMeyr]&ensp;(Players/OscarMeyr.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[root](Players/root.md),[Taral](Players/Taral.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Publius&ensp;Scribonius&ensp;Scholasticus]&ensp;(Players/Publius&ensp;Scribonius&ensp;Scholasticus.md),[root]&ensp;(Players/root.md),[Taral]&ensp;(Players/Taral.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Wooble](Players/Wooble.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Wooble](Players/Wooble.md)
 
-&ensp; &ensp; &ensp; &ensp;  Unspecified:[Blob](Players/Blob.md),[Chuck](Players/Chuck.md),[Dave Bowen](Players/Dave Bowen.md),[elJefe](Players/elJefe.md),[favor](Players/favor.md),[Garth](Players/Garth.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Unspecified:[Blob]&ensp;(Players/Blob.md),[Chuck]&ensp;(Players/Chuck.md),[Dave&ensp;Bowen]&ensp;(Players/Dave&ensp;Bowen.md),[elJefe]&ensp;(Players/elJefe.md),[favor]&ensp;(Players/favor.md),[Garth]&ensp;(Players/Garth.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[General Chaos](Players/General Chaos.md),[Ian](Players/Ian.md),[Jeffrey](Players/Jeffrey.md),[KoJen](Players/KoJen.md),[Michael](Players/Michael.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[General&ensp;Chaos]&ensp;(Players/General&ensp;Chaos.md),[Ian]&ensp;(Players/Ian.md),[Jeffrey]&ensp;(Players/Jeffrey.md),[KoJen]&ensp;(Players/KoJen.md),[Michael]&ensp;(Players/Michael.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Ørjan](Players/Ørjan.md),[Steve](Players/Steve.md),[Swann](Players/Swann.md),[t](Players/t.md),[Timothy](Players/Timothy.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Ørjan]&ensp;(Players/Ørjan.md),[Steve]&ensp;(Players/Steve.md),[Swann]&ensp;(Players/Swann.md),[t]&ensp;(Players/t.md),[Timothy]&ensp;(Players/Timothy.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Troublemaker at Large](Players/Troublemaker at Large.md),[Vanyel](Players/Vanyel.md)(x2),[Wes](Players/Wes.md)(x2)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Troublemaker&ensp;at&ensp;Large]&ensp;(Players/Troublemaker&ensp;at&ensp;Large.md),[Vanyel]&ensp;(Players/Vanyel.md)&ensp;(x2),[Wes]&ensp;(Players/Wes.md)&ensp;(x2)
 
-&ensp; &ensp; Via Ratification:[The President](Players/The President.md)
+&ensp;&ensp;&ensp;&ensp;Via&ensp;Ratification:&ensp;[The&ensp;President](Players/The&ensp;President.md)
 
 
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; --------------------------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;--------------------------------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ORDER OF THE HERO OF AGORA NOMIC
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ORDER&ensp;OF&ensp;THE&ensp;HERO&ensp;OF&ensp;AGORA&ensp;NOMIC
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; --------------------------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;--------------------------------
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  GRAND HERO OF AGORA NOMIC
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;GRAND&ensp;HERO&ensp;OF&ensp;AGORA&ensp;NOMIC
 
-&ensp; &ensp;[Peter Suber](Players/Peter Suber.md),[Chuck](Players/Chuck.md)Carroll,[Douglas Hofstadter](Players/Douglas Hofstadter.md),[Michael](Players/Michael.md)Norrish
+&ensp;&ensp;&ensp;[Peter&ensp;Suber]&ensp;(Players/Peter&ensp;Suber.md),[Chuck]&ensp;(Players/Chuck.md)&ensp;Carroll,[Douglas&ensp;Hofstadter]&ensp;(Players/Douglas&ensp;Hofstadter.md),[Michael]&ensp;(Players/Michael.md)&ensp;Norrish
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; HERO OF AGORA NOMIC
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;HERO&ensp;OF&ensp;AGORA&ensp;NOMIC
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Murphy](Players/Murphy.md),[G.](Players/G..md),[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy]&ensp;(Players/Murphy.md),[G.]&ensp;(Players/G..md),&ensp;[omd](Players/omd.md)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ----------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;----------------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; HIGHER EDUCATION
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;HIGHER&ensp;EDUCATION
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ----------------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;----------------
 
-&ensp; &ensp; &ensp;  Associate of Nomic Artistry (A.N.A.):&ensp; &ensp; &ensp; &ensp;[Aspen](Players/Aspen.md),[Madrid](Players/Madrid.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Associate&ensp;of&ensp;Nomic&ensp;Artistry&ensp;(A.N.A.):&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Aspen]&ensp;(Players/Aspen.md),&ensp;[Madrid](Players/Madrid.md)
 
-&ensp; &ensp; &ensp;  Associate of Nomic (A.N.):&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [G.](Players/G..md),[Alexis](Players/Alexis.md),[twg](Players/twg.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Associate&ensp;of&ensp;Nomic&ensp;(A.N.):&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.]&ensp;(Players/G..md),[Alexis]&ensp;(Players/Alexis.md),&ensp;[twg](Players/twg.md)
 
-&ensp; &ensp; &ensp;  Juris Doctorate of Nomic (J.N.):&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Falsifian](Players/Falsifian.md),[G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Juris&ensp;Doctorate&ensp;of&ensp;Nomic&ensp;(J.N.):&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Falsifian]&ensp;(Players/Falsifian.md),&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp;  Baccalaureate of Nomic (B.N.):&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [elJefe](Players/elJefe.md),[favor](Players/favor.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Baccalaureate&ensp;of&ensp;Nomic&ensp;(B.N.):&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[elJefe]&ensp;(Players/elJefe.md),[favor]&ensp;(Players/favor.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Steve](Players/Steve.md),[Vanyel](Players/Vanyel.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Steve]&ensp;(Players/Steve.md),[Vanyel]&ensp;(Players/Vanyel.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Kolja A.](Players/Kolja A..md),[Murphy](Players/Murphy.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Kolja&ensp;A.]&ensp;(Players/Kolja&ensp;A..md),[Murphy]&ensp;(Players/Murphy.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Alexis](Players/Alexis.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Alexis](Players/Alexis.md)
 
-&ensp; &ensp; &ensp;  Magisteriate of Nomic (M.N.):&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[ais523](Players/ais523.md),[Jason](Players/Jason.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Magisteriate&ensp;of&ensp;Nomic&ensp;(M.N.):&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[ais523]&ensp;(Players/ais523.md),&ensp;[Jason](Players/Jason.md)
 
-&ensp; &ensp; &ensp;  Doctorate of Nomic History (D.N.Hist.):&ensp; &ensp; &ensp;[Swann](Players/Swann.md),[Vlad](Players/Vlad.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Doctorate&ensp;of&ensp;Nomic&ensp;History&ensp;(D.N.Hist.):&ensp;&ensp;&ensp;&ensp;&ensp;[Swann]&ensp;(Players/Swann.md),&ensp;[Vlad](Players/Vlad.md)
 
-&ensp; &ensp; &ensp;  Doctorate of Nomic Philosophy (D.N.Phil.):&ensp; [Steve](Players/Steve.md),[ais523](Players/ais523.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Doctorate&ensp;of&ensp;Nomic&ensp;Philosophy&ensp;(D.N.Phil.):&ensp;&ensp;[Steve]&ensp;(Players/Steve.md),&ensp;[ais523](Players/ais523.md)
 
-&ensp; &ensp; &ensp;  Doctorate of Nomic Science (D.N.Sci.):&ensp; &ensp; &ensp; [Jason](Players/Jason.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Doctorate&ensp;of&ensp;Nomic&ensp;Science&ensp;(D.N.Sci.):&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Jason](Players/Jason.md)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; BADGES
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;BADGES
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;------
 
-&ensp; &ensp;  Coming of Age [Jul 2011]
+&ensp;&ensp;&ensp;&ensp;&ensp;Coming&ensp;of&ensp;Age&ensp;[Jul&ensp;2011]
 
-&ensp; &ensp; &ensp; (awarded to Active Players on Agora's 18th Birthday, July 2011).
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(awarded&ensp;to&ensp;Active&ensp;Players&ensp;on&ensp;Agora's&ensp;18th&ensp;Birthday,&ensp;July&ensp;2011).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[root](Players/root.md),[ais523](Players/ais523.md),[Droowl](Players/Droowl.md),[ehird](Players/ehird.md),[G.](Players/G..md),[Gondolier](Players/Gondolier.md),[Math321](Players/Math321.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[root]&ensp;(Players/root.md),[ais523]&ensp;(Players/ais523.md),[Droowl]&ensp;(Players/Droowl.md),[ehird]&ensp;(Players/ehird.md),[G.]&ensp;(Players/G..md),[Gondolier]&ensp;(Players/Gondolier.md),[Math321]&ensp;(Players/Math321.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Murphy](Players/Murphy.md),[omd](Players/omd.md),[Pavitra](Players/Pavitra.md),[Roujo](Players/Roujo.md),[Alexis](Players/Alexis.md),[Warrigal](Players/Warrigal.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy]&ensp;(Players/Murphy.md),[omd]&ensp;(Players/omd.md),[Pavitra]&ensp;(Players/Pavitra.md),[Roujo]&ensp;(Players/Roujo.md),[Alexis]&ensp;(Players/Alexis.md),[Warrigal]&ensp;(Players/Warrigal.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Turiski](Players/Turiski.md),[Walker](Players/Walker.md),[woggle](Players/woggle.md),[Yally](Players/Yally.md),[The President](Players/The President.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Turiski]&ensp;(Players/Turiski.md),[Walker]&ensp;(Players/Walker.md),[woggle]&ensp;(Players/woggle.md),[Yally]&ensp;(Players/Yally.md),&ensp;[The&ensp;President](Players/The&ensp;President.md)
 
 
 
-&ensp; &ensp;  Agora XX [Jul 2013]
+&ensp;&ensp;&ensp;&ensp;&ensp;Agora&ensp;XX&ensp;[Jul&ensp;2013]
 
-&ensp; &ensp; &ensp; (awarded to players of the Agora 20th Anniversary blitz Nomic
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(awarded&ensp;to&ensp;players&ensp;of&ensp;the&ensp;Agora&ensp;20th&ensp;Anniversary&ensp;blitz&ensp;Nomic
 
-&ensp; &ensp; &ensp;  game, July 2013).
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;game,&ensp;July&ensp;2013).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Fool](Players/Fool.md),[omd](Players/omd.md),[FSX](Players/FSX.md),[Walker](Players/Walker.md),[Chuck](Players/Chuck.md),[ehird](Players/ehird.md),[Yally](Players/Yally.md),[Michael](Players/Michael.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Fool]&ensp;(Players/Fool.md),[omd]&ensp;(Players/omd.md),[FSX]&ensp;(Players/FSX.md),[Walker]&ensp;(Players/Walker.md),[Chuck]&ensp;(Players/Chuck.md),[ehird]&ensp;(Players/ehird.md),[Yally]&ensp;(Players/Yally.md),[Michael]&ensp;(Players/Michael.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Alexis](Players/Alexis.md),[Roujo](Players/Roujo.md),[Murphy](Players/Murphy.md), Goethe (G.),[Steve](Players/Steve.md),[Blob](Players/Blob.md),[Tiger](Players/Tiger.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Alexis]&ensp;(Players/Alexis.md),[Roujo]&ensp;(Players/Roujo.md),[Murphy]&ensp;(Players/Murphy.md),&ensp;Goethe&ensp;(G.),[Steve]&ensp;(Players/Steve.md),[Blob]&ensp;(Players/Blob.md),[Tiger]&ensp;(Players/Tiger.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[woggle](Players/woggle.md), Ørjan.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[woggle]&ensp;(Players/woggle.md),&ensp;Ørjan.
 
 
 
-&ensp; &ensp;  Order of the Lemming [Jan 2014]
+&ensp;&ensp;&ensp;&ensp;&ensp;Order&ensp;of&ensp;the&ensp;Lemming&ensp;[Jan&ensp;2014]
 
-&ensp; &ensp; &ensp; (Persons who cast valid votes of FOR or PRESENT on at least one of
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(Persons&ensp;who&ensp;cast&ensp;valid&ensp;votes&ensp;of&ensp;FOR&ensp;or&ensp;PRESENT&ensp;on&ensp;at&ensp;least&ensp;one&ensp;of
 
-&ensp; &ensp; &ensp;  P7610, P7614, or P7616)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;P7610,&ensp;P7614,&ensp;or&ensp;P7616)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [omd](Players/omd.md),[Max Schutz](Players/Max Schutz.md),[ais523](Players/ais523.md),[nix](Players/nix.md),[Sprocklem](Players/Sprocklem.md),[Khoyo](Players/Khoyo.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[omd]&ensp;(Players/omd.md),[Max&ensp;Schutz]&ensp;(Players/Max&ensp;Schutz.md),[ais523]&ensp;(Players/ais523.md),[nix]&ensp;(Players/nix.md),[Sprocklem]&ensp;(Players/Sprocklem.md),[Khoyo]&ensp;(Players/Khoyo.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Yally](Players/Yally.md),&ensp;[OscarMeyr](Players/OscarMeyr.md),[Wooble](Players/Wooble.md),[G.](Players/G..md),[Telnaior](Players/Telnaior.md),[Roujo](Players/Roujo.md),[Henri](Players/Henri.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Yally]&ensp;(Players/Yally.md),&ensp;[OscarMeyr]&ensp;(Players/OscarMeyr.md),[Wooble]&ensp;(Players/Wooble.md),[G.]&ensp;(Players/G..md),[Telnaior]&ensp;(Players/Telnaior.md),[Roujo]&ensp;(Players/Roujo.md),[Henri]&ensp;(Players/Henri.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Tiger](Players/Tiger.md),[woggle](Players/woggle.md),[Alexis](Players/Alexis.md), Murphy.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Tiger]&ensp;(Players/Tiger.md),[woggle]&ensp;(Players/woggle.md),[Alexis]&ensp;(Players/Alexis.md),&ensp;Murphy.
 
 
 
-&ensp; &ensp;  Badge of the Great Agoran Revival [May 2017]
+&ensp;&ensp;&ensp;&ensp;&ensp;Badge&ensp;of&ensp;the&ensp;Great&ensp;Agoran&ensp;Revival&ensp;[May&ensp;2017]
 
-&ensp; &ensp; &ensp; (awarded to Agoran persons from May 2017)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(awarded&ensp;to&ensp;Agoran&ensp;persons&ensp;from&ensp;May&ensp;2017)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [tris](Players/tris.md),[G.](Players/G..md),[Madrid](Players/Madrid.md),[Ienpw III](Players/Ienpw III.md),[nix](Players/nix.md),[Alexis](Players/Alexis.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[tris]&ensp;(Players/tris.md),[G.]&ensp;(Players/G..md),[Madrid]&ensp;(Players/Madrid.md),[Ienpw&ensp;III]&ensp;(Players/Ienpw&ensp;III.md),[nix]&ensp;(Players/nix.md),[Alexis]&ensp;(Players/Alexis.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [o](Players/o.md),[Ørjan](Players/Ørjan.md),[Aspen](Players/Aspen.md),[Murphy](Players/Murphy.md),[Quazie](Players/Quazie.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[o]&ensp;(Players/o.md),[Ørjan]&ensp;(Players/Ørjan.md),[Aspen]&ensp;(Players/Aspen.md),[Murphy]&ensp;(Players/Murphy.md),[Quazie]&ensp;(Players/Quazie.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[Sprocklem](Players/Sprocklem.md),[Veggiekeks](Players/Veggiekeks.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Publius&ensp;Scribonius&ensp;Scholasticus]&ensp;(Players/Publius&ensp;Scribonius&ensp;Scholasticus.md),[Sprocklem]&ensp;(Players/Sprocklem.md),[Veggiekeks]&ensp;(Players/Veggiekeks.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Roujo](Players/Roujo.md),[ais523](Players/ais523.md),[Gaelan](Players/Gaelan.md),[天火狐](Players/天火狐.md),[grok](Players/grok.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Roujo]&ensp;(Players/Roujo.md),[ais523]&ensp;(Players/ais523.md),[Gaelan]&ensp;(Players/Gaelan.md),[天火狐]&ensp;(Players/天火狐.md),&ensp;[grok](Players/grok.md)
 
 
 
-&ensp; &ensp;  Badge of the Salted Earth [2018]
+&ensp;&ensp;&ensp;&ensp;&ensp;Badge&ensp;of&ensp;the&ensp;Salted&ensp;Earth&ensp;[2018]
 
-&ensp; &ensp; &ensp; (awarded to Agoran persons who owned land in Agora in 2018)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(awarded&ensp;to&ensp;Agoran&ensp;persons&ensp;who&ensp;owned&ensp;land&ensp;in&ensp;Agora&ensp;in&ensp;2018)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Gaelan](Players/Gaelan.md),[Kenyon](Players/Kenyon.md),[Trigon](Players/Trigon.md),[Corona](Players/Corona.md),[Aspen](Players/Aspen.md),[ATMunn](Players/ATMunn.md),[G.](Players/G..md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Gaelan]&ensp;(Players/Gaelan.md),[Kenyon]&ensp;(Players/Kenyon.md),[Trigon]&ensp;(Players/Trigon.md),[Corona]&ensp;(Players/Corona.md),[Aspen]&ensp;(Players/Aspen.md),[ATMunn]&ensp;(Players/ATMunn.md),[G.]&ensp;(Players/G..md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Quazie](Players/Quazie.md),[o](Players/o.md),[twg](Players/twg.md),[Murphy](Players/Murphy.md),[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Quazie]&ensp;(Players/Quazie.md),[o]&ensp;(Players/o.md),[twg]&ensp;(Players/twg.md),[Murphy]&ensp;(Players/Murphy.md),[Publius&ensp;Scribonius&ensp;Scholasticus]&ensp;(Players/Publius&ensp;Scribonius&ensp;Scholasticus.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [R. Lee](Players/R. Lee.md),[D. Margaux](Players/D. Margaux.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[R.&ensp;Lee]&ensp;(Players/R.&ensp;Lee.md),&ensp;[D.&ensp;Margaux](Players/D.&ensp;Margaux.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
-&ensp; &ensp;  Badge of Diplonomic [2020]
+&ensp;&ensp;&ensp;&ensp;&ensp;Badge&ensp;of&ensp;Diplonomic&ensp;[2020]
 
-&ensp; &ensp; &ensp; (awarded to persons who played or otherwise participated in the
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(awarded&ensp;to&ensp;persons&ensp;who&ensp;played&ensp;or&ensp;otherwise&ensp;participated&ensp;in&ensp;the
 
-&ensp; &ensp; &ensp;  2020 Birthday Tournament, Diplonomic)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2020&ensp;Birthday&ensp;Tournament,&ensp;Diplonomic)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [ATMunn](Players/ATMunn.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[R. Lee](Players/R. Lee.md),[omd](Players/omd.md),[Trigon](Players/Trigon.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[ATMunn]&ensp;(Players/ATMunn.md),[G.]&ensp;(Players/G..md),[Jason]&ensp;(Players/Jason.md),[Aspen]&ensp;(Players/Aspen.md),[Falsifian]&ensp;(Players/Falsifian.md),[R.&ensp;Lee]&ensp;(Players/R.&ensp;Lee.md),[omd]&ensp;(Players/omd.md),[Trigon]&ensp;(Players/Trigon.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Ben](Players/Ben.md),[Claire](Players/Claire.md),[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Ben]&ensp;(Players/Ben.md),[Claire]&ensp;(Players/Claire.md),&ensp;[Publius&ensp;Scribonius&ensp;Scholasticus](Players/Publius&ensp;Scribonius&ensp;Scholasticus.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  --------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;--------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  AND MORE
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;AND&ensp;MORE
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  --------
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;--------
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; :&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Andre](Players/Andre.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Andre](Players/Andre.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Admiral:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Admiral:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Agoran Spy:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [pikhq](Players/pikhq.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Agoran&ensp;Spy:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[pikhq](Players/pikhq.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Agoraphobe:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Antimatter](Players/Antimatter.md),[BethMo](Players/BethMo.md),[Blue](Players/Blue.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Agoraphobe:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Antimatter]&ensp;(Players/Antimatter.md),[BethMo]&ensp;(Players/BethMo.md),&ensp;[Blue](Players/Blue.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Bard:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [G.](Players/G..md),[Maud](Players/Maud.md),[Elysion](Players/Elysion.md),[Sherlock](Players/Sherlock.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Bard:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.]&ensp;(Players/G..md),[Maud]&ensp;(Players/Maud.md),[Elysion]&ensp;(Players/Elysion.md),[Sherlock]&ensp;(Players/Sherlock.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Murphy](Players/Murphy.md),[Alexis](Players/Alexis.md),[天火狐](Players/天火狐.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy]&ensp;(Players/Murphy.md),[Alexis]&ensp;(Players/Alexis.md),[天火狐]&ensp;(Players/天火狐.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Boor:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [General Chaos](Players/General Chaos.md),[Macross](Players/Macross.md),[Murphy](Players/Murphy.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Boor:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[General&ensp;Chaos]&ensp;(Players/General&ensp;Chaos.md),[Macross]&ensp;(Players/Macross.md),[Murphy]&ensp;(Players/Murphy.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Sherlock](Players/Sherlock.md),[elJefe](Players/elJefe.md),[Crito](Players/Crito.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Sherlock]&ensp;(Players/Sherlock.md),[elJefe]&ensp;(Players/elJefe.md),&ensp;[Crito](Players/Crito.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Came Back in a Puff:&ensp; &ensp; &ensp;[BobTHJ](Players/BobTHJ.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Came&ensp;Back&ensp;in&ensp;a&ensp;Puff:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[BobTHJ](Players/BobTHJ.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Cassandra:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[G.](Players/G..md),&ensp;[Murphy](Players/Murphy.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Cassandra:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.]&ensp;(Players/G..md),&ensp;&ensp;[Murphy](Players/Murphy.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Commuted in a Huff:&ensp; &ensp; &ensp; [Wooble](Players/Wooble.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Commuted&ensp;in&ensp;a&ensp;Huff:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Wooble](Players/Wooble.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Desultory Dictator:&ensp; &ensp; &ensp; [G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Desultory&ensp;Dictator:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Distributor:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Steve](Players/Steve.md),[Taral](Players/Taral.md),[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Distributor:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Steve]&ensp;(Players/Steve.md),[Taral]&ensp;(Players/Taral.md),&ensp;[omd](Players/omd.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Elder Lurker:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [David Nicol](Players/David Nicol.md),[Michael](Players/Michael.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Elder&ensp;Lurker:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[David&ensp;Nicol]&ensp;(Players/David&ensp;Nicol.md),&ensp;[Michael](Players/Michael.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Entrepreneur:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Chuck](Players/Chuck.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Entrepreneur:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Chuck](Players/Chuck.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Exorcist:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Ørjan](Players/Ørjan.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Exorcist:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Ørjan](Players/Ørjan.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Fantasy Rule Catalyst:&ensp; &ensp;[Peter](Players/Peter.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Fantasy&ensp;Rule&ensp;Catalyst:&ensp;&ensp;&ensp;&ensp;[Peter](Players/Peter.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Fantasy Rule Compulsion&ensp; [Zefram](Players/Zefram.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Fantasy&ensp;Rule&ensp;Compulsion&ensp;&ensp;&ensp;[Zefram](Players/Zefram.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Fantasy Rule Conspirator:[OscarMeyr](Players/OscarMeyr.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Fantasy&ensp;Rule&ensp;Conspirator:&ensp;[OscarMeyr](Players/OscarMeyr.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Fantasy Rule Creator:&ensp; &ensp; [Murphy](Players/Murphy.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Fantasy&ensp;Rule&ensp;Creator:&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy](Players/Murphy.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; First violin:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;First&ensp;violin:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; H.:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [ais523](Players/ais523.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;H.:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[ais523](Players/ais523.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Hard Labor:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Falsifian](Players/Falsifian.md)(Registrar and
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hard&ensp;Labor:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Falsifian]&ensp;(Players/Falsifian.md)&ensp;(Registrar&ensp;and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Treasuror),[G.](Players/G..md)(Arbitor and
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Treasuror),[G.]&ensp;(Players/G..md)&ensp;(Arbitor&ensp;and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Herald),[Jason](Players/Jason.md)(Assessor and
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Herald),[Jason]&ensp;(Players/Jason.md)&ensp;(Assessor&ensp;and
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Rulekeepor),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Rulekeepor),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Publius&ensp;Scribonius&ensp;Scholasticus](Players/Publius&ensp;Scribonius&ensp;Scholasticus.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (Referee, Tailor, and Herald)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(Referee,&ensp;Tailor,&ensp;and&ensp;Herald)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Helping Hand:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [twg](Players/twg.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Helping&ensp;Hand:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[twg](Players/twg.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Heroic Notary:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Murphy](Players/Murphy.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Heroic&ensp;Notary:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy](Players/Murphy.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Historian:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Vlad](Players/Vlad.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Historian:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Vlad](Players/Vlad.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Left in a Huff:&ensp; &ensp; &ensp; &ensp; &ensp; [Waggie](Players/Waggie.md), Gecko, Kelly(x3!),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Left&ensp;in&ensp;a&ensp;Huff:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Waggie]&ensp;(Players/Waggie.md),&ensp;Gecko,&ensp;Kelly(x3!),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Swann](Players/Swann.md),[KoJen](Players/KoJen.md),[Zefram](Players/Zefram.md),[Vlad](Players/Vlad.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Swann]&ensp;(Players/Swann.md),[KoJen]&ensp;(Players/KoJen.md),[Zefram]&ensp;(Players/Zefram.md),[Vlad]&ensp;(Players/Vlad.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Andre](Players/Andre.md),[G.](Players/G..md),[BobTHJ](Players/BobTHJ.md),[P1-P100](Players/P1-P100.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Andre]&ensp;(Players/Andre.md),[G.]&ensp;(Players/G..md),[BobTHJ]&ensp;(Players/BobTHJ.md),[P1-P100]&ensp;(Players/P1-P100.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Telnaior](Players/Telnaior.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Telnaior](Players/Telnaior.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Little Ricky Tables:&ensp; &ensp; &ensp;[Gaelan](Players/Gaelan.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Little&ensp;Ricky&ensp;Tables:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Gaelan](Players/Gaelan.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; MacGyver:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Falsifian](Players/Falsifian.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MacGyver:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Falsifian](Players/Falsifian.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Maniac:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Craig](Players/Craig.md),[Peekee](Players/Peekee.md),[root](Players/root.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Maniac:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Craig]&ensp;(Players/Craig.md),[Peekee]&ensp;(Players/Peekee.md),&ensp;[root](Players/root.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Money Launderer:&ensp; &ensp; &ensp; &ensp; &ensp;[R. Lee](Players/R. Lee.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Money&ensp;Launderer:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[R.&ensp;Lee](Players/R.&ensp;Lee.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Most Popular:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Aspen](Players/Aspen.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Most&ensp;Popular:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Aspen](Players/Aspen.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Nomic Thief:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Swann](Players/Swann.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nomic&ensp;Thief:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Swann](Players/Swann.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Orator:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [twg](Players/twg.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Orator:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[twg](Players/twg.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Originator:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Chuck](Players/Chuck.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Originator:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Chuck](Players/Chuck.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Plagiarist:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [ehird](Players/ehird.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Plagiarist:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[ehird](Players/ehird.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Popular:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[ATMunn](Players/ATMunn.md),[Aspen](Players/Aspen.md),[Madrid](Players/Madrid.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Popular:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[ATMunn]&ensp;(Players/ATMunn.md),[Aspen]&ensp;(Players/Aspen.md),[Madrid]&ensp;(Players/Madrid.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[cuddlybanana](Players/cuddlybanana.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Murphy](Players/Murphy.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[cuddlybanana]&ensp;(Players/cuddlybanana.md),[G.]&ensp;(Players/G..md),[Jason]&ensp;(Players/Jason.md),[Murphy]&ensp;(Players/Murphy.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Trigon](Players/Trigon.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Trigon](Players/Trigon.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Popular Philanthropist:&ensp; [ATMunn](Players/ATMunn.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Popular&ensp;Philanthropist:&ensp;&ensp;&ensp;[ATMunn](Players/ATMunn.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Popular Polygon:&ensp; &ensp; &ensp; &ensp; &ensp;[Trigon](Players/Trigon.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Popular&ensp;Polygon:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Trigon](Players/Trigon.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Prince of Andorra:&ensp; &ensp; &ensp; &ensp;[Alexis](Players/Alexis.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Prince&ensp;of&ensp;Andorra:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Alexis](Players/Alexis.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Princess of Agora:&ensp; &ensp; &ensp; &ensp;[Alexis](Players/Alexis.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Princess&ensp;of&ensp;Agora:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Alexis](Players/Alexis.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Reformist Bug:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Trigon](Players/Trigon.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Reformist&ensp;Bug:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Trigon](Players/Trigon.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Roboticist General:&ensp; &ensp; &ensp; [Jason](Players/Jason.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Roboticist&ensp;General:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Jason](Players/Jason.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Rulebender:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Aspen](Players/Aspen.md),[Madrid](Players/Madrid.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Rulebender:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Aspen]&ensp;(Players/Aspen.md),[Madrid]&ensp;(Players/Madrid.md),[Falsifian]&ensp;(Players/Falsifian.md),[G.]&ensp;(Players/G..md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Gaelan](Players/Gaelan.md),[Jason](Players/Jason.md),[Murphy](Players/Murphy.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Gaelan]&ensp;(Players/Gaelan.md),[Jason]&ensp;(Players/Jason.md),[Murphy]&ensp;(Players/Murphy.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Publius&ensp;Scribonius&ensp;Scholasticus]&ensp;(Players/Publius&ensp;Scribonius&ensp;Scholasticus.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[R. Lee](Players/R. Lee.md),[Trigon](Players/Trigon.md),[nix](Players/nix.md),[omd](Players/omd.md),[twg](Players/twg.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[R.&ensp;Lee]&ensp;(Players/R.&ensp;Lee.md),[Trigon]&ensp;(Players/Trigon.md),[nix]&ensp;(Players/nix.md),[omd]&ensp;(Players/omd.md),&ensp;[twg](Players/twg.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Scamster:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Troublemaker at Large](Players/Troublemaker at Large.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Scamster:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Troublemaker&ensp;at&ensp;Large]&ensp;(Players/Troublemaker&ensp;at&ensp;Large.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Waggie](Players/Waggie.md),[G.](Players/G..md),[Steve](Players/Steve.md),[Murphy](Players/Murphy.md),[root](Players/root.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Waggie]&ensp;(Players/Waggie.md),[G.]&ensp;(Players/G..md),[Steve]&ensp;(Players/Steve.md),[Murphy]&ensp;(Players/Murphy.md),[root]&ensp;(Players/root.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[OscarMeyr](Players/OscarMeyr.md),[ehird](Players/ehird.md),[omd](Players/omd.md),[ais523](Players/ais523.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[OscarMeyr]&ensp;(Players/OscarMeyr.md),[ehird]&ensp;(Players/ehird.md),[omd]&ensp;(Players/omd.md),&ensp;[ais523](Players/ais523.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Second fiddle:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Second&ensp;fiddle:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[omd](Players/omd.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Simon Said:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Wooble](Players/Wooble.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Simon&ensp;Said:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Wooble](Players/Wooble.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Sorcerer's Apprentice:&ensp; &ensp;[omd](Players/omd.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Sorcerer's&ensp;Apprentice:&ensp;&ensp;&ensp;&ensp;[omd](Players/omd.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Tiger](Players/Tiger.md)Team:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Telnaior](Players/Telnaior.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Tiger]&ensp;(Players/Tiger.md)&ensp;Team:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Telnaior](Players/Telnaior.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Too Intense:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Gaelan](Players/Gaelan.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Too&ensp;Intense:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Gaelan](Players/Gaelan.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Unchampion:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [aranea](Players/aranea.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Unchampion:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[aranea](Players/aranea.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Very Popular:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Aspen](Players/Aspen.md),[Jason](Players/Jason.md),[Trigon](Players/Trigon.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Very&ensp;Popular:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Aspen]&ensp;(Players/Aspen.md),[Jason]&ensp;(Players/Jason.md),&ensp;[Trigon](Players/Trigon.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 273rd Prepared Piano:&ensp; &ensp; [Murphy](Players/Murphy.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;273rd&ensp;Prepared&ensp;Piano:&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy](Players/Murphy.md)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  EMPLOYEE OF THE YEAR
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;EMPLOYEE&ensp;OF&ensp;THE&ensp;YEAR
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Falsifian](Players/Falsifian.md)(2019)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Falsifian]&ensp;(Players/Falsifian.md)&ensp;(2019)
 
 
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  LONG SERVICE AWARDS
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;LONG&ensp;SERVICE&ensp;AWARDS
 
-&ensp; &ensp; &ensp; &ensp; Three Months:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[aranea](Players/aranea.md),[Aspen](Players/Aspen.md),[ATMunn](Players/ATMunn.md),[BobTHJ](Players/BobTHJ.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Three&ensp;Months:[ais523]&ensp;(Players/ais523.md),[Alexis]&ensp;(Players/Alexis.md),[aranea]&ensp;(Players/aranea.md),[Aspen]&ensp;(Players/Aspen.md),[ATMunn]&ensp;(Players/ATMunn.md),[BobTHJ]&ensp;(Players/BobTHJ.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Iammers](Players/Iammers.md),[Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Falsifian]&ensp;(Players/Falsifian.md),[G.]&ensp;(Players/G..md),[Iammers]&ensp;(Players/Iammers.md),[Jason]&ensp;(Players/Jason.md),[Michael]&ensp;(Players/Michael.md),[Murphy]&ensp;(Players/Murphy.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[nix](Players/nix.md),[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md),[PerlNomic Partnership](Players/PerlNomic Partnership.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[nix]&ensp;(Players/nix.md),[omd]&ensp;(Players/omd.md),[OscarMeyr]&ensp;(Players/OscarMeyr.md),[PerlNomic&ensp;Partnership]&ensp;(Players/PerlNomic&ensp;Partnership.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[root](Players/root.md),[Sgeo](Players/Sgeo.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Publius&ensp;Scribonius&ensp;Scholasticus]&ensp;(Players/Publius&ensp;Scribonius&ensp;Scholasticus.md),[root]&ensp;(Players/root.md),[Sgeo]&ensp;(Players/Sgeo.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Sherlock](Players/Sherlock.md),[Taral](Players/Taral.md),[the AFO](Players/the AFO.md),[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[woggle](Players/woggle.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Sherlock]&ensp;(Players/Sherlock.md),[Taral]&ensp;(Players/Taral.md),[the&ensp;AFO]&ensp;(Players/the&ensp;AFO.md),[Tiger]&ensp;(Players/Tiger.md),[Trigon]&ensp;(Players/Trigon.md),[woggle]&ensp;(Players/woggle.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Wooble](Players/Wooble.md),[Yally](Players/Yally.md),[Zefram](Players/Zefram.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Wooble]&ensp;(Players/Wooble.md),[Yally]&ensp;(Players/Yally.md),&ensp;[Zefram](Players/Zefram.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; Six Months:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md),[aranea](Players/aranea.md),[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Six&ensp;Months:[ais523]&ensp;(Players/ais523.md),[Alexis]&ensp;(Players/Alexis.md),[aranea]&ensp;(Players/aranea.md),[Aspen]&ensp;(Players/Aspen.md),[Falsifian]&ensp;(Players/Falsifian.md),[G.]&ensp;(Players/G..md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Jason]&ensp;(Players/Jason.md),[Michael]&ensp;(Players/Michael.md),[Murphy]&ensp;(Players/Murphy.md),[omd]&ensp;(Players/omd.md),[OscarMeyr]&ensp;(Players/OscarMeyr.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[PerlNomic Partnership](Players/PerlNomic Partnership.md),[root](Players/root.md),[Sherlock](Players/Sherlock.md),[Trigon](Players/Trigon.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[PerlNomic&ensp;Partnership]&ensp;(Players/PerlNomic&ensp;Partnership.md),[root]&ensp;(Players/root.md),[Sherlock]&ensp;(Players/Sherlock.md),[Trigon]&ensp;(Players/Trigon.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[woggle](Players/woggle.md),[Wooble](Players/Wooble.md),[Yally](Players/Yally.md),[Zefram](Players/Zefram.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[woggle]&ensp;(Players/woggle.md),[Wooble]&ensp;(Players/Wooble.md),[Yally]&ensp;(Players/Yally.md),&ensp;[Zefram](Players/Zefram.md)
 
-&ensp; &ensp; &ensp; &ensp;  Nine Months:[aranea](Players/aranea.md),[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Michael](Players/Michael.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nine&ensp;Months:[aranea]&ensp;(Players/aranea.md),[Aspen]&ensp;(Players/Aspen.md),[Falsifian]&ensp;(Players/Falsifian.md),[G.]&ensp;(Players/G..md),[Jason]&ensp;(Players/Jason.md),[Michael]&ensp;(Players/Michael.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Murphy](Players/Murphy.md),[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md),[root](Players/root.md),[Trigon](Players/Trigon.md),[woggle](Players/woggle.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Murphy]&ensp;(Players/Murphy.md),[omd]&ensp;(Players/omd.md),[OscarMeyr]&ensp;(Players/OscarMeyr.md),[root]&ensp;(Players/root.md),[Trigon]&ensp;(Players/Trigon.md),[woggle]&ensp;(Players/woggle.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Wooble](Players/Wooble.md),[Zefram](Players/Zefram.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Wooble]&ensp;(Players/Wooble.md),&ensp;[Zefram](Players/Zefram.md)
 
-&ensp; &ensp; &ensp;  Twelve Months:[Aspen](Players/Aspen.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md), 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Twelve&ensp;Months:[Aspen]&ensp;(Players/Aspen.md),[Falsifian]&ensp;(Players/Falsifian.md),[G.]&ensp;(Players/G..md),[Jason]&ensp;(Players/Jason.md),[Michael]&ensp;(Players/Michael.md),[Murphy]&ensp;(Players/Murphy.md),&ensp;
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[omd](Players/omd.md),[OscarMeyr](Players/OscarMeyr.md),[root](Players/root.md),[Trigon](Players/Trigon.md),[Wooble](Players/Wooble.md),[Zefram](Players/Zefram.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[omd]&ensp;(Players/omd.md),[OscarMeyr]&ensp;(Players/OscarMeyr.md),[root]&ensp;(Players/root.md),[Trigon]&ensp;(Players/Trigon.md),[Wooble]&ensp;(Players/Wooble.md),&ensp;[Zefram](Players/Zefram.md)
 
 
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  SILVER QUILLS
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;SILVER&ensp;QUILLS
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Alexis](Players/Alexis.md)(2014/13: P 7629),[ais523](Players/ais523.md)(2015/07, 2016/13: P 8430)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Alexis]&ensp;(Players/Alexis.md)&ensp;(2014/13:&ensp;P&ensp;7629),[ais523]&ensp;(Players/ais523.md)&ensp;(2015/07,&ensp;2016/13:&ensp;P&ensp;8430)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[G.](Players/G..md)(2019: P 8167),[nix](Players/nix.md)(2020: P 8408),[Aspen](Players/Aspen.md)(2020: P 8514)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.]&ensp;(Players/G..md)&ensp;(2019:&ensp;P&ensp;8167),[nix]&ensp;(Players/nix.md)&ensp;(2020:&ensp;P&ensp;8408),[Aspen]&ensp;(Players/Aspen.md)&ensp;(2020:&ensp;P&ensp;8514)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  TAPECUTTERS
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;TAPECUTTERS
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[G.](Players/G..md)(2020/06: P 8407)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.]&ensp;(Players/G..md)&ensp;(2020/06:&ensp;P&ensp;8407)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  WOODEN GAVELS
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;WOODEN&ensp;GAVELS
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Falsifian](Players/Falsifian.md)(2019: CFJs 3726-3727)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Falsifian]&ensp;(Players/Falsifian.md)&ensp;(2019:&ensp;CFJs&ensp;3726-3727)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  WINNERS' CUPS
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;WINNERS'&ensp;CUPS
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Paper Cup:&ensp; &ensp; [Dave Bowen](Players/Dave Bowen.md),[favor](Players/favor.md),[Garth](Players/Garth.md),[Harlequin](Players/Harlequin.md),[Ian](Players/Ian.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Paper&ensp;Cup:&ensp;&ensp;&ensp;&ensp;[Dave&ensp;Bowen]&ensp;(Players/Dave&ensp;Bowen.md),[favor]&ensp;(Players/favor.md),[Garth]&ensp;(Players/Garth.md),[Harlequin]&ensp;(Players/Harlequin.md),[Ian]&ensp;(Players/Ian.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Jeffrey](Players/Jeffrey.md),[Michael](Players/Michael.md),[Murphy](Players/Murphy.md),[Ørjan](Players/Ørjan.md),[Timothy](Players/Timothy.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Jeffrey]&ensp;(Players/Jeffrey.md),[Michael]&ensp;(Players/Michael.md),[Murphy]&ensp;(Players/Murphy.md),[Ørjan]&ensp;(Players/Ørjan.md),[Timothy]&ensp;(Players/Timothy.md),
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Vanyel](Players/Vanyel.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Vanyel](Players/Vanyel.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Tin Cup:&ensp; &ensp; &ensp; [Blob](Players/Blob.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Tin&ensp;Cup:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Blob](Players/Blob.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Glass Cup:&ensp; &ensp; [Swann](Players/Swann.md),[elJefe](Players/elJefe.md),[KoJen](Players/KoJen.md), Troublemaker
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Glass&ensp;Cup:&ensp;&ensp;&ensp;&ensp;[Swann]&ensp;(Players/Swann.md),[elJefe]&ensp;(Players/elJefe.md),[KoJen]&ensp;(Players/KoJen.md),&ensp;Troublemaker
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  at Large,[Wes](Players/Wes.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;at&ensp;Large,&ensp;[Wes](Players/Wes.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Crystal Cup:&ensp; [Andre](Players/Andre.md),[Chuck](Players/Chuck.md),[Morendil](Players/Morendil.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Crystal&ensp;Cup:&ensp;&ensp;[Andre]&ensp;(Players/Andre.md),[Chuck]&ensp;(Players/Chuck.md),&ensp;[Morendil](Players/Morendil.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Gold Cup:&ensp; &ensp; &ensp;[General Chaos](Players/General Chaos.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Gold&ensp;Cup:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[General&ensp;Chaos](Players/General&ensp;Chaos.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Ruby Cup:&ensp; &ensp; &ensp;[Steve](Players/Steve.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Ruby&ensp;Cup:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Steve](Players/Steve.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Supreme Cup:&ensp; [Crito](Players/Crito.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Supreme&ensp;Cup:&ensp;&ensp;&ensp;[Crito](Players/Crito.md)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  FROZEN EPHEMERA
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;FROZEN&ensp;EPHEMERA
 
-(An ephemeral Patent Title is one which, by the rules of the time,
+(An&ensp;ephemeral&ensp;Patent&ensp;Title&ensp;is&ensp;one&ensp;which,&ensp;by&ensp;the&ensp;rules&ensp;of&ensp;the&ensp;time,
 
-&ensp; &ensp; was used as a temporary gameplay marker rather than a permanent
+&ensp;&ensp;&ensp;&ensp;was&ensp;used&ensp;as&ensp;a&ensp;temporary&ensp;gameplay&ensp;marker&ensp;rather&ensp;than&ensp;a&ensp;permanent
 
-&ensp; &ensp; distinction, and this "temporary" distinction was not removed from
+&ensp;&ensp;&ensp;&ensp;distinction,&ensp;and&ensp;this&ensp;"temporary"&ensp;distinction&ensp;was&ensp;not&ensp;removed&ensp;from
 
-&ensp; &ensp; the last holder(s) when the rule was repealed).
+&ensp;&ensp;&ensp;&ensp;the&ensp;last&ensp;holder(s)&ensp;when&ensp;the&ensp;rule&ensp;was&ensp;repealed).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Current Champion:&ensp; &ensp; &ensp; &ensp; [Taral](Players/Taral.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Current&ensp;Champion:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Taral](Players/Taral.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Honorless Worm:&ensp; &ensp; &ensp; &ensp; &ensp; [Kelly](Players/Kelly.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Honorless&ensp;Worm:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Kelly](Players/Kelly.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Miscreant:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Pakaran](Players/Pakaran.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Miscreant:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Pakaran](Players/Pakaran.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Pugachev:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Pugachev:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Robespierre:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[G.](Players/G..md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Robespierre:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[G.](Players/G..md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Samurai:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Michael](Players/Michael.md),[Murphy](Players/Murphy.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Samurai:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Michael]&ensp;(Players/Michael.md),&ensp;[Murphy](Players/Murphy.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Shogun:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [Michael](Players/Michael.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Shogun:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Michael](Players/Michael.md)
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Zeitgeist:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;[Chuck](Players/Chuck.md)(3848)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Zeitgeist:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Chuck]&ensp;(Players/Chuck.md)&ensp;(3848)
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; FUGITIVES OF THE OLD LAW
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;FUGITIVES&ensp;OF&ensp;THE&ensp;OLD&ensp;LAW
 
-(A Fugitive is someone who last left Agora before completing eir
+(A&ensp;Fugitive&ensp;is&ensp;someone&ensp;who&ensp;last&ensp;left&ensp;Agora&ensp;before&ensp;completing&ensp;eir
 
-&ensp; &ensp; penal sentence - unofficial designation covers a range of penal
+&ensp;&ensp;&ensp;&ensp;penal&ensp;sentence&ensp;-&ensp;unofficial&ensp;designation&ensp;covers&ensp;a&ensp;range&ensp;of&ensp;penal
 
-&ensp; &ensp; codes over time).
+&ensp;&ensp;&ensp;&ensp;codes&ensp;over&ensp;time).
 
-&ensp; &ensp; &ensp; &ensp; [Elde](Players/Elde.md),[Time Agent](Players/Time Agent.md),[Antimatter](Players/Antimatter.md),[Proglet](Players/Proglet.md),[Macross](Players/Macross.md),[root](Players/root.md),[Vlad](Players/Vlad.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Elde]&ensp;(Players/Elde.md),[Time&ensp;Agent]&ensp;(Players/Time&ensp;Agent.md),[Antimatter]&ensp;(Players/Antimatter.md),[Proglet]&ensp;(Players/Proglet.md),[Macross]&ensp;(Players/Macross.md),[root]&ensp;(Players/root.md),[Vlad]&ensp;(Players/Vlad.md),
 
-&ensp; &ensp; &ensp; &ensp; [Morendil](Players/Morendil.md),[Beefurabi](Players/Beefurabi.md),[elJefe](Players/elJefe.md),[Ziggy](Players/Ziggy.md),[Evantine](Players/Evantine.md),[pTang](Players/pTang.md),[Blaise](Players/Blaise.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Morendil]&ensp;(Players/Morendil.md),[Beefurabi]&ensp;(Players/Beefurabi.md),[elJefe]&ensp;(Players/elJefe.md),[Ziggy]&ensp;(Players/Ziggy.md),[Evantine]&ensp;(Players/Evantine.md),[pTang]&ensp;(Players/pTang.md),[Blaise]&ensp;(Players/Blaise.md),
 
-&ensp; &ensp; &ensp; &ensp; [Syllepsis](Players/Syllepsis.md),[neil](Players/neil.md),[Blob](Players/Blob.md),[Magu](Players/Magu.md),[Peekee](Players/Peekee.md),[Cainech](Players/Cainech.md),[t](Players/t.md),[Pakaran](Players/Pakaran.md),
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Syllepsis]&ensp;(Players/Syllepsis.md),[neil]&ensp;(Players/neil.md),[Blob]&ensp;(Players/Blob.md),[Magu]&ensp;(Players/Magu.md),[Peekee]&ensp;(Players/Peekee.md),[Cainech]&ensp;(Players/Cainech.md),[t]&ensp;(Players/t.md),[Pakaran]&ensp;(Players/Pakaran.md),
 
-&ensp; &ensp; &ensp; &ensp; [0x44](Players/0x44.md),[Elysion](Players/Elysion.md),[Quazie](Players/Quazie.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[0x44]&ensp;(Players/0x44.md),[Elysion]&ensp;(Players/Elysion.md),&ensp;[Quazie](Players/Quazie.md)
 
 
 
-22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
+22-Sept-2019&ensp;Herald's&ensp;Monthly&ensp;Report&ensp;was&ensp;ratified&ensp;on&ensp;30-Oct-2019.
 
 
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  === END OF REPORT ===
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;===&ensp;END&ensp;OF&ensp;REPORT&ensp;===
 
 
 
- 
+&ensp;
 

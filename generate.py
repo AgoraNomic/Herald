@@ -143,18 +143,17 @@ if isReport:
 if not isTest:
     with open('scroll.txt', 'w') as ofile:
         ofile.write(report)
-    
-    # Fix padding so things don't get treated as code
-    report = report.replace("\n", "\n\n")
-    report = report.replace("  ", "&ensp; ")
                    
     # Generate a version with hyperlinks
-    
     for name in player_lists:
-        report = report.replace(" " + name + " ", "[" + name + "]" + "(" + "Players/" + name + ".md)")
-        report = report.replace(" " + name + ",", "[" + name + "]" + "(" + "Players/" + name + ".md),")
-        report = report.replace("\n" + name + ",", "\n[" + name + "]" + "(" + "Players/" + name + ".md)")
-        report = report.replace(" " + name + "\n", "[" + name + "]" + "(" + "Players/" + name + ".md)\n")
+        report = report.replace(" " + name + " ", "[" + name + "]" + " (" + "Players/" + name + ".md) ")
+        report = report.replace(" " + name + ",", "[" + name + "]" + " (" + "Players/" + name + ".md),")
+        report = report.replace("\n" + name + ",", "\n[" + name + "]" + "(" + "Players/" + name + ".md),")
+        report = report.replace(" " + name + "\n", " [" + name + "]" + "(" + "Players/" + name + ".md)\n")
+
+    # Fix padding so things don't get treated as code
+    report = report.replace("\n", "\n\n")
+    report = report.replace(" ", "&ensp;")
     
     with open('scroll.md', 'w') as ofile:
         ofile.write(report)
