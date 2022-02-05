@@ -4,7 +4,7 @@
 
                         Herald's Monthly Report
 
-                           February 03, 2022
+                           February 05, 2022
 
                           -------------------
                                   NEWS
@@ -42,7 +42,7 @@
 [Troublemaker at Large](Players/Troublemaker at Large.md)
                Clout:[ais523](Players/ais523.md),
 [Alexis](Players/Alexis.md)
-   Economic Takeover:[Cuddlebeam](Players/Cuddlebeam.md),[Falsifian](Players/Falsifian.md),
+   Economic Takeover:[Madrid](Players/Madrid.md),[Falsifian](Players/Falsifian.md),
 [Trigon](Players/Trigon.md)
             Election:
 [G.](Players/G..md)
@@ -50,7 +50,7 @@
 [omd](Players/omd.md)
             Gauntlet:[Falsifian](Players/Falsifian.md),
 [R. Lee](Players/R. Lee.md)
-          High Score:[ais523](Players/ais523.md)(x3),[Alexis](Players/Alexis.md)(x2),[BobTHJ](Players/BobTHJ.md),[Cuddlebeam](Players/Cuddlebeam.md), 
+          High Score:[ais523](Players/ais523.md)(x3),[Alexis](Players/Alexis.md)(x2),[BobTHJ](Players/BobTHJ.md),[Madrid](Players/Madrid.md), 
                      [Elysion](Players/Elysion.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md)(x2),[Jason](Players/Jason.md),[Levi](Players/Levi.md), 
                      [Murphy](Players/Murphy.md)(x3),[omd](Players/omd.md)(x4),[Pavitra](Players/Pavitra.md),[root](Players/root.md),[Steve](Players/Steve.md), 
                      [Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[twg](Players/twg.md)(x2),[Walker](Players/Walker.md),
@@ -71,11 +71,10 @@
 [root](Players/root.md)
             Politics:[Aspen](Players/Aspen.md),[D. Margaux](Players/D. Margaux.md)(x2)
             Proposal:[ais523](Players/ais523.md)(x4),[Alexis](Players/Alexis.md)(x3),[allispaul](Players/allispaul.md),[Andon](Players/Andon.md), 
-                     [Andre](Players/Andre.md)(x3),[Aspen](Players/Aspen.md),[BobTHJ](Players/BobTHJ.md),[Bucky](Players/Bucky.md),[Canada](Players/Canada.md), 
-                     [Cuddlebeam](Players/Cuddlebeam.md),[D. Margaux](Players/D. Margaux.md)(x501),[G.](Players/G..md)(x2), 
-                     [Human Point Two](Players/Human Point Two.md),[Morendil](Players/Morendil.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md)(x2), 
-                     [Spitemaster](Players/Spitemaster.md),[Steve](Players/Steve.md)(x3),[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[twg](Players/twg.md), 
-                     [woggle](Players/woggle.md),
+                     [Andre](Players/Andre.md)(x3),[Aspen](Players/Aspen.md),[BobTHJ](Players/BobTHJ.md),[Bucky](Players/Bucky.md),[Canada](Players/Canada.md),[Madrid](Players/Madrid.md), 
+                     [D. Margaux](Players/D. Margaux.md)(x501),[G.](Players/G..md)(x2),[Human Point Two](Players/Human Point Two.md), 
+                     [Morendil](Players/Morendil.md),[Murphy](Players/Murphy.md),[omd](Players/omd.md)(x2),[Spitemaster](Players/Spitemaster.md), 
+                     [Steve](Players/Steve.md)(x3),[Tiger](Players/Tiger.md),[Trigon](Players/Trigon.md),[twg](Players/twg.md),[woggle](Players/woggle.md),
 [Yally](Players/Yally.md)
          Renaissance:[ais523](Players/ais523.md),[Alexis](Players/Alexis.md)(x3),[G.](Players/G..md)(x3),[Jason](Players/Jason.md)(x2),[Murphy](Players/Murphy.md), 
                      [twg](Players/twg.md),
@@ -112,7 +111,7 @@
                                 HIGHER EDUCATION
                                 ----------------
        Associate of Nomic Artistry (A.N.A.):       [Aspen](Players/Aspen.md),
-[Cuddlebeam](Players/Cuddlebeam.md)
+[Madrid](Players/Madrid.md)
        Associate of Nomic (A.N.):                  [G.](Players/G..md),[Alexis](Players/Alexis.md),
 [twg](Players/twg.md)
        Juris Doctorate of Nomic (J.N.):            [Falsifian](Players/Falsifian.md),
@@ -157,7 +156,7 @@
 
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
-            [tris](Players/tris.md),[G.](Players/G..md), CuddleBeam,[Ienpw III](Players/Ienpw III.md),[nix](Players/nix.md),[Alexis](Players/Alexis.md),
+            [tris](Players/tris.md),[G.](Players/G..md),[Madrid](Players/Madrid.md),[Ienpw III](Players/Ienpw III.md),[nix](Players/nix.md),[Alexis](Players/Alexis.md),
             [o](Players/o.md),[Ørjan](Players/Ørjan.md),[Aspen](Players/Aspen.md),[Murphy](Players/Murphy.md),[Quazie](Players/Quazie.md),
             [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),[Sprocklem](Players/Sprocklem.md),[Veggiekeks](Players/Veggiekeks.md),
             [Roujo](Players/Roujo.md),[ais523](Players/ais523.md),[Gaelan](Players/Gaelan.md),[天火狐](Players/天火狐.md),
@@ -257,7 +256,7 @@
 [Chuck](Players/Chuck.md)
             Plagiarist:              
 [ehird](Players/ehird.md)
-            Popular:                 [ATMunn](Players/ATMunn.md),[Aspen](Players/Aspen.md), Cuddle Beam, 
+            Popular:                 [ATMunn](Players/ATMunn.md),[Aspen](Players/Aspen.md),[Madrid](Players/Madrid.md), 
                                      [cuddlybanana](Players/cuddlybanana.md),[G.](Players/G..md),[Jason](Players/Jason.md),[Murphy](Players/Murphy.md),
                                      
 [Trigon](Players/Trigon.md)
@@ -273,7 +272,7 @@
 [Trigon](Players/Trigon.md)
             Roboticist General:      
 [Jason](Players/Jason.md)
-            Rulebender:              [Aspen](Players/Aspen.md), Cuddle Beam,[Falsifian](Players/Falsifian.md),[G.](Players/G..md),
+            Rulebender:              [Aspen](Players/Aspen.md),[Madrid](Players/Madrid.md),[Falsifian](Players/Falsifian.md),[G.](Players/G..md),
                                      [Gaelan](Players/Gaelan.md),[Jason](Players/Jason.md),[Murphy](Players/Murphy.md),
                                      [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),
                                      [R. Lee](Players/R. Lee.md),[Trigon](Players/Trigon.md),[nix](Players/nix.md),[omd](Players/omd.md),

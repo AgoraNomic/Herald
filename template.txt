@@ -33,7 +33,7 @@
                                 ----------------
                                 HIGHER EDUCATION
                                 ----------------
-       Associate of Nomic Artistry (A.N.A.):        Aspen, Cuddlebeam
+       Associate of Nomic Artistry (A.N.A.):        Aspen, Madrid
        Associate of Nomic (A.N.):                   G., Alexis, twg
        Juris Doctorate of Nomic (J.N.):             Falsifian, G.
        Baccalaureate of Nomic (B.N.):               elJefe, favor,
@@ -70,7 +70,7 @@
 
      Badge of the Great Agoran Revival [May 2017]
       (awarded to Agoran persons from May 2017)
-             tris, G., CuddleBeam, Ienpw III, nix, Alexis,
+             tris, G., Madrid, Ienpw III, nix, Alexis,
              o, Ørjan, Aspen, Murphy, Quazie,
              Publius Scribonius Scholasticus, Sprocklem, Veggiekeks,
              Roujo, ais523, Gaelan, 天火狐, grok
@@ -134,7 +134,7 @@
             Orator:                   twg
             Originator:               Chuck
             Plagiarist:               ehird
-            Popular:                  ATMunn, Aspen, Cuddle Beam, 
+            Popular:                  ATMunn, Aspen, Madrid, 
                                       cuddlybanana, G., Jason, Murphy,
                                       Trigon
             Popular Philanthropist:   ATMunn
@@ -143,7 +143,7 @@
             Princess of Agora:        Alexis
             Reformist Bug:            Trigon
             Roboticist General:       Jason
-            Rulebender:               Aspen, Cuddle Beam, Falsifian, G.,
+            Rulebender:               Aspen, Madrid, Falsifian, G.,
                                       Gaelan, Jason, Murphy,
                                       Publius Scribonius Scholasticus,
                                       R. Lee, Trigon, nix, omd, twg
