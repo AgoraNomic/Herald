@@ -145,7 +145,7 @@ if not isTest:
         ofile.write(report)
     
     # Fix padding so things don't get treated as code
-    report.replace("\n ", "&ensp; ")
+    report = report.replace("\n ", "\n&ensp;")
                    
     # Generate a version with hyperlinks
     
