@@ -146,8 +146,10 @@ if not isTest:
     
     # Fix padding so things don't get treated as code
     report = report.replace("\n", "\n\n")
-    report = report.replace("  ", "&ensp; ")
-    report = report.replace("&ensp;  ", "&ensp; &ensp;")
+    report = report.replace("\n ", "\n&ensp;")
+    report = report.replace("                    ===============================", "&ensp;                   ===============================")
+#    report = report.replace("  ", "&ensp; ")
+#    report = report.replace("&ensp;  ", "&ensp; &ensp;")
           
     # Generate a version with hyperlinks
     for name in player_lists:
