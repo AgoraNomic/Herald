@@ -1,10 +1,14 @@
-(This page is currently being renovated.)
+Welcome to the Herald's Webpage. The Herald officializes wins, tracks wins and patent titles, and tracks scores.
 
-Herald's Report Archive:
+The current Herald is nix.
 
-[Scroll of Agora (WIP)](scroll.md)
+# Current Reports
 
-[Scroll of Agora (Plain text)](scroll.txt)
+[Scroll of Agora](scroll.md) ([Plain text](scroll.txt))
+
+[High Scores](Scores/scores.txt)
+
+# Older Content
 
 [2018 Birthday Tournament](birthday_tournament_2018.txt)
 

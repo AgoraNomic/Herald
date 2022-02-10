@@ -1,0 +1,34 @@
+PLACE   NAME   SCORE   CHANGE
+-----   ----   -----   ------
+1st     AIS    00000   
+1st     ASP    00000   
+1st     ATM    00000   
+1st     BB2    00000   
+1st     BBB    00000   
+1st     CBN    00000   
+1st     FAL    00000   
+1st     G.     00000   
+1st     GAE    00000   
+1st     JSN    00000   
+1st     MAD    00000   
+1st     MUR    00000   
+1st     NTN    00000   
+1st     NIX    00000   
+1st     OMD    00000   
+1st     PAT    00000   
+1st     R.L    00000   
+1st     RED    00000   
+1st     SSN    00000   
+1st     17M    00000   
+1st     SGE    00000   
+1st     SPR    00000   
+1st     TEL    00000   
+1st     TDS    00000   
+1st     TRI    00000   
+1st     TRS    00000   
+
+KEY
+---
+ais523 = AIS; Aspen = ASP; ATMunn = ATM; Benbot² = BB2; BigBobBingo ! = BBB; cuddlybanana = CBN; Falsifian = FAL; G. = G.; Gaelan = GAE; Jason = JSN; Madrid = MAD; Murphy = MUR; Nathan = NTN; nix = NIX; omd = OMD; Pat = PAT; R. Lee = R.L; redtara = RED; secretsnail = SSN; seventeenMachine = 17M; Sgeo = SGE; surprise = SPR; Telna = TEL; Trapdoorspyder = TDS; Trigon = TRI; tris = TRS; 
+
+If you'd like to change your three letter name, please let the Herald know.
