@@ -4,7 +4,7 @@ The current Herald is nix.
 
 # Current Reports
 
-[Scroll of Agora](scroll.md) ([Plain text](scroll.txt))
+[Scroll of Agora](Scrolls/scroll.md) ([Plain text](Scrolls/scroll.txt))
 
 [High Scores](Scores/scores.txt)
 
