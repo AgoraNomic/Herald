@@ -63,7 +63,8 @@ def formatter(place, pl):
     out += "\n"
     return(out)
 
-output = "PLACE   " + "NAME" + "   SCORE   " + "CHANGE" + "\n"
+output = "Scores as of " + now.strftime('%B %d, %Y') + "\n\n"
+output+= "PLACE   " + "NAME" + "   SCORE   " + "CHANGE" + "\n"
 output+= "-----   " + "----" + "   -----   " + "------" + "\n"
 
 for pl in players:

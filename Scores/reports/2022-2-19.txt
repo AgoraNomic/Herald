@@ -31,6 +31,11 @@ PLACE   NAME   SCORE   CHANGE
 
 KEY
 ---
-ais523 = AIS; Aspen = ASP; ATMunn = ATM; Benbot² = BB2; BigBobBingo ! = BBB; cuddlybanana = CBN; Falsifian = FAL; G. = G.; Gaelan = GAE; Jason = JSN; Madrid = MAD; Murphy = MUR; Nathan = NTN; nix = NIX; omd = OMD; Pat = PAT; R. Lee = LEE; redtara = RED; secretsnail = SSN; seventeenMachine = 17M; Sgeo = SGE; surprise = SPR; Telna = TEL; Trapdoorspyder = TDS; Trigon = TRI; tris = TRS; 
+ais523 = AIS; Aspen = ASP; ATMunn = ATM; Benbot² = BB2;
+BigBobBingo ! = BBB; cuddlybanana = CBN; Falsifian = FAL; G. = G.;
+Gaelan = GAE; Jason = JSN; Madrid = MAD; Murphy = MUR; Nathan = NTN;
+nix = NIX; omd = OMD; Pat = PAT; R. Lee = LEE; redtara = RED;
+secretsnail = SSN; seventeenMachine = 17M; Sgeo = SGE; surprise = SPR;
+Telna = TEL; Trapdoorspyder = TDS; Trigon = TRI; tris = TRS; 
 
 If you'd like to change your three letter name, please let the Herald know.
