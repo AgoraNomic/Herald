@@ -140,33 +140,26 @@ output+= "----------------------\n"
 for i in changes:
     output+= ", ".join(i) + "\n"
 
-print(output)
-
 if isReport:
     with open(score_file, 'w') as outfile:
         outfile.write("Name,Short,Score\n")
         for player in pl_keys:
             outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
 
-#output+= "\n"
-#output+= key
-#output+= "\n\n"
-#output+= "If you'd like to change your three letter name, please let the Herald know."
-
-#if not isReport:
-    #print(output)
-#else:
-    #report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
+if not isReport:
+    print(output)
+else:
+    report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
     
     #Edit the csv to incorporate changes
-    #with open(score_file, 'w') as outfile:
-        #editor = writer(outfile, delimiter=',', quotechar="\"")
+    with open(score_file, 'w') as outfile:
+        editor = writer(outfile, delimiter=',', quotechar="\"")
         
-        #for row in edited:
-            #editor.writerow(row)
+        for row in edited:
+            editor.writerow(row)
     
-    #with open('reports/' + report_name + '.txt', 'w') as ofile:
-        #ofile.write(output)
+    with open('reports/' + report_name + '.txt', 'w') as ofile:
+        ofile.write(output)
         
-    #with open('scores.txt', 'w') as ofile:
-        #ofile.write(output)
+    with open('scores.txt', 'w') as ofile:
+        ofile.write(output)
