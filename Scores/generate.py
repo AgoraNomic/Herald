@@ -140,23 +140,15 @@ output+= "----------------------\n"
 for i in changes:
     output+= ", ".join(i) + "\n"
 
-if isReport:
-    with open(score_file, 'w') as outfile:
-        outfile.write("Name,Short,Score\n")
-        for player in pl_keys:
-            outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
-
 if not isReport:
     print(output)
 else:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
     
-    #Edit the csv to incorporate changes
     with open(score_file, 'w') as outfile:
-        editor = writer(outfile, delimiter=',', quotechar="\"")
-        
-        for row in edited:
-            editor.writerow(row)
+        outfile.write("Name,Short,Score\n")
+        for player in pl_keys:
+            outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
     
     with open('reports/' + report_name + '.txt', 'w') as ofile:
         ofile.write(output)
