@@ -14,8 +14,8 @@ Here is a (incomplete) list of Agoran theses:
 
 | Name  | Date    | Thesis | Degree Awarded |
 |---------------------------------------|
-| favor | Unknown | [A Completely Formal Nomic](These/?-???-????-favor.txt) | Unknown |
-| Steve | Unknown | [Breaking the Rules](?-???-????-Steve.txt) | Unknown |
+| favor | Unknown | [A Completely Formal Nomic](Theses/?-???-????-favor.txt) | Unknown |
+| Steve | Unknown | [Breaking the Rules](Theses/?-???-????-Steve.txt) | Unknown |
 
 # Older Content
 
