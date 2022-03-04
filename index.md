@@ -8,6 +8,15 @@ The current Herald is nix.
 
 [High Scores](Scores/scores.txt)
 
+# Thesis
+
+Here is a (incomplete) list of Agoran theses:
+
+| Name  | Date    | Thesis | Degree Awarded |
+|---------------------------------------|
+| favor | Unknown | [A Completely Formal Nomic](These/?-???-????-favor.txt) | Unknown |
+| Steve | Unknown | [Breaking the Rules](?-???-????-Steve.txt) | Unknown |
+
 # Older Content
 
 [2018 Birthday Tournament](birthday_tournament_2018.txt)
