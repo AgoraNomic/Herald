@@ -7,20 +7,18 @@ PLACE	NAME	SCORE	CHANGE
 3rd	JSN	 013	    +8
 4th	NIX	 005	    +5
 5th	AIS	 004	    +3
-5th	ATM	 004	    +4
 5th	ASP	 004	    +4
 
 All other scores are zero. 
 
-ATMunn = ATM;  Aspen = ASP;  G. = G.;  Jason = JSN;  ais523 = AIS;  
-nix = NIX;  secretsnail = SSN;  
+Aspen = ASP;  G. = G.;  Jason = JSN;  ais523 = AIS;  nix = NIX;
+secretsnail = SSN;  
 
 If you'd like to change your three letter name, please let the Herald 
 know. 
 
 List of Recent Changes
 ----------------------
-Mar 15 2022:  ATMunn +4 (author of 8645)
 Mar 15 2022:  nix +1 (coauthor of 8645)
 Mar 15 2022:  secretsnail +3 (vote against 8645)
 Mar 15 2022:  Jason +4 (author of 8646)

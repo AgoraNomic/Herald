@@ -21,7 +21,7 @@ class Player:
     
     def scorestr(self):
         digits = len(str(self.score))
-        return "0" * (5-digits) + str(self.score)
+        return " " + "0" * (3-digits) + str(self.score)
     
     def changestr(self):
         if self.change == 0:
@@ -126,6 +126,10 @@ for player in pl_keys:
     key_list.append(players[player].name + " = " + players[player].short_name + "; ")
 
 output+= "\n"
+output+= dechunker("All other scores are zero.".split(" "),73)
+output+= "\n"
+
+output+= "\n"
 output+= dechunker(key_list,73)
 output+= "\n"
 
@@ -138,7 +142,7 @@ output+= "List of Recent Changes\n"
 output+= "----------------------\n"
 
 for i in changes:
-    output+= ", ".join(i) + "\n"
+    output+= i[3] + ": " + " " + i[0] + " " + i[1] + " (" + i[2] + ")" + "\n"
 
 if not isReport:
     print(output)
