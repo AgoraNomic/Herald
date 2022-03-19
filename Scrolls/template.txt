@@ -13,6 +13,10 @@
                     ATMunn and nix have been awarded
                           Long Service Awards.
                           
+                    Persons that were active players
+                    on Feb 2, 2022 have been awarded
+                           the Twosday Badge.
+                          
                           -------------------
                               CHAMPION by
                           -------------------
@@ -85,6 +89,11 @@
              ATMunn, G., Jason, Aspen, Falsifian, R. Lee, omd, Trigon,
              Ben, Claire, Publius Scribonius Scholasticus
              
+     Twosday Badge [Feb 02 2022]
+      (awarded to persons that were active players on 2/22/22)
+             ATMunn, Aspen, G., Gaelan, Jason, Madrid, Murphy, R. Lee,
+             Sgeo, TABBAT, Trigon, ais523, cuddlybanana, nix, omd,
+             secretsnail
                                    --------
                                    AND MORE
                                    --------

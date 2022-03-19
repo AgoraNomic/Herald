@@ -28,6 +28,14 @@
 
 &ensp;                         
 
+&ensp;                   Persons that were active players
+
+&ensp;                   on Feb 2, 2022 have been awarded
+
+&ensp;                          the Twosday Badge.
+
+&ensp;                         
+
 &ensp;                         -------------------
 
 &ensp;                             CHAMPION by
@@ -271,6 +279,16 @@
 &ensp;            [Ben](Players/Ben.md), [Claire](Players/Claire.md), [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)
 
 &ensp;            
+
+&ensp;    Twosday Badge [Feb 02 2022]
+
+&ensp;     (awarded to persons that were active players on 2/22/22)
+
+&ensp;            [ATMunn](Players/ATMunn.md), [Aspen](Players/Aspen.md), [G.](Players/G..md), [Gaelan](Players/Gaelan.md), [Jason](Players/Jason.md), [Madrid](Players/Madrid.md), [Murphy](Players/Murphy.md), [R. Lee](Players/R. Lee.md),
+
+&ensp;            [Sgeo](Players/Sgeo.md), TABBAT, [Trigon](Players/Trigon.md), [ais523](Players/ais523.md), [cuddlybanana](Players/cuddlybanana.md), [nix](Players/nix.md), [omd](Players/omd.md),
+
+&ensp;            secretsnail
 
 &ensp;                                  --------
 
