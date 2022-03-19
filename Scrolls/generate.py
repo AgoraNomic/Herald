@@ -161,9 +161,8 @@ mapping = {'fancy_time': fancy_time, 'champions': champions, 'service_titles': s
 
 report = template.format_map(mapping)
 
-if isReport:
-    with open('Reports/' + report_name + '.txt', 'w') as ofile:
-        ofile.write(report)
+with open('Reports/' + report_name + '.txt', 'w') as ofile:
+    ofile.write(report)
 
 if not isTest:
     with open('scroll.txt', 'w') as ofile:

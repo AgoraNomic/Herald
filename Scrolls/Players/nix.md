@@ -6,7 +6,7 @@ Champions: Apathy, Junta, Rulebending
 
 Others: Rulebender
 
-Service Awards: Three Months
+Service Awards: Nine Months, Three Months, Three Months, Twelve Months
 
 Silver Quills: Silver Quill
 

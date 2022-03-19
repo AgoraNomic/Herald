@@ -6,6 +6,6 @@ Champions: Tournament
 
 Others: Popular, Popular Philanthropist
 
-Service Awards: Three Months
+Service Awards: Nine Months, Six Months, Three Months, Twelve Months
 
 

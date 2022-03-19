@@ -10,10 +10,8 @@
                                   NEWS
                           -------------------
 
-                 Aspen has been awarded a patent title.
-                          
-                Some accidentally reverted changes in the
-                   last version have been unreverted.
+                    ATMunn and nix have been awarded
+                          Long Service Awards.
                           
                           -------------------
                               CHAMPION by
