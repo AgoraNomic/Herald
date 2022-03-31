@@ -3,7 +3,7 @@ Scores as of March 31, 2022
 PLACE	NAME	SCORE	CHANGE
 -----	----	-----	------
 1st	SSN	 047	
-2nd	G.	 016	
+2nd	G. 	 016	
 3rd	JSN	 013	
 4th	NIX	 005	
 5th	ASP	 004	
@@ -11,7 +11,7 @@ PLACE	NAME	SCORE	CHANGE
 
 All other scores are zero. 
 
-Aspen = ASP;  G. = G.;  Jason = JSN;  ais523 = AIS;  nix = NIX;  
+Aspen = ASP;  G. = G. ;  Jason = JSN;  ais523 = AIS;  nix = NIX;  
 secretsnail = SSN;  
 
 If you'd like to change your three letter name, please let the Herald 
