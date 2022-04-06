@@ -138,11 +138,11 @@ output+= dechunker("If you'd like to change your three letter name, please let t
 output+= "\n"
 
 output+= "\n"
-output+= "List of Recent Changes\n"
+output+= "Events Since Last Report\n"
 output+= "----------------------\n"
 
 for i in changes:
-    output+= i[3] + ": " + " " + i[0] + " " + i[1] + " (" + i[2] + ")" + "\n"
+    output+= i[3] + ": " + i[0] + " " + i[1] + " (" + i[2] + ")" + "\n"
 
 if not isReport:
     print(output)
