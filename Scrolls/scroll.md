@@ -10,7 +10,7 @@
 
 
 
-&ensp;                            March 19, 2022
+&ensp;                            April 23, 2022
 
 
 
@@ -19,20 +19,6 @@
 &ensp;                                 NEWS
 
 &ensp;                         -------------------
-
-
-
-&ensp;                   [ATMunn](Players/ATMunn.md) and [nix](Players/nix.md) have been awarded
-
-&ensp;                         Long Service Awards.
-
-&ensp;                         
-
-&ensp;                   Persons that were active players
-
-&ensp;                   on Feb 2, 2022 have been awarded
-
-&ensp;                          the Twosday Badge.
 
 &ensp;                         
 

@@ -139,7 +139,7 @@ output+= "\n"
 
 output+= "\n"
 output+= "Events Since Last Report\n"
-output+= "----------------------\n"
+output+= "------------------------\n"
 
 for i in changes:
     output+= i[3] + ": " + i[0] + " " + i[1] + " (" + i[2] + ")" + "\n"
