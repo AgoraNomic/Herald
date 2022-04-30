@@ -84,7 +84,7 @@ previous_score = players[pl_keys[0]].score
 out = ""
 
 #Final output
-output = "Scores as of " + now.strftime('%B %d, %Y') + "\n\n"
+output = "Scores (points) as of " + now.strftime('%B %d, %Y') + "\n\n"
 output+= "PLACE\t" + "NAME\t" + "SCORE\t" + "CHANGE" + "\n"
 output+= "-----\t" + "----\t" + "-----\t" + "------" + "\n"
 
