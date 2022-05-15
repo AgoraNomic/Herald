@@ -1,11 +1,11 @@
-Scores (points) as of May 14, 2022
+Scores (points) as of May 07, 2022
 
 PLACE	NAME	SCORE	CHANGE
 -----	----	-----	------
-1st	SSN	 052	    +1
+1st	SSN	 051	
 2nd	G. 	 026	
-3rd	NIX	 024	    +4
-4th	JSN	 023	    +2
+3rd	JSN	 021	
+4th	NIX	 020	
 5th	AIS	 005	
 6th	ASP	 004	
 6th	MUR	 004	
@@ -22,7 +22,3 @@ know.
 
 Events Since Last Report
 ------------------------
-May 07 2022: nix 2 (author of 8669)
-May 07 2022: nix 2 (author of 8670)
-May 07 2022: secretsnail 1 (author of 8670)
-May 07 2022: Jason 2 (author of 8671)
