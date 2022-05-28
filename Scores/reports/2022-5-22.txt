@@ -1,0 +1,27 @@
+Scores (points) as of May 22, 2022
+
+PLACE	NAME	SCORE	CHANGE
+-----	----	-----	------
+1st	SSN	 054	    +2
+2nd	G. 	 026	
+2nd	NIX	 026	    +2
+4th	JSN	 023	
+5th	MUR	 006	    +2
+6th	AIS	 005	
+7th	ASP	 004	
+8th	TLN	 001	
+8th	TRI	 001	
+
+All other scores are zero. 
+
+Aspen = ASP;  G. = G. ;  Jason = JSN;  Murphy = MUR;  Telna = TLN;  
+Trigon = TRI;  ais523 = AIS;  nix = NIX;  secretsnail = SSN;  
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+May 20 2022: Murphy +2 (author of 8673)
+May 20 2022: nix +2 (author of 8674)
+May 21 2022: secretsnail +2 (author of 8676)
