@@ -69,7 +69,7 @@ with open(recent_file, 'r') as infile:
 
 if isReport:
     with open(recent_file, 'w') as outfile:
-        outfile.write("Name,Change,Reason\n")
+        outfile.write("Name,Change,Reason,Date\n")
 
 # Grab all the player names, then sort them by score
 pl_keys = list(players.keys())
