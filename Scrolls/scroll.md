@@ -10,7 +10,7 @@
 
 
 
-&ensp;                             May 28, 2022
+&ensp;                            June 25, 2022
 
 
 
@@ -21,6 +21,10 @@
 &ensp;                         -------------------
 
 &ensp;                         
+
+&ensp;               [G.](Players/G..md) won via Economic Take-Over on 5 Jun 2022.
+
+
 
 &ensp;                         -------------------
 
@@ -58,7 +62,7 @@
 
 &ensp;              Clout: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md)
 
-&ensp;  Economic Takeover: [Falsifian](Players/Falsifian.md), [Madrid](Players/Madrid.md), [Trigon](Players/Trigon.md)
+&ensp;  Economic Takeover: [Falsifian](Players/Falsifian.md), [Madrid](Players/Madrid.md), [Trigon](Players/Trigon.md), [G.](Players/G..md)
 
 &ensp;           Election: [G.](Players/G..md)
 
@@ -563,8 +567,4 @@
 
 
 &ensp;                      === END OF REPORT ===
-
-
-
-&ensp;
 

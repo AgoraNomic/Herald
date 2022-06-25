@@ -2,31 +2,6 @@ from sys import argv
 from csv import reader
 from datetime import datetime, timezone 
 
-#scroll_length = 72
-
-#def scrollFormatter(chunked_text, padding):
-    #unpadded = scroll_length - (padding * 2)
-    #cur_line = ""
-    #line_list = []
-    #for chunk in chunked_text:
-        #if len(cur_line + " " + chunk) > unpadded:
-            #line_list.append(cur_line)
-            #cur_line = chunk
-        #elif len(cur_line) == 0:
-            #cur_line=chunk
-        #else:
-            #cur_line+= " " + chunk
-    #line_list.append(cur_line)
-    #out = ""
-    #for line in line_list:
-        #center_padding = (scroll_length - len(line)) // 2
-        #out+= " " * center_padding + line + " " * center_padding + "\n"
-    #return out
-
-#test = "Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. Some accidentally reverted changes in the last version have been unreverted. ".split()
-
-#print(scrollFormatter(test,3))
-
 isTest = "-t" in argv
 isReport = "-r" in argv
 
@@ -42,7 +17,7 @@ if isTest:
     print("Running test generation.")
     report_name = "test"
 elif isReport:
-    report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
+    report_name = str(now.year) + "-" + str(now.month).zfill(2) + "-" + str(now.day).zfill(2)
     print("Generating report: " + report_name)
 
 time_str = now.strftime('%B %d, %Y')
@@ -181,8 +156,6 @@ if not isTest:
         report = report.replace(" " + name + ",", " [" + name + "]" + "(" + "Players/" + name + ".md),")
         report = report.replace("\n" + name + ",", "\n[" + name + "]" + "(" + "Players/" + name + ".md),")
         report = report.replace(" " + name + "\n", " [" + name + "]" + "(" + "Players/" + name + ".md)\n")
-
-
     
     with open('scroll.md', 'w') as ofile:
         ofile.write(report)

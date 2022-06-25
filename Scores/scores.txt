@@ -1,8 +1,8 @@
-Scores (points) as of June 11, 2022
+Scores (points) as of June 25, 2022
 
 PLACE	NAME	SCORE	CHANGE
 -----	----	-----	------
-1st	SSN	 055	
+1st	SSN	 057	
 2nd	JSN	 029	
 2nd	NIX	 029	
 4th	G. 	 028	
