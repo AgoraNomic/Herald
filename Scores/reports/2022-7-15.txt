@@ -2,7 +2,7 @@ Scores (points) as of July 15, 2022
 
 PLACE	NAME	SCORE	CHANGE
 -----	----	-----	------
-1st	SSN	 017	
+1st	SSN	 019	    +2
 2nd	G. 	 007	
 2nd	JSN	 007	
 2nd	NIX	 007	
@@ -22,3 +22,4 @@ know.
 
 Events Since Last Report
 ------------------------
+Jul 07 2022: secretsnail +2 (Played with crow)
