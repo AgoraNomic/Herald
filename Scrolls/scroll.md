@@ -10,7 +10,7 @@
 
 
 
-&ensp;                            June 25, 2022
+&ensp;                            July 31, 2022
 
 
 
@@ -19,10 +19,6 @@
 &ensp;                                 NEWS
 
 &ensp;                         -------------------
-
-&ensp;                         
-
-&ensp;               [G.](Players/G..md) won via Economic Take-Over on 5 Jun 2022.
 
 
 
