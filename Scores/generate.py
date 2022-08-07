@@ -84,7 +84,7 @@ previous_score = players[pl_keys[0]].score
 out = ""
 
 report_scores = ""
-dashboard_scores = ""
+html_scores = ""
 
 def report_formatter(place, pl):
     out = ""
@@ -95,7 +95,7 @@ def report_formatter(place, pl):
     out+= "\n"
     return(out)
 
-def dashboard_formatter(place, pl):
+def html_formatter(place, pl):
     out = "<tr>"
     out+= "<td>" + ordinal(place) + "</td>"
     out+= "<td>" + pl.short_name + "</td>"
@@ -114,7 +114,7 @@ for player in pl_keys:
         ties=0
     previous_score = pl.score
     report_scores += report_formatter(place, pl)
-    dashboard_scores += dashboard_formatter(place, pl)
+    html_scores += html_formatter(place, pl)
 
 pl_keys.sort(key=lambda x:players[x].name, reverse=False) #sort by name
 
@@ -138,17 +138,17 @@ report_mapping = {'date': now.strftime('%B %d, %Y'), 'history': history, 'scores
 
 report = template.format_map(report_mapping)
 
-#Apply map and output dashboard
-with open('dashboard.template', 'r') as infile:
+#Apply map and output html
+with open('report.html.template', 'r') as infile:
     template = infile.read()
 
-dashboard_mapping = {'date': now.strftime('%B %d, %Y'), 'history': history, 'scores': dashboard_scores, 'key': key_list}
+html_mapping = {'date': now.strftime('%B %d, %Y'), 'history': history, 'scores': html_scores, 'key': key_list}
 
-dashboard = template.format_map(dashboard_mapping)
+html = template.format_map(html_mapping)
 
 if not isReport:
     print(report)
-    print(dashboard)
+    print(html)
 else:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
     
@@ -157,8 +157,8 @@ else:
         for player in pl_keys:
             outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
     
-    with open("dashboard.html", "w") as ofile:
-        ofile.write(dashboard)
+    with open("report.html", "w") as ofile:
+        ofile.write(html)
         
     with open('reports/' + report_name + '.txt', 'w') as ofile:
         ofile.write(report)
