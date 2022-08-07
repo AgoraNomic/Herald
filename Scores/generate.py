@@ -83,18 +83,26 @@ ties = -1 # starts at -1 because the first loop will iterate it
 previous_score = players[pl_keys[0]].score
 out = ""
 
-#Final output
-output = "Scores (points) as of " + now.strftime('%B %d, %Y') + "\n\n"
-output+= "PLACE\t" + "NAME\t" + "SCORE\t" + "CHANGE" + "\n"
-output+= "-----\t" + "----\t" + "-----\t" + "------" + "\n"
+report_scores = ""
+dashboard_scores = ""
 
-def formatter(place, pl):
-    out = []
-    out.append(ordinal(place))
-    out.append(pl.short_name)
-    out.append(pl.scorestr())
-    out.append(pl.changestr())
-    return('\t'.join(out)+"\n")
+def report_formatter(place, pl):
+    out = ""
+    out+= ordinal(place) + " " * 4
+    out+= pl.short_name + " " * 6
+    out+= pl.scorestr() + " " * 4
+    out+= pl.changestr()
+    out+= "\n"
+    return(out)
+
+def dashboard_formatter(place, pl):
+    out = "<tr>"
+    out+= "<td>" + ordinal(place) + "</td>"
+    out+= "<td>" + pl.short_name + "</td>"
+    out+= "<td>" + pl.scorestr() + "</td>"
+    out+= "<td>" + pl.changestr() + "</td>"
+    out+= "</tr>"
+    return(out)
 
 for player in pl_keys:
     pl = players[player]
@@ -105,47 +113,42 @@ for player in pl_keys:
         place+=ties+1
         ties=0
     previous_score = pl.score
-    output += formatter(place, pl)
-
-def dechunker(chunked, mlen):
-    out = ""
-    line = ""
-    for chunk in chunked:
-        if (len(line) + len(chunk)) > mlen:
-            out+= line + "\n"
-            line = ""
-        line += chunk + " "
-    out += line
-    return out
+    report_scores += report_formatter(place, pl)
+    dashboard_scores += dashboard_formatter(place, pl)
 
 pl_keys.sort(key=lambda x:players[x].name, reverse=False) #sort by name
 
 # Generate key
-key_list = []
+key_list = ""
 for player in pl_keys:
-    key_list.append(players[player].name + " = " + players[player].short_name + "; ")
+    key_list+= players[player].name + " = " + players[player].short_name + "; "
+    
+key_list = key_list[:-2]
 
-output+= "\n"
-output+= dechunker("All other scores are zero.".split(" "),73)
-output+= "\n"
-
-output+= "\n"
-output+= dechunker(key_list,73)
-output+= "\n"
-
-output+= "\n"
-output+= dechunker("If you'd like to change your three letter name, please let the Herald know.".split(" "),73)
-output+= "\n"
-
-output+= "\n"
-output+= "Events Since Last Report\n"
-output+= "------------------------\n"
+history=""
 
 for i in changes:
-    output+= i[3] + ": " + i[0] + " " + i[1] + " (" + i[2] + ")" + "\n"
+    history+= i[3] + ": " + i[0] + " " + i[1] + " (" + i[2] + ")" + "\n"
+
+# Apply map and output report
+with open('report.template', 'r') as infile:
+    template = infile.read()
+
+report_mapping = {'date': now.strftime('%B %d, %Y'), 'history': history, 'scores': report_scores, 'key': key_list}
+
+report = template.format_map(report_mapping)
+
+#Apply map and output dashboard
+with open('dashboard.template', 'r') as infile:
+    template = infile.read()
+
+dashboard_mapping = {'date': now.strftime('%B %d, %Y'), 'history': history, 'scores': dashboard_scores, 'key': key_list}
+
+dashboard = template.format_map(dashboard_mapping)
 
 if not isReport:
-    print(output)
+    print(report)
+    print(dashboard)
 else:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
     
@@ -154,8 +157,11 @@ else:
         for player in pl_keys:
             outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
     
-    with open('reports/' + report_name + '.txt', 'w') as ofile:
-        ofile.write(output)
+    with open("dashboard.html", "w") as ofile:
+        ofile.write(dashboard)
         
-    with open('scores.txt', 'w') as ofile:
-        ofile.write(output)
+    with open('reports/' + report_name + '.txt', 'w') as ofile:
+        ofile.write(report)
+        
+    with open('report.txt', 'w') as ofile:
+        ofile.write(report)

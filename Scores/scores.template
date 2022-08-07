@@ -1,0 +1,18 @@
+Scores (points) as of July 31, 2022
+
+PLACE	NAME [0]	SCORE	CHANGE [1]
+-----	--------	-----	----------
+{scores}
+
+All other scores are zero. 
+
+[0] {key}
+
+[1] Since last official report.
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+{history}
