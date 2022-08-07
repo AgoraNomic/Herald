@@ -1,0 +1,30 @@
+Scores (points) as of August 07, 2022.
+
+PLACE  NAME [0]  SCORE  CHANGE [1]
+-----  --------  -----  ----------
+1st    JSN       050        +5
+2nd    SSN       034    
+3rd    4ST       019    
+4th    NIX       017    
+5th    G.        014    
+5th    MUR       014    
+7th    AIS       012        +5
+8th    ASP       004    
+9th    MAD       001    
+9th    JWN       001    
+
+
+All other scores are zero. 
+
+[0] 4st = 4ST; Aspen = ASP; G. = G. ; Jason = JSN; Madrid = MAD; Murphy = MUR; ais523 = AIS; juan = JWN; nix = NIX; secretsnail = SSN
+
+[1] Since last official report.
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+Aug 06 2022: ais523 +5 (author of P8815)
+Aug 06 2022: Jason +5 (author of P8818)
+
