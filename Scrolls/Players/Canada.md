@@ -1,5 +1,0 @@
-Canada
-
-Champions: Proposal
-
-

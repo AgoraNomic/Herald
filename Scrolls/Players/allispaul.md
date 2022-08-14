@@ -1,5 +1,0 @@
-allispaul
-
-Champions: Proposal
-
-

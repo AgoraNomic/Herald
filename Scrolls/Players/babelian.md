@@ -1,5 +1,0 @@
-babelian
-
-Champions: Apathy
-
-

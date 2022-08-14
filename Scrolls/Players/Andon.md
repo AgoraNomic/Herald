@@ -1,5 +1,0 @@
-Andon
-
-Champions: Proposal
-
-

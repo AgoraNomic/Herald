@@ -1,5 +1,0 @@
-Fool
-
-Badges: Agora XX
-
-

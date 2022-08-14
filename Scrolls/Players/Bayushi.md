@@ -1,5 +1,0 @@
-Bayushi
-
-Champions: Apathy
-
-

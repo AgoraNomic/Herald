@@ -1,5 +1,0 @@
-Levi
-
-Champions: High Score
-
-

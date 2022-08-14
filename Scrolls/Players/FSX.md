@@ -1,5 +1,0 @@
-FSX
-
-Badges: Agora XX
-
-
