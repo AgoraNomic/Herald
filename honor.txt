@@ -1,0 +1,30 @@
+These are the current non-zero Karma values:
+
++ 1 juan
++ 1 nix
+  0 Agora
+- 2 4st
+
+A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it must:
+
+    1. Be clear that it is a Notice of Honour, and be the first valid
+       Notice of Honour that player has published in the current week;
+      
+    2. Specify any other active player or Agora to gain karma, and
+       provide a reason for specifying that player; and
+      
+    3. Specify any active player or Agora to lose karma, and provide a
+       reason for specifying that player.
+      
+    4. Not result in Agora's karma moving farther away from 0. 
+
+History
+-------
+22 Aug 22
+    juan:
+        +1 nix (e proposed the creation of the rule)
+        -1 4st (e tried to be naughty and gain many points)
+28 Aug 22
+    nix:
+        +1 juan (using a notice already)
+        -1 4st (making so many stamps)
