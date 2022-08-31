@@ -1,0 +1,17 @@
+1. CFJ 3514
+2. ais523 [source: https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2021-July/061267.html]
+3. Thu Mar 31 21:01:54 1994 remote from swix
+> There are three Camps:  The Platonic Camp, the Pragmatic Camp, and the Ambivalent Camp.
+4. ???
+5. "If a proposal purports to reward or penalize voters based on the votes they cast on that proposal, or based on any other action taken / not taken by any player prior to the end of the voting period on that proposal, then that proposal will, if passed, be in conflict with rule 108." [Source: https://faculty.washington.edu/kerim/nomic/cases/?1]
+6. 661 coins
+7. 8 [The Orchard]
+8. R2154
+9. 
+- Agora
+- BlogNomic
+- Infinite Nomic: https://infinitenomic.miraheze.org/wiki/Round_10
+- Fantasy Rules Committee. https://groups.google.com/g/frc-play (also
+  mentioned here in case it matters:
+  https://www.reddit.com/r/nomic/comments/nta83s/nomic_invasion/h0v1vlk/)
+- B&C Gaming Nomic

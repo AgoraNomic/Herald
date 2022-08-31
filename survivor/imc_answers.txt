@@ -1,0 +1,40 @@
+1. [1] This CFJ's ruling contains a recipe for a baked good.
+ - CFJ 3514
+
+2. [1] The player with the most wins, not counting multiple wins at once.
+ - ais523
+
+3. [3+1c] The earliest use of the word "platonic" in reference to Agora.
+ -  https://www.fysh.org/~zefram/agora/ leads to https://www.fysh.org/~zefram/agora/agora_oerjan0.tar.bz2 which has file feb.28-mar.06 with email:
+Date: Tue, 1 Mar 94 22:19:25 -0500
+From: jsd@ecn.purdue.edu (Jeffrey S. Davidson)
+Message-Id: <9403020319.AA04031@iies.ecn.purdue.edu>
+Subject: OF:CFJ 121 Decision
+[...]
+Again
+(for what seems like the millionth time) I make the distinction between
+Platonic (actual) game state and recorded game state.  
+
+4. [5] The Move in which players debate whether the game ends when
+someone wins. Hint: Not Agora, but the last game.
+ - Twelfth Move (The Omega Game by Steven Krane). 
+
+5. [1+5c] The text of the earliest CFJ that is retrievable.
+ - https://www.nomic.net/deadgames/nomicworld/norrish/dictator-lindrum.
+
+6. [3+3c] The highest prime number bid on a Victory Auction ever placed
+and not withdrawn.
+ - bid of 2^82,589,933 − 1 coins just before the deadline.
+
+7. [1+2c] The number of members of the contract with the most members,
+at the time this is turned in. (C points go to the correct answer with
+highest number)
+ - 10 (The Orchard)
+
+8. [2+1c] The rule, current or former, that has received the most
+amendments.
+ - Amended(67) for Rule 1504, seen here: https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2014-January/010595.html.  
+
+9. [3+5c] List every currently active, public game that describes itself
+as a nomic. Game must have existed before this challenge began.
+ - Agora, BlogNomic, Infinite, B&C, FRC 

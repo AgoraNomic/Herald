@@ -1,0 +1,27 @@
+Except for the sudden and surely painful death of Cuddlebeam and Gaelan via a quick sand trap, the game of golf was actually quite pleasant. Both teams performed extremely well, and are surely self-satisfied. As you finish hole 18, you notice something in a bush right outside the green. Is that... a nondescript spring holiday festive egg? You walk over and crack it open. Gross, your hands are covered in yolk now. In the yolk you notice a small piece of paper. It says:
+
+---
+
+The team that turns in an answer sheet worth the most total points is immune.
+
+The Answer Key is a document, to be published at the end of the round, with the following hash:
+
+Each question has a prompt and lists how many N and, for some, how many C points it is worth. N points are earned by having an answer that either matches the answer or the Answer Key or is equally or more valid than that answer. C points are earned by having an answer that is more valid than the other teams'. Points are listed as N(+Cc) For instance, if a prompt has a superlative such as "the earliest", then teams can earn N points by having a verifiable answer earlier than the one on the Answer Key. If one team has an earlier answer than the other, then they also earn C points. Judgments on answer validity are up to the Host, who should be as fair as possible. Teams are encouraged to provide evidence for their answers to help ensure they are considered fairly.
+
+1. [1] This CFJ's ruling contains a recipe for a baked good.
+
+2. [1] The player with the most wins, not counting multiple wins at once.
+
+3. [3+1c] The earliest use of the word "platonic" in reference to Agora.
+
+4. [5] The Move in which players debate whether the game ends when someone wins. Hint: Not Agora, but the last game.
+
+5. [1+5c] The text of the earliest CFJ that is retrievable.
+
+6. [3+3c] The highest prime number bid on a Victory Auction ever placed and not withdrawn.
+
+7. [1+2c] The number of members of the contract with the most members, at the time this is turned in. (C points go to the correct answer with highest number)
+
+8. [2+1c] The rule, current or former, that has received the most amendments.
+
+9. [3+5c] List every currently active, public game that describes itself as a nomic. Game must have existed before this challenge began.

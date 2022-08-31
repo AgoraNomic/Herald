@@ -1,0 +1,19 @@
+Rule 202 is amended to:
+
+{
+
+2XX. One turn consists of two parts in this order: (1) optionally, proposing one
+rule-change, and (2) by the Herald calculating a random number from one
+to ten and adding that number of points to the player's score. A player
+takes a turn by privately communicating their intention to do so, along
+with any required values, to the Herald. When a player takes a
+turn, the Herald shall announce player taking the turn and the number of
+points gained by the player. The Herald shall also announce the number
+of the proposed rule-change and a cryptographic hash of its contents if a rule-change was submitted,
+but shall list proposed rule-changes separately and in a different order
+from any other information e publishes in the course of a player's turn,
+such that it is not clear which players proposed which rule-changes.
+
+When a player takes a turn without submitting a proposed rule-change, e gains 3 additional points.
+
+}

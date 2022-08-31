@@ -1,0 +1,97 @@
+Nomaoic 2
+
+1. The Herald can not win the Tournament, nor become a player within the tournament.
+
+2. This tournament shall be known as "Nomaoic".
+
+3. This Tournament is governed by these regulations and by its rules, the initial set of which are included in these regulations; the rules may be amended from time to time as specified by the rules themselves. These regulations take precedence over the tournament rules; it is IMPOSSIBLE for the state of the tournament to change such that the rules claim precedence over these regulations. The Herald SHALL abide by the tournament rules. Tournament players SHOULD do so, but shall not be penalized for failure to do so through means external to the tournament.
+
+4. The Herald has sole authority to interpret the rules, and shall do so in an equitable manner, with emphasis placed on the intent of the clauses and the fair treatment of all parties.
+
+5. While the tournament is ongoing, any Agoran player may, in accordance with the rules of the tournament, become a player within the tournament. Any person may cease to be a player within the tournament by announcement, rules of the tournament notwithstanding; this does not preclude the rules from causing people to cease to be players of the tournament
+
+6. The Herald shall keep a record of any private information that e receives or is required to track through the course of this Tournament. Additionally, in any case where e believes the rules are ambiguous or eir interpretation of the rules may be controversial, e shall record eir interpretation and reasoning.
+
+7. Upon the conclusion of the game of this game (as specified by the rules), the Herald SHALL, in a timely fashion, announce this fact and publish all records e was required to keep under regulation 6. Provided that the identity of the winners(s) was not, directly or indirectly, affected by the Herald acting with arbitrary or capricious disregard for these regulations or the Tournament rules, e CAN and SHALL, by announcement, cause any winners as specified by the rules of the tournament to win the tournament.
+
+8. In the event that the Herald discovers e has made an error in the adjudication of the tournament, e MAY resolve it in any reasonable fashion (making changes to the gamestate as necessary), and SHOULD (possibly privately) announce the error and resolution to any players affected. The Herald MAY, if necessary, reveal only necessary private information in this process.
+
+9. The Herald MAY and SHOULD inform players of decisions made while adjudicating the tournament, especially when e records an interpretation of the rules as required under section 5 or resolves an error under section 8. In doing so, the Herald MAY, keeping in mind the best interest interests of the game, reveal private information.
+
+10. The initial rules of Nomaoic are below: {
+Initial Set of Rules
+Immutable Rules
+101. All players must always abide by all the rules then in effect, in the form in which they are then in effect. The rules in the Initial Set are in effect when the tournament begins. The Initial Set consists of Rules 101-116 (immutable) and 201-215 (mutable).
+
+102. Initially rules in the 100's are immutable and rules in the 200's are mutable. Rules subsequently enacted or transmuted (that is, changed from immutable to mutable or vice versa) may be immutable or mutable regardless of their numbers, and rules in the Initial Set may be transmuted regardless of their numbers.
+
+103. A rule-change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
+
+104. All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
+
+105. Every player is an eligible voter.
+
+106. All proposed rule-changes shall be sent to the Herald before they are voted on. If they are adopted, they shall guide play in the form in which they were voted on.
+
+107. No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
+
+108. Each proposed rule-change shall be given a number for reference. The numbers shall begin with 301, and each rule-change proposed in the proper way shall receive the next successive integer, whether or not the proposal is adopted.
+
+If a rule is repealed and reenacted, it receives the number of the proposal to reenact it. If a rule is amended or transmuted, it receives the number of the proposal to amend or transmute it. If an amendment is amended or repealed, the entire rule of which it is a part receives the number of the proposal to amend or repeal the amendment.
+
+109. Rule-changes that transmute immutable rules into mutable rules may be adopted if and only if three quarters of the eligible voters, rounded up, vote for it. Transmutation shall not be implied, but must be stated explicitly in a proposal to take effect.
+
+110. In a conflict between a mutable and an immutable rule, the immutable rule takes precedence and the mutable rule shall be entirely void. For the purposes of this rule a proposal to transmute an immutable rule does not "conflict" with that immutable rule.
+
+111. The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed. When a player wins, the Herald shall announce this fact, and the tournament ends with that player as the winner.
+
+112. A player always has the option to forfeit the tournament rather than continue to play or incur a tournament penalty. No penalty worse than losing, in the judgment of the player to incur it, may be imposed.
+
+113. There must always be at least one mutable rule. The adoption of rule-changes must never become completely impermissible.
+
+114. Rule-changes that affect rules needed to allow or apply rule-changes are as permissible as other rule-changes. Even rule-changes that amend or repeal their own authority are permissible. No rule-change or type of move is impermissible solely on account of the self-reference or self-application of a rule.
+
+115. Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
+
+116. All judgements about the legality of a move or the interpretation or application of a rule shall be made by the Herald.
+
+117. Only one player may win. If more than one player would win simultaneously, none of them win.
+
+Mutable Rules
+201. Players may take turns at any time starting 24 hours after the game begins, but may not do so less than 23 hours after a previous turn and must do so within 49 hours after the beginning of the tournament, becoming a player, or their previous turn. Parts of turns may not be omitted. 
+
+202. One turn consists of two parts in this order: (1) proposing one rule-change, and (2) by the Herald calculating a random number from one to ten and adding that number of points to the player's score. A player takes a turn by privately communicating their intention to do so, along with the proposed rule-change, to the Herald. When a player takes a turn, the Herald shall announce player taking the turn and the number of points gained by the player. The Herald shall also announce the number of the proposed rule-change and a cryptographic hash of its contents, but shall list proposed rule-changes separately and in a different order from any other information e publishes in the course of a player's turn, such that it is not clear which players proposed which rule-changes.
+
+203. A rule-change is adopted if a simple majority of all eligible players vote in favor of it and it has been at least 24 hours since the proposed rule-change's number was announced by the Herald.
+
+205. An adopted rule-change takes full effect at the moment it is adopted. Upon a rule-change being adopted, the Herald shall publish the number of the adopted rule-change, but no further information.
+
+207. Each player always has exactly one vote. Players shall vote by privately sending a message to the Herald.
+
+208. If a player has 100 or more points, has the most points, and is not tied with any other players, that player wins immediately.
+
+209. If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
+
+If at least one of the rules in conflict explicitly says of itself that it defers to another rule (or type of rule) or takes precedence over another rule (or type of rule), then such provisions shall supersede the numerical method for determining precedence.
+
+If two or more rules claim to take precedence over one another or to defer to one another, then the numerical method again governs.
+
+210. If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Herald's reasoning, a move appears equally legal and illegal, then the first player who attempts, but is unable to complete, a turn is the winner.
+
+This rule takes precedence over every other rule determining the winner.
+
+211. The state of the tournament shall be maintained by the Herald. While tournament continues, the Herald shall not reveal any part of it unless required to by the rules, but is generally free to repeat information to anybody who already knows it.
+
+212. If a person breaks a rule or attempts to make a move not permitted by the rules, the Herald shall announce that the player has "failed to consider" the rule or rule-change that made the action illegal or invalid (specifying the number of that rule or rule-change), and the player shall lose 10 points.
+
+213. A player with 5 or more points may privately submit an inquiry to the Herald, providing the number of an initial rule or adopted rule-change. Upon sending such an inquiry, 5 points are deducted from the player's score. The Herald shall respond with:
+
+- If the number corresponds to a rule-change, the text of the rule-change as submitted when it was proposed.
+- If the number corresponds to a rule or amendment, the number of the next rule-change that amended, transmuted, or repealed it, if any.
+
+214. Any person, other than the Herald, may become a player at any time by publicly announcing eir desire to do so.
+
+215. Each UTC day, the Herald shall send one message with any information e was required to announce since the previous such message, unless the rule requiring em to announce the information explicitly requires that it be reported in another fashion.
+
+216. All players begin with zero points.
+}
