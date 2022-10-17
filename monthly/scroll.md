@@ -10,7 +10,7 @@
 
 
 
-&ensp;                           August 26, 2022
+&ensp;                           October 17, 2022
 
 
 
@@ -22,7 +22,13 @@
 
 &ensp;                         
 
-&ensp;       [secretsnail](Players/secretsnail.md) has won the birthday tournament, Nomaoic 2.
+&ensp;                       [snail](Players/snail.md) has won via Birds
+
+&ensp;                     [snail](Players/snail.md) has won via High Score
+
+&ensp;                      Marvy patent title awaded
+
+&ensp;                     
 
 &ensp;                         
 
@@ -44,6 +50,8 @@
 
 &ensp;                     [Warrigal](Players/Warrigal.md), [天火狐](Players/天火狐.md)
 
+&ensp;              Birds: [snail](Players/snail.md)
+
 &ensp;              Cards: [G.](Players/G..md), [Murphy](Players/Murphy.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md), [Taral](Players/Taral.md)
 
 &ensp;    Champion*(11/6): [Kelly](Players/Kelly.md)
@@ -62,7 +70,7 @@
 
 &ensp;              Clout: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md)
 
-&ensp;  Economic Takeover: [Falsifian](Players/Falsifian.md), [Madrid](Players/Madrid.md), [Trigon](Players/Trigon.md), [G.](Players/G..md)
+&ensp;  Economic Takeover: [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Madrid](Players/Madrid.md), [Trigon](Players/Trigon.md)
 
 &ensp;           Election: [G.](Players/G..md)
 
@@ -74,9 +82,9 @@
 
 &ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md) (x2), [Jason](Players/Jason.md), [Levi](Players/Levi.md), [Madrid](Players/Madrid.md), 
 
-&ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [Steve](Players/Steve.md), 
+&ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [snail](Players/snail.md), 
 
-&ensp;                     [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [twg](Players/twg.md) (x2), [Walker](Players/Walker.md), [Wooble](Players/Wooble.md)
+&ensp;                     [Steve](Players/Steve.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [twg](Players/twg.md) (x2), [Walker](Players/Walker.md), [Wooble](Players/Wooble.md)
 
 &ensp;              Junta: [ais523](Players/ais523.md) (x2), [Alexis](Players/Alexis.md), [G.](Players/G..md), [nix](Players/nix.md), [omd](Players/omd.md) (x2), 
 
@@ -90,7 +98,7 @@
 
 &ensp;       Musicianship: [ais523](Players/ais523.md), [omd](Players/omd.md), [Tiger](Players/Tiger.md), [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
 
-&ensp;            Nomaoic: [secretsnail](Players/secretsnail.md)
+&ensp;            Nomaoic: [snail](Players/snail.md)
 
 &ensp;            Paradox: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [BobTHJ](Players/BobTHJ.md) (x2), [Bucky](Players/Bucky.md) (x2), [ehird](Players/ehird.md), 
 
@@ -280,7 +288,7 @@
 
 &ensp;            [Sgeo](Players/Sgeo.md), TABBAT, [Trigon](Players/Trigon.md), [ais523](Players/ais523.md), [cuddlybanana](Players/cuddlybanana.md), [nix](Players/nix.md), [omd](Players/omd.md),
 
-&ensp;            [secretsnail](Players/secretsnail.md)
+&ensp;            [snail](Players/snail.md)
 
 &ensp;                                  --------
 
@@ -363,6 +371,14 @@
 &ensp;           MacGyver:                 [Falsifian](Players/Falsifian.md)
 
 &ensp;           Maniac:                   [Craig](Players/Craig.md), [Peekee](Players/Peekee.md), [root](Players/root.md)
+
+&ensp;           Marvy:                    4st, [ais523](Players/ais523.md), CreateSource,
+
+&ensp;                                     [cuddlybanana](Players/cuddlybanana.md), duck, [G.](Players/G..md), [Jason](Players/Jason.md),
+
+&ensp;                                     juan, [Murphy](Players/Murphy.md), [R. Lee](Players/R. Lee.md), [snail](Players/snail.md),
+
+&ensp;                                     [Trigon](Players/Trigon.md), Vitor Gonçalves
 
 &ensp;           Money Launderer:          [R. Lee](Players/R. Lee.md)
 
