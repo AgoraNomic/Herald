@@ -1,9 +1,13 @@
+17 Oct 2022
+
 These are the current non-zero Karma values:
 
 + 1 juan
 + 1 nix
++ 1 snail
   0 Agora
 - 2 4st
+- 1 Murphy
 
 A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it must:
 
@@ -28,3 +32,7 @@ History
     nix:
         +1 juan (using a notice already)
         -1 4st (making so many stamps)
+01 Sep 22
+    Murphy:
+        +1 snail (for reminding me to award points for ribbons)
+        -1 Murphy (for needing to be reminded)
