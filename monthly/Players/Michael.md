@@ -1,6 +1,6 @@
 Michael
 
-Badges: Agora XX
+Badges: Agora XX (2013/7)
 
 Champions: Unspecified
 

@@ -1,6 +1,6 @@
 Wooble
 
-Badges: Order of the Lemming
+Badges: Order of the Lemming (2014/1)
 
 Champions: High Score, Musicianship, Tournament
 

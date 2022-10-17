@@ -1,6 +1,6 @@
 Yally
 
-Badges: Agora XX, Coming of Age, Order of the Lemming
+Badges: Agora XX (2013/7), Coming of Age (2011/7), Order of the Lemming (2014/1)
 
 Champions: Proposal
 

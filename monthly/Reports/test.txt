@@ -4,16 +4,16 @@
 
                         Herald's Monthly Report
 
-                             March 19, 2022
+                            October 17, 2022
 
                           -------------------
                                   NEWS
                           -------------------
-
-                 Aspen has been awarded a patent title.
                           
-                Some accidentally reverted changes in the
-                   last version have been unreverted.
+                        snail has won via Birds
+                      snail has won via High Score
+                       Marvy patent title awaded
+                      
                           
                           -------------------
                               CHAMPION by
@@ -24,6 +24,7 @@
                       omd, Publius Scribonius Scholasticus, Quazie, 
                       R. Lee, Sprocklem, tris, twg, Veggiekeks, 
                       Warrigal, 天火狐
+               Birds: snail
                Cards: G., Murphy, OscarMeyr, root, Taral
      Champion*(11/6): Kelly
       Champion*(3/2): Chuck, Kelly, Steve
@@ -33,20 +34,21 @@
       Champion*(7/6): Chuck, elJefe, Kelly, KoJen, Morendil, Steve, 
                       Swann, Troublemaker at Large
                Clout: ais523, Alexis
-   Economic Takeover: Falsifian, Madrid, Trigon
+   Economic Takeover: Falsifian, G., Madrid, Trigon
             Election: G.
               Escape: omd
             Gauntlet: Falsifian, R. Lee
           High Score: ais523 (x3), Alexis (x2), BobTHJ, Elysion, 
                       Falsifian, G. (x2), Jason, Levi, Madrid, 
-                      Murphy (x3), omd (x4), Pavitra, root, Steve, 
-                      Tiger, Trigon, twg (x2), Walker, Wooble
+                      Murphy (x3), omd (x4), Pavitra, root, snail, 
+                      Steve, Tiger, Trigon, twg (x2), Walker, Wooble
                Junta: ais523 (x2), Alexis, G., nix, omd (x2), 
                       OscarMeyr, the AFO
           Leadership: ais523
                Lotto: Alexis, omd
               Maniac: Craig, root
         Musicianship: ais523, omd, Tiger, Wooble, Zefram
+             Nomaoic: snail
              Paradox: ais523, Alexis, BobTHJ (x2), Bucky (x2), ehird, 
                       G. (x2), Gaelan, Murphy, omd, R. Lee, root
             Politics: Aspen, D. Margaux (x2)
@@ -137,6 +139,11 @@
              ATMunn, G., Jason, Aspen, Falsifian, R. Lee, omd, Trigon,
              Ben, Claire, Publius Scribonius Scholasticus
              
+     Twosday Badge [Feb 02 2022]
+      (awarded to persons that were active players on 2/22/22)
+             ATMunn, Aspen, G., Gaelan, Jason, Madrid, Murphy, R. Lee,
+             Sgeo, TABBAT, Trigon, ais523, cuddlybanana, nix, omd,
+             snail
                                    --------
                                    AND MORE
                                    --------
@@ -178,6 +185,10 @@
             Little Ricky Tables:      Gaelan
             MacGyver:                 Falsifian
             Maniac:                   Craig, Peekee, root
+            Marvy:                    4st, ais523, CreateSource,
+                                      cuddlybanana, duck, G., Jason,
+                                      juan, Murphy, R. Lee, snail,
+                                      Trigon, Vitor Gonçalves
             Money Launderer:          R. Lee
             Most Popular:             Aspen
             Nomic Thief:              Swann
@@ -281,5 +292,3 @@
 22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
 
                        === END OF REPORT ===
-
- 

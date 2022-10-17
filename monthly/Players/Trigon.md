@@ -1,8 +1,8 @@
 Trigon
 
-Badges: Badge of Diplonomic, Badge of the Salted Earth 
+Badges: Badge of Diplonomic (2020), Badge of the Salted Earth  (2018)
 
-Champions: Economic Takeover, High Score, Proposal
+Champions: Economic Takeover (2021/9/15), High Score, Proposal
 
 Others: Popular, Popular Polygon, Reformist Bug, Rulebender, Very Popular
 

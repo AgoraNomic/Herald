@@ -1,6 +1,6 @@
 Walker
 
-Badges: Agora XX, Coming of Age
+Badges: Agora XX (2013/7), Coming of Age (2011/7)
 
 Champions: High Score
 

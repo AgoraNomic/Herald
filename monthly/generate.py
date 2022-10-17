@@ -65,7 +65,18 @@ with open('Data/titles.csv', 'r') as infile:
         if row[0] not in player_lists[row[2]]:
             player_lists[row[2]][row[0]] = []
         
-        player_lists[row[2]][row[0]].append(row[1])
+        entry = row[1]
+        
+        if row[3] != "":
+            entry += " (" + row[3]
+            if row[4] != "":
+                entry += "/" + row[4]
+                if row[5] != "":
+                    entry += "/" + row[5]
+            entry += ")"
+       
+        player_lists[row[2]][row[0]].append(entry)
+            
 
 # create player pages
 with open('player_template.txt', 'r') as infile:

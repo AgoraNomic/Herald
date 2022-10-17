@@ -1,8 +1,8 @@
 G.
 
-Badges: Agora XX, Badge of Diplonomic, Badge of the Great Agoran Revival, Badge of the Salted Earth , Coming of Age, Order of the Lemming
+Badges: Agora XX (2013/7), Badge of Diplonomic (2020), Badge of the Great Agoran Revival (2017/5), Badge of the Salted Earth  (2018), Coming of Age (2011/7), Order of the Lemming (2014/1)
 
-Champions: Cards, Economic Takeover, Election, High Score, High Score, Junta, Paradox, Paradox, Proposal, Proposal, Renaissance, Renaissance, Renaissance, Rulebending, Tournament
+Champions: Cards, Economic Takeover (2022/6/5), Election, High Score, High Score, Junta, Paradox (2021/4/11), Paradox, Proposal, Proposal, Renaissance, Renaissance, Renaissance, Rulebending, Tournament
 
 Degrees: Associate of Nomic, Juris Doctorate of Nomic
 
@@ -14,8 +14,8 @@ Others: Admiral, Bard, Cassandra, Desultory Dictator, First violin, Hard Labor, 
 
 Service Awards: Nine Months, Six Months, Three Months, Twelve Months
 
-Silver Quills: Silver Quill
+Silver Quills: Silver Quill (2019)
 
-Tapecutters: Tapecutter
+Tapecutters: Tapecutter (2020/6)
 
 

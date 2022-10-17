@@ -1,6 +1,6 @@
 omd
 
-Badges: Agora XX, Badge of Diplonomic, Coming of Age, Order of the Lemming
+Badges: Agora XX (2013/7), Badge of Diplonomic (2020), Coming of Age (2011/7), Order of the Lemming (2014/1)
 
 Champions: Apathy, Escape, High Score, High Score, High Score, High Score, Junta, Junta, Lotto, Musicianship, Paradox, Proposal, Proposal, Solitude
 

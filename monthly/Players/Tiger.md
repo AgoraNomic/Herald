@@ -1,6 +1,6 @@
 Tiger
 
-Badges: Agora XX, Order of the Lemming
+Badges: Agora XX (2013/7), Order of the Lemming (2014/1)
 
 Champions: High Score, Musicianship, Proposal
 
