@@ -1,13 +1,11 @@
-17 Oct 2022
+30 Oct 22
 
 These are the current non-zero Karma values:
 
-+ 1 juan
-+ 1 nix
-+ 1 snail
-  0 Agora
-- 2 4st
-- 1 Murphy
+  1 Jason
+  1 Agora
+- 1 nix
+- 1 4st
 
 A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it must:
 
@@ -24,6 +22,14 @@ A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it 
 
 History
 -------
+30 Oct 22
+    nix:
+        +1 Jason (maintaining much of the game, including the currently
+                  largely-neglected device)
+        -1 nix (not updating Karma last week)
+01 Oct 22 [Beginning of Quarter 3]
+    All players' karma halved, rounded towards 0.
+    Agora's karma set to 0 minus the total karma of all players [1]
 22 Aug 22
     juan:
         +1 nix (e proposed the creation of the rule)
