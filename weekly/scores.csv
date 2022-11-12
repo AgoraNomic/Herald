@@ -1,4 +1,4 @@
-Name,Short,Score
+Event,Name,Change,Reason,Date
 Aspen,ASP,1
 CreateSource,CRS,5
 G.,G. ,12
@@ -12,4 +12,5 @@ ais523,AIS,3
 cuddlybanana,CBN,5
 duck,DCK,5
 juan,JWN,5
+nix,NIX,5
 snail,SNL,12

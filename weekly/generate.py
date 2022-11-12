@@ -113,7 +113,7 @@ html_scores = ""
 
 def report_formatter(place, pl):
     out = ""
-    out+= ordinal(place) + " " * 4
+    out+= ordinal(place) + " " * (7 - len(ordinal(place)))
     out+= pl.short_name + " " * 6
     out+= pl.scorestr() + " " * 4
     out+= pl.changestr()
@@ -194,7 +194,7 @@ else:
     report_name = now.strftime('%Y-%m-%d')
 
     with open(score_file, 'w') as outfile:
-        outfile.write("Name,Short,Score\n")
+        outfile.write("Event,Name,Change,Reason,Date\n")
         for player in pl_keys:
             outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
 

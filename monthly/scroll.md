@@ -10,7 +10,7 @@
 
 
 
-&ensp;                           October 17, 2022
+&ensp;                          November 12, 2022
 
 
 
@@ -22,11 +22,7 @@
 
 &ensp;                         
 
-&ensp;                       [snail](Players/snail.md) has won via Birds
-
-&ensp;                     [snail](Players/snail.md) has won via High Score
-
-&ensp;                      Marvy patent title awaded
+&ensp;                         No news this month.
 
 &ensp;                     
 
