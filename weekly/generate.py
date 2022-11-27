@@ -4,6 +4,8 @@ from datetime import datetime, timezone
 
 isReport = "-r" in argv
 
+headers = "Event,Name,Change,Reason,Date\n"
+
 # Determine timestamp
 now = datetime.now(timezone.utc)
 
@@ -94,7 +96,7 @@ with open(recent_file, 'r') as infile:
 
 if isReport:
     with open(recent_file, 'w') as outfile:
-        outfile.write("Name,Change,Reason,Date\n")
+        outfile.write(headers)
 
 # Grab all the player names, then sort them by score
 pl_keys = list(players.keys())
@@ -194,7 +196,7 @@ else:
     report_name = now.strftime('%Y-%m-%d')
 
     with open(score_file, 'w') as outfile:
-        outfile.write("Event,Name,Change,Reason,Date\n")
+        outfile.write(headers)
         for player in pl_keys:
             outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
 
