@@ -2,7 +2,7 @@
 
 These are the current non-zero Karma values:
 
-+ 1 Jason
++ 1 Janet
 = 0 Agora
 - 1 4st
 
@@ -22,12 +22,12 @@ A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it 
 History
 -------
 12 Nov 22
-    Jason:
+    Janet:
         +1 nix (putting in the work to update the website)
         -1 Agora (otherwise not giving me a reason to de-karma someone)
 30 Oct 22
     nix:
-        +1 Jason (maintaining much of the game, including the currently
+        +1 Janet (maintaining much of the game, including the currently
                   largely-neglected device)
         -1 nix (not updating Karma last week)
 01 Oct 22 [Beginning of Quarter 3]

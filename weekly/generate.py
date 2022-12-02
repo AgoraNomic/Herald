@@ -154,6 +154,8 @@ key_list = key_list[:-2]
 
 history=""
 
+#TODO: Make this more readable by turning the ints into descriptive vars?
+
 for i in changes:
     history += i[4] + ": "
     if i[0] == "ADJ":
