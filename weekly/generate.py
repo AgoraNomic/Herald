@@ -74,7 +74,7 @@ with open(recent_file, 'r') as infile:
     
     for row in recent_in:
         event, name, change, reason, date = row[0], row[1], row[2], row[3], row[4]
-        history += "{date}: "
+        history += f"{date}: "
         if event == "ADJ":
             players[name].change_score(change)
             if int(change) >= 0:
