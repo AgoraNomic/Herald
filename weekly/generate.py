@@ -63,36 +63,54 @@ with open(score_file, 'r') as infile:
 
 recent_file = 'recent.csv'
 changes = []
+
+history=""
+
+
 with open(recent_file, 'r') as infile:
     recent_in = reader(infile, delimiter=',', quotechar="\"")
-    next(recent_in)
+    print(recent_in)
+    next(recent_in) # skip headers
     
     for row in recent_in:
-        if row[0] == "ADJ":
-            players[row[1]].change_score(row[2])
-        elif row[0] == "SET":
-            players[row[1]].set_score(row[2])
-        elif row[0] == "QRT":
+        event, name, change, reason, date = row[0], row[1], row[2], row[3], row[4]
+        history += "{date}: "
+        if event == "ADJ":
+            players[name].change_score(change)
+            if int(change) >= 0:
+                history += f"{name} gains {change} ({reason})"
+            else:
+                history += f"{name} loses {change} ({reason})"
+        elif event == "SET":
+            players[name].set_score(change)
+            history += f"{name} score set to {change} ({reason})"
+        elif event == "QRT":
+            history += "New quarter, all scores halved"
             for pl in players:
                 players[pl].quarterly()
-        elif row[0] == "REG":
-            players[row[1]] = Player(row[1], row[2], 0)
-        elif row[0] == "DRG":
-            players.pop(row[1])
-        elif row[0] == "WIN":
+        elif event == "REG":
+            history += f"{name} registers."
+            players[name] = Player(name, change, 0)
+        elif event == "DRG":
+            history += f"{name} deregisterd."
+            players.pop(name)
+        elif event == "WIN":
+            history += f"{name} wins by High Score. Eir score is set to 0. Other scores are halved."
             for pl in players:
-                if pl != row[1]:
+                if pl != name:
                     players[pl].quarterly()
                 else:
                     players[pl].set_score(0)
         
-        changes+=[row]
+        history += "\n"
         
         # If it's a report, put all of this in the history file now that we're done with it
         if isReport:
             historic_file = 'history.csv'
             with open(historic_file, 'a') as outfile:
                 outfile.write(','.join(row)+"\n")
+
+print(f"recent in: {recent_in}")
 
 if isReport:
     with open(recent_file, 'w') as outfile:
@@ -151,29 +169,6 @@ for player in pl_keys:
     key_list+= players[player].name + " = " + players[player].short_name + "; "
 
 key_list = key_list[:-2]
-
-history=""
-
-#TODO: Make this more readable by turning the ints into descriptive vars?
-
-for i in changes:
-    history += i[4] + ": "
-    if i[0] == "ADJ":
-        if int(i[2]) >= 0:
-            history += i[1] + " gains " + i[2] + " (" + i[3] + ")"
-        else:
-            history += i[1] + " loses " + i[2] + " (" + i[3] + ")"
-    elif i[0] == "SET":
-        history += i[1] + " score set to " + i[2] + " (" + i[3] + ")"
-    elif i[0] == "QRT":
-        history += "All players' scores halved for new quarter."
-    elif i[0] == "REG":
-        history += i[1] + " registers."
-    elif i[0] == "DRG":
-        history += i[1] + " is deregistered."
-    elif i[0] == "WIN":
-        history += i[1] + " wins via High Score. Eir score is set to 0. Other scores are halved."
-    history+= "\n"
 
 # Apply map and output report
 with open('report.template', 'r') as infile:
