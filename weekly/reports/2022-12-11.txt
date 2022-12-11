@@ -12,10 +12,14 @@ PLACE  NAME [0]  SCORE  CHANGE [1]
 7th    JWN       008        +3
 9th    VTR       007        +2
 9th    AIS       007        +3
+11th   CRS       005    
 11th   GLN       005        +3
+11th   TRI       005    
+11th   DCK       005    
 15th   ASP       003        +1
 16th   CPN       002        +2
 16th   PLG       002        +2
+18th   ZRT       001    
 18th   ACD       001        +1
 18th   SHY       001        +1
 18th   AST       001        +1

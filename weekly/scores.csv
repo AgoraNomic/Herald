@@ -1,17 +1,20 @@
-Event,Name,Change,Reason,Date
-Aspen,ASP,2
-CreateSource,CRS,5
-G.,G. ,14
-Gaelan,GLN,2
-Janet,JNT,35
-Murphy,MUR,10
-R. Lee,RLE,6
-Trigon,TRI,5
-Vitor Gonçalves,VTR,5
-ais523,AIS,4
-cuddlybanana,CBN,5
-duck,DCK,5
-juan,JWN,5
-nix,NIX,15
-snail,SNL,12
-ziproot,ZRT,1
+"Event","Name","Change","Reason","Date"
+"Aced7","ACD",1,,
+"Aspen","ASP",3,,
+"Cap’n","CPN",2,,
+"G.","G. ",18,,
+"Gaelan","GLN",5,,
+"Janet","JNT",67,,
+"Murphy","MUR",16,,
+"Pilgore","PLG",2,,
+"R. Lee","RLE",9,,
+"Shy Owl","SHY",1,,
+"Vitor Gonçalves","VTR",7,,
+"ais523","AIS",7,,
+"cuddlybanana","CBN",8,,
+"juan","JWN",8,,
+"nix","NIX",19,,
+"omd","OMD",1,,
+"orb","ORB",1,,
+"snail","SNL",39,,
+"the Astrally Forged","AST",1,,

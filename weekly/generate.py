@@ -1,5 +1,5 @@
 from sys import argv
-from csv import reader, writer
+from csv import reader
 from datetime import datetime, timezone
 
 isReport = "-r" in argv
@@ -48,9 +48,6 @@ class Player:
             return " " * (6-digits) + sign + str(self.change)
 
 players = {}
-max_score_len = 0
-
-edited = []
 
 # Open the existing scores csv
 score_file = 'scores.csv'
@@ -62,7 +59,6 @@ with open(score_file, 'r') as infile:
         players[row[0]] = Player(row[0],row[1],row[2])
 
 recent_file = 'recent.csv'
-changes = []
 
 history=""
 
@@ -75,6 +71,7 @@ with open(recent_file, 'r') as infile:
     for row in recent_in:
         event, name, change, reason, date = row[0], row[1], row[2], row[3], row[4]
         history += f"{date}: "
+        #TODO: consider match...case instead?
         if event == "ADJ":
             players[name].change_score(change)
             if int(change) >= 0:
@@ -142,10 +139,10 @@ def report_formatter(place, pl):
 
 def html_formatter(place, pl):
     out = "<tr>"
-    out+= "<td>" + ordinal(place) + "</td>"
-    out+= "<td>" + pl.short_name + "</td>"
-    out+= "<td>" + pl.scorestr() + "</td>"
-    out+= "<td>" + pl.changestr() + "</td>"
+    out+= f"<td>{ordinal(place)}</td>"
+    out+= f"<td>{pl.short_name}</td>"
+    out+= f"<td>{pl.scorestr()}</td>"
+    out+= f"<td>{pl.changestr()}</td>"
     out+= "</tr>"
     return(out)
 
@@ -166,7 +163,7 @@ pl_keys.sort(key=lambda x : players[x].name, reverse=False) #sort by name
 # Generate key
 key_list = ""
 for player in pl_keys:
-    key_list+= players[player].name + " = " + players[player].short_name + "; "
+    key_list+= f"{players[player].name} = {players[player].short_name}; "
 
 key_list = key_list[:-2]
 
