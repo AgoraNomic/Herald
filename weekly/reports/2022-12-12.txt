@@ -1,0 +1,44 @@
+Scores (points) as of 12 Dec 2022.
+
+PLACE  NAME [0]  SCORE  CHANGE [1]
+-----  --------  -----  ----------
+1st    JNT       039       -27
+2nd    NIX       018        -1
+3rd    G.        009        -8
+4th    MUR       008        -8
+5th    RLE       004        -4
+5th    CBN       004        -4
+5th    JWN       004        -4
+8th    VTR       003        -3
+8th    AIS       003        -3
+10th   GLN       002        -2
+11th   ASP       001        -1
+11th   CPN       001        -1
+11th   PLG       001        -1
+11th   SHY       001    
+
+
+All other scores are zero. 
+
+[0] Aspen = ASP; Cap’n = CPN; G. = G. ; Gaelan = GLN; Janet = JNT; Murphy = MUR; Pilgore = PLG; R. Lee = RLE; Shy Owl = SHY; Vitor Gonçalves = VTR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX
+
+[1] Since last official report.
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+2022-12-11: Janet gains 5 (author of P8870)
+2022-12-11: nix gains 1 (co-author of P8870)
+2022-12-11: nix gains 5 (author of P8871)
+2022-12-11: nix gains 5 (author of P8872)
+2022-12-11: G. gains 1 (co-author of P8872)
+2022-12-11: Janet gains 1 (co-author of P8872)
+2022-12-11: Shy Owl gains 1 (co-author of P8872)
+2022-12-12: snail gains 15 (Winning Horse Race)
+2022-12-12: nix gains 6 (Sharing Dream)
+2022-12-12: Janet gains 6 (Sharing Dream)
+2022-12-12: snail gains 56 (Cashing 8x Different Stamps)
+2022-12-12: snail wins by High Score. Eir score is set to 0. Other scores are halved.
+

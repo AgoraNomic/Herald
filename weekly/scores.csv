@@ -1,20 +1,15 @@
-"Event","Name","Change","Reason","Date"
-"Aced7","ACD",1,,
-"Aspen","ASP",3,,
-"Cap’n","CPN",2,,
-"G.","G. ",18,,
-"Gaelan","GLN",5,,
-"Janet","JNT",67,,
-"Murphy","MUR",16,,
-"Pilgore","PLG",2,,
-"R. Lee","RLE",9,,
-"Shy Owl","SHY",1,,
-"Vitor Gonçalves","VTR",7,,
-"ais523","AIS",7,,
-"cuddlybanana","CBN",8,,
-"juan","JWN",8,,
-"nix","NIX",19,,
-"omd","OMD",1,,
-"orb","ORB",1,,
-"snail","SNL",39,,
-"the Astrally Forged","AST",1,,
+Event,Name,Change,Reason,Date
+Aspen,ASP,1
+Cap’n,CPN,1
+G.,G. ,9
+Gaelan,GLN,2
+Janet,JNT,43
+Murphy,MUR,8
+Pilgore,PLG,1
+R. Lee,RLE,4
+Shy Owl,SHY,1
+Vitor Gonçalves,VTR,3
+ais523,AIS,3
+cuddlybanana,CBN,4
+juan,JWN,8
+nix,NIX,22

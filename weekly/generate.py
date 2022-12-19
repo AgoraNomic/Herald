@@ -65,7 +65,6 @@ history=""
 
 with open(recent_file, 'r') as infile:
     recent_in = reader(infile, delimiter=',', quotechar="\"")
-    print(recent_in)
     next(recent_in) # skip headers
     
     for row in recent_in:
@@ -107,7 +106,13 @@ with open(recent_file, 'r') as infile:
             with open(historic_file, 'a') as outfile:
                 outfile.write(','.join(row)+"\n")
 
-print(f"recent in: {recent_in}")
+to_rmv = []
+for pl in players:
+    if players[pl].score == 0:
+        to_rmv.append(pl)
+
+for pl in to_rmv:
+    players.pop(pl)
 
 if isReport:
     with open(recent_file, 'w') as outfile:
