@@ -247,48 +247,49 @@
 "QRT",,,,2022-10-01
 "ADJ","snail",5,"author of 8858",2022-10-01
 "ADJ","nix",5,"author of 8861","12 Nov 2022"
-ADJ,Janet,5,author of P8866,2022-11-27
-ADJ,Aspen,1,co-author of P8866,2022-11-27
-ADJ,nix,5,author of P8867,2022-11-27
-ADJ,Janet,1,co-author of P8867,2022-11-27
-ADJ,R. Lee,1,co-author of P8867,2022-11-27
-ADJ,Murphy,1,co-author of P8867,2022-11-27
-ADJ,G.,1,co-author of P8867,2022-11-27
-ADJ,nix,5,author of P8868,2022-11-27
-ADJ,G.,1,co-author of P8868,2022-11-27
-ADJ,ais523,1,co-author of P8868,2022-11-27
-ADJ,Janet,1,co-author of P8868,2022-11-27
-ADJ,ziproot,1,co-author of P8868,2022-11-27
-ADJ,Aced7,1,P8872 Coin Conversion,2022-12-11
-ADJ,ais523,3,P8872 Coin Conversion,2022-12-11
-ADJ,Aspen,1,P8872 Coin Conversion,2022-12-11
-ADJ,the Astrally Forged,1,P8872 Coin Conversion,2022-12-11
-ADJ,G.,4,P8872 Coin Conversion,2022-12-11
-ADJ,Gaelan,3,P8872 Coin Conversion,2022-12-11
-ADJ,Janet,32,P8872 Coin Conversion,2022-12-11
-ADJ,juan,3,P8872 Coin Conversion,2022-12-11
-ADJ,Murphy,6,P8872 Coin Conversion,2022-12-11
-ADJ,nix,4,P8872 Coin Conversion,2022-12-11
-ADJ,Shy Owl,1,P8872 Coin Conversion,2022-12-11
-ADJ,snail,27,P8872 Coin Conversion,2022-12-11
-ADJ,cuddlybanana,3,P8872 Coin Conversion,2022-12-11
-ADJ,Cap’n,2,P8872 Coin Conversion,2022-12-11
-ADJ,omd,1,P8872 Coin Conversion,2022-12-11
-ADJ,orb,1,P8872 Coin Conversion,2022-12-11
-ADJ,Pilgore,2,P8872 Coin Conversion,2022-12-11
-ADJ,R. Lee,3,P8872 Coin Conversion,2022-12-11
-ADJ,Vitor Gonçalves,2,P8872 Coin Conversion,2022-12-11
-ADJ,Janet,+4,Sharing Dream,2022-12-19
-ADJ,juan,+4,Sharing Dream,2022-12-19
-ADJ,nix,+4,Sharing Dream,2022-12-19
-ADJ,Janet,4,Sharing Dream,2022-12-26
-ADJ,juan,4,Sharing Dream,2022-12-26
-ADJ,nix,4,Sharing Dream,2022-12-26
-QRT,,,,2023-01-01
-ADJ,Janet,6,Sharing Dream,2023-01-01
-ADJ,nix,6,Sharing Dream,2023-01-01
-ADJ,snail,5,author of P8873,2023-01-01
-ADJ,snail,5,author of P8874,2023-01-01
-ADJ,juan,5,author of P8876,2023-01-01
-ADJ,Janet,5,author of P8877,2023-01-01
-ADJ,Murphy,1,Co-author of P8877,2023-01-01
+"ADJ","Janet",5,"author of P8866",2022-11-27
+"ADJ","Aspen",1,"co-author of P8866",2022-11-27
+"ADJ","nix",5,"author of P8867",2022-11-27
+"ADJ","Janet",1,"co-author of P8867",2022-11-27
+"ADJ","R. Lee",1,"co-author of P8867",2022-11-27
+"ADJ","Murphy",1,"co-author of P8867",2022-11-27
+"ADJ","G.",1,"co-author of P8867",2022-11-27
+"ADJ","nix",5,"author of P8868",2022-11-27
+"ADJ","G.",1,"co-author of P8868",2022-11-27
+"ADJ","ais523",1,"co-author of P8868",2022-11-27
+"ADJ","Janet",1,"co-author of P8868",2022-11-27
+"ADJ","ziproot",1,"co-author of P8868",2022-11-27
+"ADJ","Aced7",1,"P8872 Coin Conversion",2022-12-11
+"ADJ","ais523",3,"P8872 Coin Conversion",2022-12-11
+"ADJ","Aspen",1,"P8872 Coin Conversion",2022-12-11
+"ADJ","the Astrally Forged",1,"P8872 Coin Conversion",2022-12-11
+"ADJ","G.",4,"P8872 Coin Conversion",2022-12-11
+"ADJ","Gaelan",3,"P8872 Coin Conversion",2022-12-11
+"ADJ","Janet",32,"P8872 Coin Conversion",2022-12-11
+"ADJ","juan",3,"P8872 Coin Conversion",2022-12-11
+"ADJ","Murphy",6,"P8872 Coin Conversion",2022-12-11
+"ADJ","nix",4,"P8872 Coin Conversion",2022-12-11
+"ADJ","Shy Owl",1,"P8872 Coin Conversion",2022-12-11
+"ADJ","snail",27,"P8872 Coin Conversion",2022-12-11
+"ADJ","cuddlybanana",3,"P8872 Coin Conversion",2022-12-11
+"ADJ","Cap’n",2,"P8872 Coin Conversion",2022-12-11
+"ADJ","omd",1,"P8872 Coin Conversion",2022-12-11
+"ADJ","orb",1,"P8872 Coin Conversion",2022-12-11
+"ADJ","Pilgore",2,"P8872 Coin Conversion",2022-12-11
+"ADJ","R. Lee",3,"P8872 Coin Conversion",2022-12-11
+"ADJ","Vitor Gonçalves",2,"P8872 Coin Conversion",2022-12-11
+"ADJ","Janet",4,"Sharing Dream",2022-12-19
+"ADJ","juan",4,"Sharing Dream",2022-12-19
+"ADJ","nix",4,"Sharing Dream",2022-12-19
+"ADJ","Janet",4,"Sharing Dream",2022-12-26
+"ADJ","juan",4,"Sharing Dream",2022-12-26
+"ADJ","nix",4,"Sharing Dream",2022-12-26
+"QRT",,,,2023-01-01
+"ADJ","Janet",4,"Sharing Dream",2023-01-01
+"ADJ","nix",4,"Sharing Dream",2023-01-01
+"ADJ","juan",4,"Sharing Dream",2023-01-01
+"ADJ","snail",5,"author of P8873",2023-01-01
+"ADJ","snail",5,"author of P8874",2023-01-01
+"ADJ","juan",5,"author of P8876",2023-01-01
+"ADJ","Janet",5,"author of P8877",2023-01-01
+"ADJ","Murphy",1,"Co-author of P8877",2023-01-01

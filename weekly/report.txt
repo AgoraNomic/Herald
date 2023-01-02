@@ -2,9 +2,9 @@ Scores (points) as of 02 Jan 2023.
 
 PLACE  NAME [0]  SCORE  CHANGE [1]
 -----  --------  -----  ----------
-1st    JNT       034        -8
-2nd    NIX       019        -3
-3rd    JWN       011        +3
+1st    JNT       032       -10
+2nd    NIX       017        -5
+3rd    JWN       015        +7
 4th    SNL       010       +10
 5th    MUR       005        -3
 6th    G.        004        -4
@@ -30,8 +30,9 @@ Events Since Last Report
 2022-12-26: juan gains 4 (Sharing Dream)
 2022-12-26: nix gains 4 (Sharing Dream)
 2023-01-01: New quarter, all scores halved
-2023-01-01: Janet gains 6 (Sharing Dream)
-2023-01-01: nix gains 6 (Sharing Dream)
+2023-01-01: Janet gains 4 (Sharing Dream)
+2023-01-01: nix gains 4 (Sharing Dream)
+2023-01-01: juan gains 4 (Sharing Dream)
 2023-01-01: snail gains 5 (author of P8873)
 2023-01-01: snail gains 5 (author of P8874)
 2023-01-01: juan gains 5 (author of P8876)
