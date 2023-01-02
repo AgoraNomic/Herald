@@ -1,10 +1,8 @@
-19 Dec 22
+02 Jan 23
 
 These are the current non-zero Karma values:
 
-+ 1 Janet
 = 0 Agora
-- 1 4st
 
 A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it must:
 
@@ -21,6 +19,9 @@ A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it 
 
 History
 -------
+01 Jan 23
+    All players' karma halved, rounded towards 0.
+    Agora's karma set to 0 minus the total karma of all players (=0)
 12 Nov 22
     Janet:
         +1 nix (putting in the work to update the website)
@@ -32,7 +33,7 @@ History
         -1 nix (not updating Karma last week)
 01 Oct 22 [Beginning of Quarter 3]
     All players' karma halved, rounded towards 0.
-    Agora's karma set to 0 minus the total karma of all players [1]
+    Agora's karma set to 0 minus the total karma of all players (=1)
 22 Aug 22
     juan:
         +1 nix (e proposed the creation of the rule)

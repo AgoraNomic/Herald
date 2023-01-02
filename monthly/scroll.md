@@ -10,7 +10,7 @@
 
 
 
-&ensp;                          December 02, 2022
+&ensp;                           January 02, 2023
 
 
 
@@ -22,11 +22,11 @@
 
 &ensp;                         
 
-&ensp;                         No news this month.
+&ensp;                              2022-12-11
+
+&ensp;                       [snail](Players/snail.md) wins by High Score.
 
 &ensp;                     
-
-&ensp;                         
 
 &ensp;                         -------------------
 
@@ -78,7 +78,7 @@
 
 &ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md) (x2), [Jason](Players/Jason.md), [Levi](Players/Levi.md), [Madrid](Players/Madrid.md), 
 
-&ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [snail](Players/snail.md), 
+&ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [snail](Players/snail.md) (x2), 
 
 &ensp;                     [Steve](Players/Steve.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [twg](Players/twg.md) (x2), [Walker](Players/Walker.md), [Wooble](Players/Wooble.md)
 

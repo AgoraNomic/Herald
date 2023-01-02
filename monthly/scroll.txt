@@ -4,15 +4,15 @@
 
                         Herald's Monthly Report
 
-                           December 02, 2022
+                            January 02, 2023
 
                           -------------------
                                   NEWS
                           -------------------
                           
-                          No news this month.
+                               2022-12-11
+                        snail wins by High Score.
                       
-                          
                           -------------------
                               CHAMPION by
                           -------------------
@@ -38,7 +38,7 @@
             Gauntlet: Falsifian, R. Lee
           High Score: ais523 (x3), Alexis (x2), BobTHJ, Elysion, 
                       Falsifian, G. (x2), Jason, Levi, Madrid, 
-                      Murphy (x3), omd (x4), Pavitra, root, snail, 
+                      Murphy (x3), omd (x4), Pavitra, root, snail (x2), 
                       Steve, Tiger, Trigon, twg (x2), Walker, Wooble
                Junta: ais523 (x2), Alexis, G., nix, omd (x2), 
                       OscarMeyr, the AFO
