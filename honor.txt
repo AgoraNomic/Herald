@@ -1,8 +1,10 @@
-02 Jan 23
+17 Jan 23
 
 These are the current non-zero Karma values:
 
++ 1 omd
 = 0 Agora
+- 1 Murphy
 
 A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it must:
 
@@ -19,30 +21,12 @@ A player CAN publish a Notice of Honour. For a Notice of Honour to be valid, it 
 
 History
 -------
+05 Jan 23
+    G.:
+        -1 Murphy, for starting an election with nomination period
+           entirely within a holiday.
+        +1 omd for being the only other officer actually resting on the
+           holidays
 01 Jan 23
     All players' karma halved, rounded towards 0.
     Agora's karma set to 0 minus the total karma of all players (=0)
-12 Nov 22
-    Janet:
-        +1 nix (putting in the work to update the website)
-        -1 Agora (otherwise not giving me a reason to de-karma someone)
-30 Oct 22
-    nix:
-        +1 Janet (maintaining much of the game, including the currently
-                  largely-neglected device)
-        -1 nix (not updating Karma last week)
-01 Oct 22 [Beginning of Quarter 3]
-    All players' karma halved, rounded towards 0.
-    Agora's karma set to 0 minus the total karma of all players (=1)
-22 Aug 22
-    juan:
-        +1 nix (e proposed the creation of the rule)
-        -1 4st (e tried to be naughty and gain many points)
-28 Aug 22
-    nix:
-        +1 juan (using a notice already)
-        -1 4st (making so many stamps)
-01 Sep 22
-    Murphy:
-        +1 snail (for reminding me to award points for ribbons)
-        -1 Murphy (for needing to be reminded)
