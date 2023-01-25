@@ -2,10 +2,10 @@ Scores (points) as of 17 Jan 2023.
 
 PLACE  NAME [0]  SCORE  CHANGE [1]
 -----  --------  -----  ----------
-1st    JNT       056       +24
-2nd    NIX       026        +9
-3rd    JWN       019        +4
-4th    SNL       015        +5
+1st    JNT       056    
+2nd    NIX       026    
+3rd    JWN       019    
+4th    SNL       018        +3
 5th    MUR       005    
 6th    G.        004    
 7th    RLE       002    
@@ -26,16 +26,5 @@ know.
 
 Events Since Last Report
 ------------------------
-2023-01-09: Janet gains 2 (Sharing Dream)
-2023-01-09: nix gains 2 (Sharing Dream)
-2023-01-09: juan gains 2 (Sharing Dream)
-2023-01-16: Janet gains 2 (Sharing Dream)
-2023-01-16: nix gains 2 (Sharing Dream)
-2023-01-16: juan gains 2 (Sharing Dream)
-2023-01-15: nix gains 5 (author of P8878)
-2023-01-15: Janet gains 5 (author of P8880)
-2023-01-15: Janet gains 5 (author of P8881)
-2023-01-15: Janet gains 5 (author of P8882)
-2023-01-15: Janet gains 5 (author of P8883)
-2023-01-15: snail gains 5 (author of P8884)
+2023-01-16: snail gains 3 (Score Stone)
 
