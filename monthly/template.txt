@@ -38,10 +38,10 @@
                                                     Steve, Vanyel,
                                                     Kolja A., Murphy,
                                                     Alexis
-       Magisteriate of Nomic (M.N.):                ais523, Jason
+       Magisteriate of Nomic (M.N.):                ais523, Janet
        Doctorate of Nomic History (D.N.Hist.):      Swann, Vlad
        Doctorate of Nomic Philosophy (D.N.Phil.):   Steve, ais523
-       Doctorate of Nomic Science (D.N.Sci.):       Jason
+       Doctorate of Nomic Science (D.N.Sci.):       Janet
 
                                     ------
                                     BADGES
@@ -82,12 +82,12 @@
      Badge of Diplonomic [2020]
       (awarded to persons who played or otherwise participated in the
        2020 Birthday Tournament, Diplonomic)
-             ATMunn, G., Jason, Aspen, Falsifian, R. Lee, omd, Trigon,
+             ATMunn, G., Janet, Aspen, Falsifian, R. Lee, omd, Trigon,
              Ben, Claire, Publius Scribonius Scholasticus
              
      Twosday Badge [Feb 02 2022]
       (awarded to persons that were active players on 2/22/22)
-             ATMunn, Aspen, G., Gaelan, Jason, Madrid, Murphy, R. Lee,
+             ATMunn, Aspen, G., Gaelan, Janet, Madrid, Murphy, R. Lee,
              Sgeo, TABBAT, Trigon, ais523, cuddlybanana, nix, omd,
              snail
                                    --------
@@ -117,7 +117,7 @@
             H.:                       ais523
             Hard Labor:               Falsifian (Registrar and
                                       Treasuror), G. (Arbitor and
-                                      Herald), Jason (Assessor and
+                                      Herald), Janet (Assessor and
                                       Rulekeepor),
                                       Publius Scribonius Scholasticus
                                       (Referee, Tailor, and Herald)
@@ -132,7 +132,7 @@
             MacGyver:                 Falsifian
             Maniac:                   Craig, Peekee, root
             Marvy:                    4st, ais523, CreateSource,
-                                      cuddlybanana, duck, G., Jason,
+                                      cuddlybanana, duck, G., Janet,
                                       juan, Murphy, R. Lee, snail,
                                       Trigon, Vitor Gonçalves
             Money Launderer:          R. Lee
@@ -142,16 +142,16 @@
             Originator:               Chuck
             Plagiarist:               ehird
             Popular:                  ATMunn, Aspen, Madrid, 
-                                      cuddlybanana, G., Jason, Murphy,
+                                      cuddlybanana, G., Janet, Murphy,
                                       Trigon
             Popular Philanthropist:   ATMunn
             Popular Polygon:          Trigon
             Prince of Andorra:        Alexis
             Princess of Agora:        Alexis
             Reformist Bug:            Trigon
-            Roboticist General:       Jason
+            Roboticist General:       Janet
             Rulebender:               Aspen, Madrid, Falsifian, G.,
-                                      Gaelan, Jason, Murphy,
+                                      Gaelan, Janet, Murphy,
                                       Publius Scribonius Scholasticus,
                                       R. Lee, Trigon, nix, omd, twg
             Scamster:                 Troublemaker at Large,
@@ -163,7 +163,7 @@
             Tiger Team:               Telnaior
             Too Intense:              Gaelan
             Unchampion:               aranea
-            Very Popular:             Aspen, Jason, Trigon
+            Very Popular:             Aspen, Janet, Trigon
             273rd Prepared Piano:     Murphy
 
                              EMPLOYEE OF THE YEAR
