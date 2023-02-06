@@ -10,7 +10,7 @@
 
 
 
-&ensp;                           January 02, 2023
+&ensp;                          February 06, 2023
 
 
 
@@ -22,9 +22,11 @@
 
 &ensp;                         
 
-&ensp;                              2022-12-11
+&ensp;                              2023-02-06
 
-&ensp;                       [snail](Players/snail.md) wins by High Score.
+&ensp;                     Long Service Titles awarded
+
+&ensp;                          to [snail](Players/snail.md) and juan.
 
 &ensp;                     
 
@@ -76,7 +78,7 @@
 
 &ensp;         High Score: [ais523](Players/ais523.md) (x3), [Alexis](Players/Alexis.md) (x2), [BobTHJ](Players/BobTHJ.md), [Elysion](Players/Elysion.md), 
 
-&ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md) (x2), [Jason](Players/Jason.md), [Levi](Players/Levi.md), [Madrid](Players/Madrid.md), 
+&ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md) (x2), [Janet](Players/Janet.md), [Levi](Players/Levi.md), [Madrid](Players/Madrid.md), 
 
 &ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [snail](Players/snail.md) (x2), 
 
@@ -112,17 +114,17 @@
 
 &ensp;                     [Steve](Players/Steve.md) (x3), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [twg](Players/twg.md), [woggle](Players/woggle.md), [Yally](Players/Yally.md)
 
-&ensp;        Renaissance: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md) (x3), [Aspen](Players/Aspen.md), [G.](Players/G..md) (x3), [Jason](Players/Jason.md) (x2), 
+&ensp;        Renaissance: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md) (x3), [Aspen](Players/Aspen.md), [G.](Players/G..md) (x3), [Janet](Players/Janet.md) (x2), 
 
 &ensp;                     [Murphy](Players/Murphy.md), [twg](Players/twg.md)
 
-&ensp;        Rulebending: [G.](Players/G..md), [Jason](Players/Jason.md), [nix](Players/nix.md)
+&ensp;        Rulebending: [G.](Players/G..md), [Janet](Players/Janet.md), [nix](Players/nix.md)
 
 &ensp;           Solitude: [ais523](Players/ais523.md) (x2), [Alexis](Players/Alexis.md) (x2), [omd](Players/omd.md)
 
-&ensp;            Spaaace: [Falsifian](Players/Falsifian.md), [Jason](Players/Jason.md) (x1000)
+&ensp;            Spaaace: [Falsifian](Players/Falsifian.md), [Janet](Players/Janet.md) (x1000)
 
-&ensp;         Tournament: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [G.](Players/G..md), [grok](Players/grok.md), [Jason](Players/Jason.md) (x2), [OscarMeyr](Players/OscarMeyr.md), 
+&ensp;         Tournament: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [G.](Players/G..md), [grok](Players/grok.md), [Janet](Players/Janet.md) (x2), [OscarMeyr](Players/OscarMeyr.md), 
 
 &ensp;                     [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md), [root](Players/root.md), [Taral](Players/Taral.md), 
 
@@ -182,13 +184,13 @@
 
 &ensp;                                                   [Alexis](Players/Alexis.md)
 
-&ensp;      Magisteriate of Nomic (M.N.):                [ais523](Players/ais523.md), [Jason](Players/Jason.md)
+&ensp;      Magisteriate of Nomic (M.N.):                [ais523](Players/ais523.md), [Janet](Players/Janet.md)
 
 &ensp;      Doctorate of Nomic History (D.N.Hist.):      [Swann](Players/Swann.md), [Vlad](Players/Vlad.md)
 
 &ensp;      Doctorate of Nomic Philosophy (D.N.Phil.):   [Steve](Players/Steve.md), [ais523](Players/ais523.md)
 
-&ensp;      Doctorate of Nomic Science (D.N.Sci.):       [Jason](Players/Jason.md)
+&ensp;      Doctorate of Nomic Science (D.N.Sci.):       [Janet](Players/Janet.md)
 
 
 
@@ -270,7 +272,7 @@
 
 &ensp;      2020 Birthday Tournament, Diplonomic)
 
-&ensp;            [ATMunn](Players/ATMunn.md), [G.](Players/G..md), [Jason](Players/Jason.md), [Aspen](Players/Aspen.md), [Falsifian](Players/Falsifian.md), [R. Lee](Players/R. Lee.md), [omd](Players/omd.md), [Trigon](Players/Trigon.md),
+&ensp;            [ATMunn](Players/ATMunn.md), [G.](Players/G..md), [Janet](Players/Janet.md), [Aspen](Players/Aspen.md), [Falsifian](Players/Falsifian.md), [R. Lee](Players/R. Lee.md), [omd](Players/omd.md), [Trigon](Players/Trigon.md),
 
 &ensp;            [Ben](Players/Ben.md), [Claire](Players/Claire.md), [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)
 
@@ -280,7 +282,7 @@
 
 &ensp;     (awarded to persons that were active players on 2/22/22)
 
-&ensp;            [ATMunn](Players/ATMunn.md), [Aspen](Players/Aspen.md), [G.](Players/G..md), [Gaelan](Players/Gaelan.md), [Jason](Players/Jason.md), [Madrid](Players/Madrid.md), [Murphy](Players/Murphy.md), [R. Lee](Players/R. Lee.md),
+&ensp;            [ATMunn](Players/ATMunn.md), [Aspen](Players/Aspen.md), [G.](Players/G..md), [Gaelan](Players/Gaelan.md), [Janet](Players/Janet.md), [Madrid](Players/Madrid.md), [Murphy](Players/Murphy.md), [R. Lee](Players/R. Lee.md),
 
 &ensp;            [Sgeo](Players/Sgeo.md), TABBAT, [Trigon](Players/Trigon.md), [ais523](Players/ais523.md), [cuddlybanana](Players/cuddlybanana.md), [nix](Players/nix.md), [omd](Players/omd.md),
 
@@ -340,7 +342,7 @@
 
 &ensp;                                     Treasuror), [G.](Players/G..md) (Arbitor and
 
-&ensp;                                     Herald), [Jason](Players/Jason.md) (Assessor and
+&ensp;                                     Herald), [Janet](Players/Janet.md) (Assessor and
 
 &ensp;                                     Rulekeepor),
 
@@ -370,9 +372,9 @@
 
 &ensp;           Marvy:                    4st, [ais523](Players/ais523.md), CreateSource,
 
-&ensp;                                     [cuddlybanana](Players/cuddlybanana.md), duck, [G.](Players/G..md), [Jason](Players/Jason.md),
+&ensp;                                     [cuddlybanana](Players/cuddlybanana.md), duck, [G.](Players/G..md), [Janet](Players/Janet.md),
 
-&ensp;                                     juan, [Murphy](Players/Murphy.md), [R. Lee](Players/R. Lee.md), [snail](Players/snail.md),
+&ensp;                                     [juan](Players/juan.md), [Murphy](Players/Murphy.md), [R. Lee](Players/R. Lee.md), [snail](Players/snail.md),
 
 &ensp;                                     [Trigon](Players/Trigon.md), Vitor Gonçalves
 
@@ -390,7 +392,7 @@
 
 &ensp;           Popular:                  [ATMunn](Players/ATMunn.md), [Aspen](Players/Aspen.md), [Madrid](Players/Madrid.md), 
 
-&ensp;                                     [cuddlybanana](Players/cuddlybanana.md), [G.](Players/G..md), [Jason](Players/Jason.md), [Murphy](Players/Murphy.md),
+&ensp;                                     [cuddlybanana](Players/cuddlybanana.md), [G.](Players/G..md), [Janet](Players/Janet.md), [Murphy](Players/Murphy.md),
 
 &ensp;                                     [Trigon](Players/Trigon.md)
 
@@ -404,11 +406,11 @@
 
 &ensp;           Reformist Bug:            [Trigon](Players/Trigon.md)
 
-&ensp;           Roboticist General:       [Jason](Players/Jason.md)
+&ensp;           Roboticist General:       [Janet](Players/Janet.md)
 
 &ensp;           Rulebender:               [Aspen](Players/Aspen.md), [Madrid](Players/Madrid.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md),
 
-&ensp;                                     [Gaelan](Players/Gaelan.md), [Jason](Players/Jason.md), [Murphy](Players/Murphy.md),
+&ensp;                                     [Gaelan](Players/Gaelan.md), [Janet](Players/Janet.md), [Murphy](Players/Murphy.md),
 
 &ensp;                                     [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md),
 
@@ -432,7 +434,7 @@
 
 &ensp;           Unchampion:               [aranea](Players/aranea.md)
 
-&ensp;           Very Popular:             [Aspen](Players/Aspen.md), [Jason](Players/Jason.md), [Trigon](Players/Trigon.md)
+&ensp;           Very Popular:             [Aspen](Players/Aspen.md), [Janet](Players/Janet.md), [Trigon](Players/Trigon.md)
 
 &ensp;           273rd Prepared Piano:     [Murphy](Players/Murphy.md)
 
@@ -452,31 +454,33 @@
 
 &ensp;       Three Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [BobTHJ](Players/BobTHJ.md), 
 
-&ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Iammers](Players/Iammers.md), [Jason](Players/Jason.md), [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), 
+&ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Iammers](Players/Iammers.md), [Janet](Players/Janet.md), [juan](Players/juan.md), [Michael](Players/Michael.md), 
 
-&ensp;                     [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [PerlNomic Partnership](Players/PerlNomic Partnership.md), 
+&ensp;                     [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), 
+
+&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md), 
 
 &ensp;                     [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md), [root](Players/root.md), [Sgeo](Players/Sgeo.md), 
 
-&ensp;                     [Sherlock](Players/Sherlock.md), [Taral](Players/Taral.md), [the AFO](Players/the AFO.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), 
-
-&ensp;                     [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
-
-&ensp;         Six Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), 
-
-&ensp;                     [G.](Players/G..md), [Jason](Players/Jason.md), [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), 
-
-&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md), [root](Players/root.md), [Sherlock](Players/Sherlock.md), [Trigon](Players/Trigon.md), 
+&ensp;                     [Sherlock](Players/Sherlock.md), [snail](Players/snail.md), [Taral](Players/Taral.md), [the AFO](Players/the AFO.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), 
 
 &ensp;                     [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
 
-&ensp;        Nine Months: [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Jason](Players/Jason.md), 
+&ensp;         Six Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), 
+
+&ensp;                     [G.](Players/G..md), [Janet](Players/Janet.md), [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), 
+
+&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md), [root](Players/root.md), [Sherlock](Players/Sherlock.md), [snail](Players/snail.md), 
+
+&ensp;                     [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
+
+&ensp;        Nine Months: [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Janet](Players/Janet.md), 
 
 &ensp;                     [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md), 
 
-&ensp;                     [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
+&ensp;                     [snail](Players/snail.md), [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
 
-&ensp;      Twelve Months: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Jason](Players/Jason.md), [Michael](Players/Michael.md), 
+&ensp;      Twelve Months: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Janet](Players/Janet.md), [Michael](Players/Michael.md), 
 
 &ensp;                     [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md), [Trigon](Players/Trigon.md), 
 
