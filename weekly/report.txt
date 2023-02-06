@@ -3,11 +3,11 @@ Scores (points) as of 06 Feb 2023.
 PLACE  NAME [0]  SCORE  CHANGE [1]
 -----  --------  -----  ----------
 1st    JNT       065        +5
-2nd    SNL       040       +13
+2nd    SNL       054       +27
 3rd    NIX       034        +4
 4th    JWN       027        +4
-5th    MUR       012        +7
-6th    G.        004    
+5th    G.        019       +15
+6th    MUR       012        +7
 7th    AIS       002        +1
 7th    CBN       002    
 9th    GLN       001    
@@ -25,9 +25,11 @@ know.
 
 Events Since Last Report
 ------------------------
+2023-01-29: snail gains 14 (birthday)
 2023-01-30: snail gains 2 (judging CFJ4002)
 2023-01-30: Murphy gains 2 (judging CFJ4003)
 2023-01-31: R. Lee score set to 0 (registration)
+2023-02-04: G. gains 15 (birthday)
 2023-02-05: Janet gains 5 (author of P8886)
 2023-02-05: Murphy gains 5 (author of P8887)
 2023-02-05: ais523 gains 1 (co-author of P8887)
