@@ -16,9 +16,7 @@ PLACE  NAME [0]  SCORE  CHANGE [1]
 
 All other scores are zero. 
 
-[0] G. = G. ; Gaelan = GLN; Janet = JNT; Murphy = MUR; Vitor Gonçalves 
-= VTR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX; snail = 
-SNL
+[0] G. = G. ; Gaelan = GLN; Janet = JNT; Murphy = MUR; Vitor Gonçalves = VTR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX; snail = SNL
 
 [1] Since last official report.
 
