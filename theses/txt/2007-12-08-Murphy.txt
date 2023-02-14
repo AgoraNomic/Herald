@@ -1,5 +1,3 @@
-(Degree status unknown)
-
 PRE-HISTORY
 
 Agora's initial rules [1] omitted Suber's concept of players acting in
@@ -190,4 +188,3 @@ ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/lib-vla
 http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200706/msg00071.html
 [8]
 http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200711/msg00142.html
-
