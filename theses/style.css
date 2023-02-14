@@ -34,4 +34,8 @@ h4 {
     color: #E52B50;
     text-align: center;
 }
-  
+
+p {
+    margin: auto;
+    max-width: 72ch;
+}
