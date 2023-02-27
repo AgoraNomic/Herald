@@ -2,19 +2,20 @@ Scores (points) as of 27 Feb 2023.
 
 PLACE  NAME [0]  SCORE  CHANGE [1]
 -----  --------  -----  ----------
-1st    JNT       044       -20
-2nd    MUR       030       +17
+1st    JNT       076       +11
+2nd    MUR       040       +27
 3rd    G.        029       +11
-4th    NIX       025       -11
+4th    NIX       026       -10
 5th    JWN       015       -13
 6th    4ST       014       +15
-7th    AIS       003        +1
-8th    CBN       001        -1
+7th    SNL       005       -49
+8th    AIS       003        +1
+9th    CBN       001        -1
 
 
 All other scores are zero. 
 
-[0] 4st = 4ST; G. = G. ; Janet = JNT; Murphy = MUR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX
+[0] 4st = 4ST; G. = G. ; Janet = JNT; Murphy = MUR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX; snail = SNL
 
 [1] Since last official report.
 
@@ -50,11 +51,11 @@ Events Since Last Report
 2023-02-18: snail gains 1 (coauthor of P8892)
 2023-02-18: G. gains 1 (coauthor of P8892)
 2023-02-19: Janet gains 8 (Hot Potato Stone)
+2023-02-19: Janet gains 3 (Score Stone)
 2023-02-20: nix gains 2 (Sharing Dream)
 2023-02-20: juan gains 2 (Sharing Dream)
 2023-02-20: Murphy gains 2 (Sharing Dream)
 2023-02-20: snail gains 14 (birthday)
-2023-02-20: snail gains 3 (Score Stone)
 2023-02-20: snail gains 12 (7 snail stamps)
 2023-02-20: snail gains 6 (3 different stamps)
 2023-02-20: snail wins by High Score. Eir score is set to 0. Other scores are halved.
@@ -63,6 +64,16 @@ Events Since Last Report
 2023-02-21: G. gains 2 (judged CFJ 4007)
 2023-02-21: ais523 gains 2 (judged CFJ 4008)
 2023-02-21: Murphy gains 2 (judged CFJ 4009)
+2023-02-26: Janet gains 5 (author of P8900)
+2023-02-26: Murphy gains 5 (author of P8901)
+2023-02-26: Janet gains 5 (author of P8902)
+2023-02-26: Janet gains 5 (author of P8903)
+2023-02-26: Janet gains 5 (author of P8904)
+2023-02-26: Janet gains 5 (author of P8906)
+2023-02-26: Janet gains 5 (author of P8907)
+2023-02-26: Murphy gains 5 (author of P8909)
+2023-02-26: snail gains 5 (author of P8910)
+2023-02-26: nix gains 1 (coauthor of P8910)
 2023-02-27: G. gains 16 (birthday)
 2023-02-27: Murphy gains 18 (birthday)
 
