@@ -1,0 +1,34 @@
+Radiances as of 14 Mar 2023.
+
+PLACE  NAME [0]  RADIANCE [1]
+-----  --------  ------------
+1st    MUR       027 (-19)
+2nd    NIX       019 (-9)
+3rd    G.        015 (-15)
+4th    JWN       014 (-6)
+5th    4ST       007 (-7)
+5th    SNL       007 (-1)
+7th    JNT       005 (-79)
+8th    AIS       002 (-2)
+
+
+All other radiances are zero. 
+
+[0] 4st = 4ST; G. = G. ; Janet = JNT; Murphy = MUR; ais523 = AIS; juan = JWN; nix = NIX; snail = SNL
+
+[1] Current Radiance and estimated change since last report. Only
+current radiance ratifies.
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+2023-03-06: Janet gains 16 (Cashed 9 Janet stamps)
+2023-03-06: Janet wins by High Score. Eir score is set to 0. Other scores are halved.
+2023-03-11: Janet gains 5 (author of P8920)
+2023-03-12: nix gains 5 (author of P8921)
+2023-03-13: Murphy gains 4 (Dream of Sharing)
+2023-03-13: juan gains 4 (Dream of Sharing)
+2023-03-14: snail gains 3 (wielding Radiance Stone)
+

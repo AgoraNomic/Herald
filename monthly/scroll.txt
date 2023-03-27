@@ -4,15 +4,26 @@
 
                         Herald's Monthly Report
 
-                           February 06, 2023
+                             March 14, 2023
 
                           -------------------
                                   NEWS
                           -------------------
                           
+                 "Gauntlet" wins renamed to "Masonry" wins.
+                          
                                2023-02-06
                       Long Service Titles awarded
                            to snail and juan.
+                           
+                               2023-02-06
+                        Murphy wins by Masonry.
+                        
+                               2023-02-20
+                        snail wins by High Score.
+                        
+                               2023-03-23
+                        Janet wins by High Score.
                       
                           -------------------
                               CHAMPION by
@@ -36,16 +47,16 @@
    Economic Takeover: Falsifian, G., Madrid, Trigon
             Election: G.
               Escape: omd
-            Gauntlet: Falsifian, R. Lee
           High Score: ais523 (x3), Alexis (x2), BobTHJ, Elysion, 
-                      Falsifian, G. (x2), Janet, Levi, Madrid, 
-                      Murphy (x3), omd (x4), Pavitra, root, snail (x2), 
+                      Falsifian, G. (x2), Janet (x2), Levi, Madrid, 
+                      Murphy (x3), omd (x4), Pavitra, root, snail (x3), 
                       Steve, Tiger, Trigon, twg (x2), Walker, Wooble
                Junta: ais523 (x2), Alexis, G., nix, omd (x2), 
                       OscarMeyr, the AFO
           Leadership: ais523
                Lotto: Alexis, omd
               Maniac: Craig, root
+             Masonry: Falsifian, Murphy, R. Lee
         Musicianship: ais523, omd, Tiger, Wooble, Zefram
              Nomaoic: snail
              Paradox: ais523, Alexis, BobTHJ (x2), Bucky (x2), ehird, 

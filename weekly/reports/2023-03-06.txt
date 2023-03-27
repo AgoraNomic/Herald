@@ -1,0 +1,36 @@
+Scores (points) as of 06 Mar 2023.
+
+PLACE  NAME [0]  SCORE  CHANGE [1]
+-----  --------  -----  ----------
+1st    JNT       084        +8
+2nd    MUR       046        +6
+3rd    G.        031        +2
+4th    NIX       028        +2
+5th    JWN       021        +6
+6th    4ST       014    
+7th    SNL       008        +3
+8th    AIS       005        +2
+9th    CBN       001    
+
+
+All other scores are zero. 
+
+[0] 4st = 4ST; G. = G. ; Janet = JNT; Murphy = MUR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX; snail = SNL
+
+[1] Since last official report.
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+2023-02-27: nix gains 2 (dream of sharing)
+2023-02-27: juan gains 2 (dream of sharing)
+2023-02-27: Murphy gains 2 (dream of sharing)
+2023-03-03: ais523 gains 2 (judging CFJ4010)
+2023-03-03: G. gains 2 (judging CFJ4013)
+2023-03-05: Janet gains 8 (hot potato stone)
+2023-03-05: snail gains 3 (score stone)
+2023-03-06: juan gains 4 (dream of sharing)
+2023-03-06: Murphy gains 4 (dream of sharing)
+

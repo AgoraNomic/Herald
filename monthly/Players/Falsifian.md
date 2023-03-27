@@ -2,7 +2,7 @@ Falsifian
 
 Badges: Badge of Diplonomic (2020)
 
-Champions: Economic Takeover (2021/6/4), Gauntlet (2021/5/30), High Score, Spaaace
+Champions: Economic Takeover (2021/6/4), High Score, Masonry (2021/5/30), Spaaace
 
 Degrees: Juris Doctorate of Nomic
 

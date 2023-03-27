@@ -32,7 +32,8 @@ class Player:
     
     def scorestr(self):
         digits = len(str(self.score))
-        return " " + "0" * (3-digits) + str(self.score)
+        return "0" * (3-digits) + str(self.score)
+        return str(self.score)
     
     def changestr(self):
         if self.change == 0:
@@ -45,7 +46,7 @@ class Player:
             
             digits = len(sign + str(self.change))
             
-            return " " * (6-digits) + sign + str(self.change)
+            return sign + str(self.change)
 
 players = {}
 
@@ -57,11 +58,18 @@ with open(score_file, 'r') as infile:
     
     for row in scores_in:
         players[row[0]] = Player(row[0],row[1],row[2])
+        
+    # if report, make a backup
+    
+    if isReport:
+        with open(score_file + ".backup", 'w') as outfile:
+            outfile.write(headers)
+            for player in list(players.keys()):
+                outfile.write(players[player].name+","+players[player].short_name+","+str(players[player].score)+"\n")
 
 recent_file = 'recent.csv'
 
 history=""
-
 
 with open(recent_file, 'r') as infile:
     recent_in = reader(infile, delimiter=',', quotechar="\"")
@@ -79,9 +87,9 @@ with open(recent_file, 'r') as infile:
                 history += f"{name} loses {change} ({reason})"
         elif event == "SET":
             players[name].set_score(change)
-            history += f"{name} score set to {change} ({reason})"
+            history += f"{name} radiance set to {change} ({reason})"
         elif event == "QRT":
-            history += "New quarter, all scores halved"
+            history += "New quarter, all radiances halved"
             for pl in players:
                 players[pl].quarterly()
         elif event == "REG":
@@ -114,9 +122,9 @@ for pl in players:
 for pl in to_rmv:
     players.pop(pl)
 
-if isReport:
-    with open(recent_file, 'w') as outfile:
-        outfile.write(headers)
+#if isReport:
+#    with open(recent_file, 'w') as outfile:
+#        outfile.write(headers)
 
 # Grab all the player names, then sort them by score
 pl_keys = list(players.keys())
@@ -136,9 +144,10 @@ html_scores = ""
 def report_formatter(place, pl):
     out = ""
     out+= ordinal(place) + " " * (7 - len(ordinal(place)))
-    out+= pl.short_name + " " * 6
-    out+= pl.scorestr() + " " * 4
-    out+= pl.changestr()
+    out+= pl.short_name + " " * 7
+    out+= pl.scorestr()
+    if pl.changestr():
+        out += f" ({pl.changestr()})"
     out+= "\n"
     return(out)
 
@@ -146,8 +155,10 @@ def html_formatter(place, pl):
     out = "<tr>"
     out+= f"<td>{ordinal(place)}</td>"
     out+= f"<td>{pl.short_name}</td>"
-    out+= f"<td>{pl.scorestr()}</td>"
-    out+= f"<td>{pl.changestr()}</td>"
+    if pl.changestr():
+        out+= f"<td>{pl.scorestr()} ({pl.changestr()})</td>"
+    else:
+        out+= f"<td>{pl.changestr()}</td>"
     out+= "</tr>"
     return(out)
 
@@ -191,7 +202,8 @@ html = template.format_map(html_mapping)
 if not isReport:
     print(report)
     print(html)
-else:
+else:      
+    
     report_name = now.strftime('%Y-%m-%d')
 
     with open(score_file, 'w') as outfile:

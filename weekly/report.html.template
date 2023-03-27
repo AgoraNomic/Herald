@@ -2,18 +2,18 @@
 <html>
 <body>
 
-<p style="text-align:center">Scores (points) as of {date}.</p>
+<p style="text-align:center">Radiances as of {date}.</p>
 
 <table style="text-align:center; width:100%">
     <thead>
-        <tr><th style="width:25%">PLACE</th><th style="width:25%">NAME [0]</th><th style="width:25%">SCORE</th><th style="width:25%">CHANGE [1]</th></tr>
+        <tr><th style="width:33%">PLACE</th><th style="width:33%">NAME [0]</th><th style="width:33%">RADIANCE</th></tr>
     </thead>
     <tbody>
         {scores}
     </tbody>
 </table>
 
-<p>All other scores are zero.</p>
+<p>All other radiances are zero.</p>
 
 <p>[0] {key}</p>
 

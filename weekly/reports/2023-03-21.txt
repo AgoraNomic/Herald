@@ -1,0 +1,33 @@
+Radiances as of 21 Mar 2023.
+
+PLACE  NAME [0]  RADIANCE [1]
+-----  --------  ------------
+1st    JWN       034 (+20)
+2nd    MUR       033 (+4)
+3rd    NIX       019
+4th    CBN       016 (+16)
+5th    G.        015
+6th    4ST       007
+6th    SNL       007
+8th    JNT       006 (+1)
+9th    AIS       002
+
+
+All other radiances are zero. 
+
+[0] 4st = 4ST; G. = G. ; Janet = JNT; Murphy = MUR; ais523 = AIS; cuddlybanana = CBN; juan = JWN; nix = NIX; snail = SNL
+
+[1] Current Radiance and estimated change since last report. Only
+current radiance ratifies.
+
+If you'd like to change your three letter name, please let the Herald 
+know. 
+
+Events Since Last Report
+------------------------
+2023-03-16: cuddlybanana gains 16 (birthday)
+2023-03-18: juan gains 16 (birthday)
+2023-03-19: Janet gains 1 (coauthor of P8925)
+2023-03-20: juan gains 4 (Sharing Dream)
+2023-03-20: Murphy gains 4 (Sharing Dream)
+

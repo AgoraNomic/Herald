@@ -1,14 +1,15 @@
-Scores (points) as of {date}.
+Radiances as of {date}.
 
-PLACE  NAME [0]  SCORE  CHANGE [1]
------  --------  -----  ----------
+PLACE  NAME [0]  RADIANCE [1]
+-----  --------  ------------
 {scores}
 
-All other scores are zero. 
+All other radiances are zero. 
 
 [0] {key}
 
-[1] Since last official report.
+[1] Current Radiance and estimated change since last report. Only
+current radiance ratifies.
 
 If you'd like to change your three letter name, please let the Herald 
 know. 
