@@ -1,0 +1,112 @@
+## A Multi-Tiered, Multi-Controlled Currency System
+### (a brief thesis by G., for an Agoran A.N. degree)
+
+This is an outline of the currency system that was in place when I
+began (2001) and ran until 2003, a good long time for Agora.  It was
+active and the source of much game play at the time.  It was installed
+before my time, but my understanding is that credit should go to Steve
+for the major points of this system.
+
+The basis of the system was a currency called Stems (from Stem cells).
+Every player got a basic salary in Stems, and Officers got a higher
+salary.  But the thing about Stems were, they were very limited in
+use.  You couldn't transfer them to anyone else, or buy much with
+them.  They just accumulated.
+
+Instead there were three currencies that were useful:
+   Papyrii
+      A single Papyrus made a Proposal distributable.
+   Indulgences
+      Penalties for breaking rules or other judicially-bad things were
+      measured in Blots.  Blots gave you game penalties (lowered
+      votes, kept you from winning).  An Indulgence would destroy a
+      Blot.
+   Voting Entitlements (VEs)
+      Hold a VE, get an extra proposal vote.  Max voting power 5.
+
+How did you get these currencies?  Each month, an Auction would be
+held, auctioning off a certain number of each currency.  The auction
+currency was Stems, that was really all you could use them for.
+
+Furthermore, each player had a Role.  Scribes (papyrus), Acolytes
+(Indulgences), and Politicians (VEs).  Only players holding the
+correct role could bid on the correct currency.  And roles could only
+be changed once a Quarter, so you had to plan ahead.
+
+Additionally, each currency was tied to an Office: the Promotor for
+papyrus, the Clerk of the Courts (Arbitor) for Indulgences, and the
+Assessor for VEs.  Each Officer could control their own currency
+supply by deciding (in a fixed range) how much to auction each month,
+and also had the ability to tax (collect a % of everyone's holdings
+for that currency).  Total circulating currency was fixed; direct
+creation of currency was tightly-controlled and rare, mostly the
+currencies circulated between players and a Bank.  Power over currency
+supply made these offices desirable, and elections were actually
+fought based on monetary policies.
+
+Just by the "nature" of play, each currency had a different liquidity.
+
+- Papyrus were the bread and butter of activities (in addition to
+  making proposals distributable, you could use them for other
+  parliamentary procedures such as Chambers).  Winning at this time
+  was by Points (the original Nomic system), and most of the ways of
+  scoring were voting-related: the old Nomic Prisoner's Dilemma or
+  other scoring rules, which made proposal-manipulation part of the
+  gameplay.
+
+- Total VE supply was pegged to the # of players in the game, and
+  permanent votes were powerful.  So these became the real estate in
+  the game; precious, commanding high prices at auctions, rarely
+  changing hands.
+
+- Indulgences were volatile.  The judicial system allowed players to
+  "ticket" each other for minor infractions just by announcement, only
+  needing CFJs if the facts were contested.  A day late on a report?
+  Someone gives you a Blot.  Sometimes, when players conspired for
+  scams or political plays, all would break the same rule and many
+  would get Blots.  Then Indulgences would be priceless.  Other times,
+  they were nearly worthless.
+
+Some auctions were snoozers.  Some were hotly contested.  Various
+features made for occasionally very hotly-contested events (if a
+player left the game while still having currencies, all their holdings
+would be auctioned off as a single lot - very very valuable).
+
+What made this so successful?  Part of it was situational; for various
+reasons, there were some very hotly debated topics (and long-term
+rivalries) that made proposal and vote struggles very tense and
+contested.  Second, there were a good 20+ active players, a high point
+(if you look at "departures in 2001" in the Registrar's report, you
+see many departures - this was the decay of the 2000-2001 boom).
+
+Part is of course my own nostalgia.
+
+But I think there were two parts that made the system itself work
+well.
+
+First, this system hit a real sweet spot in decision and contestable
+"exciting" points.  Grind with Stems, make strategic decisions with
+Roles, play them out with the other currencies.  Offices with "power"
+to set policies that had gameplay impacts.  Winning was related, but
+not the whole purpose of currencies.  There was enough variety that
+each "exciting moment" had a different quality and tactics, but not so
+many options that we were lost in the weeds.
+
+Secondly, as noted by Ørjan, "the three-currency system was also
+carefully thought out for the purpose of encouraging an economy with
+meaningful trading - something which we hadn't really managed before.
+This required making it impossible for a player to alone produce
+everything e needed, thus both the roles and the three different kind
+of assets."
+
+Finally, I think we had a period of strong stability in the
+underlying Rules.  At the time, we had players both from the computing
+world, but also a lawyer or two.  The Rules interpretations/CFJ tended
+to be very "practical" (following intent) rather than letting a
+twisted wording loophole break things (though some true "infinite
+loops" and other twisty ideas got through and were respected).  The
+stability was such that a whole family of concepts - Debt, Contracts,
+Bonds - were made privately (and sometimes added with rules) and some
+holdings built up over the full 2-3 years that the system lasted.
+
+All in all, it was a Pretty Good Time in Agora.
