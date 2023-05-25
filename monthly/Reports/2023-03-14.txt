@@ -1,17 +1,29 @@
-News:
-- snail received the title "Golden Glove (2022)"
-- Janet receive the title "Employee of the Year (2022)"
-- snail receive the title "Employee of the Year (2022)"
-- ais523 won by High Score
-- snail won by High Score
-
                     ===============================
                           THE SCROLL OF AGORA
                     ===============================
 
                         Herald's Monthly Report
 
-                              May 25, 2023
+                             March 14, 2023
+
+                          -------------------
+                                  NEWS
+                          -------------------
+                          
+                 "Gauntlet" wins renamed to "Masonry" wins.
+                          
+                               2023-02-06
+                      Long Service Titles awarded
+                           to snail and juan.
+                           
+                               2023-02-06
+                        Murphy wins by Masonry.
+                        
+                               2023-02-20
+                        snail wins by High Score.
+                        
+                               2023-03-23
+                        Janet wins by High Score.
                       
                           -------------------
                               CHAMPION by
@@ -35,11 +47,10 @@ News:
    Economic Takeover: Falsifian, G., Madrid, Trigon
             Election: G.
               Escape: omd
-          High Score: ais523 (x4), Alexis (x2), BobTHJ, Elysion, 
+          High Score: ais523 (x3), Alexis (x2), BobTHJ, Elysion, 
                       Falsifian, G. (x2), Janet (x2), Levi, Madrid, 
-                      Murphy (x3), omd (x4), Pavitra, root, snail (x4), 
-                      Steve, Tiger, Trigon, twg (x2), Walker, Wooble, 
-                      Yachay Wayllukuq
+                      Murphy (x3), omd (x4), Pavitra, root, snail (x3), 
+                      Steve, Tiger, Trigon, twg (x2), Walker, Wooble
                Junta: ais523 (x2), Alexis, G., nix, omd (x2), 
                       OscarMeyr, the AFO
           Leadership: ais523
@@ -61,7 +72,6 @@ News:
          Rulebending: G., Janet, nix
             Solitude: ais523 (x2), Alexis (x2), omd
              Spaaace: Falsifian, Janet (x1000)
-    Stamp Collecting: snail
           Tournament: Aspen, ATMunn, G., grok, Janet (x2), OscarMeyr, 
                       Publius Scribonius Scholasticus, root, Taral, 
                       Wooble
@@ -132,74 +142,18 @@ News:
              Gaelan, Kenyon, Trigon, Corona, Aspen, ATMunn, G.,
              Quazie, o, twg, Murphy, Publius Scribonius Scholasticus,
              R. Lee, D. Margaux
-
+             
      Badge of Diplonomic [2020]
       (awarded to persons who played or otherwise participated in the
        2020 Birthday Tournament, Diplonomic)
              ATMunn, G., Janet, Aspen, Falsifian, R. Lee, omd, Trigon,
              Ben, Claire, Publius Scribonius Scholasticus
-
+             
      Twosday Badge [Feb 02 2022]
       (awarded to persons that were active players on 2/22/22)
              ATMunn, Aspen, G., Gaelan, Janet, Madrid, Murphy, R. Lee,
              Sgeo, TABBAT, Trigon, ais523, cuddlybanana, nix, omd,
              snail
-
-                                -------------
-                                Yearly Awards
-                                -------------
-
-                             EMPLOYEE OF THE YEAR
-            2019: Falsifian
-            2020: Trigon (Herald, Treasuror)
-            2021: Aspen (Promotor, Registrar)
-                  Trigon (Treasuror)
-            2022: Janet (Arbitor, Mad Engineer, Rulekeepor, Stonemason)
-                  snail (Arbitor, Avicultor, Dream Keeper/Dreamor,
-                         Horsened, Ministor, Notary, Promotor,
-                         Registrar, Treasuror)
-            
-                             SILVER QUILLS
-            2014/13: Alexis (P7629, "Do Things")
-            2015/07: ais523 (P7698 "Ribbons )
-            2016/13: ais523 (P7811, "Winning by apathy")
-            2019: G. (P8167, "Ritual Sacrifice")
-            2020: nix (P8408, "Sets v1.4")
-                  Aspen (P8514, "The Buoyant Economy")
-            2022: nix (P8660, "The End of Sets")
-
-                             GOLDEN GLOVE
-            2023: snail
-
-                             TAPECUTTERS
-            G. (2020/06: P 8407)
-
-                             WOODEN GAVELS
-            2019: Falsifian (CFJs 3726-3727)
-            2022: snail (CFJ 3971)
-
-                             -------------------
-                             LONG SERVICE AWARDS
-                             -------------------
-                             
-        Three Months: ais523, Alexis, aranea, Aspen, ATMunn, BobTHJ,
-                      Falsifian, G., Iammers, Janet, juan, Michael,
-                      Murphy, nix, omd, OscarMeyr,
-                      PerlNomic Partnership,
-                      Publius Scribonius Scholasticus, root, Sgeo,
-                      Sherlock, snail, Taral, the AFO, Tiger, Trigon,
-                      woggle, Wooble, Yally, Zefram
-          Six Months: ais523, Alexis, aranea, Aspen, ATMunn, Falsifian,
-                      G., Janet, Michael, Murphy, omd, OscarMeyr,
-                      PerlNomic Partnership, root, Sherlock, snail,
-                      Trigon, woggle, Wooble, Yally, Zefram
-         Nine Months: aranea, Aspen, ATMunn, Falsifian, G., Janet,
-                      Michael, Murphy, nix, omd, OscarMeyr, root,
-                      snail, Trigon, woggle, Wooble, Zefram
-       Twelve Months: Aspen, ATMunn, Falsifian, G., Janet, Michael,
-                      Murphy, nix, omd, OscarMeyr, root, Trigon,
-                      Wooble, Zefram
-
                                    --------
                                    AND MORE
                                    --------
@@ -251,7 +205,7 @@ News:
             Orator:                   twg
             Originator:               Chuck
             Plagiarist:               ehird
-            Popular:                  ATMunn, Aspen, Madrid,
+            Popular:                  ATMunn, Aspen, Madrid, 
                                       cuddlybanana, G., Janet, Murphy,
                                       Trigon
             Popular Philanthropist:   ATMunn
@@ -275,6 +229,41 @@ News:
             Unchampion:               aranea
             Very Popular:             Aspen, Janet, Trigon
             273rd Prepared Piano:     Murphy
+
+                             EMPLOYEE OF THE YEAR
+
+            Falsifian (2019)
+
+
+                             LONG SERVICE AWARDS
+        Three Months: ais523, Alexis, aranea, Aspen, ATMunn, BobTHJ, 
+                      Falsifian, G., Iammers, Janet, juan, Michael, 
+                      Murphy, nix, omd, OscarMeyr, 
+                      PerlNomic Partnership, 
+                      Publius Scribonius Scholasticus, root, Sgeo, 
+                      Sherlock, snail, Taral, the AFO, Tiger, Trigon, 
+                      woggle, Wooble, Yally, Zefram
+          Six Months: ais523, Alexis, aranea, Aspen, ATMunn, Falsifian, 
+                      G., Janet, Michael, Murphy, omd, OscarMeyr, 
+                      PerlNomic Partnership, root, Sherlock, snail, 
+                      Trigon, woggle, Wooble, Yally, Zefram
+         Nine Months: aranea, Aspen, ATMunn, Falsifian, G., Janet, 
+                      Michael, Murphy, nix, omd, OscarMeyr, root, 
+                      snail, Trigon, woggle, Wooble, Zefram
+       Twelve Months: Aspen, ATMunn, Falsifian, G., Janet, Michael, 
+                      Murphy, nix, omd, OscarMeyr, root, Trigon, 
+                      Wooble, Zefram
+
+
+                             SILVER QUILLS
+            Alexis (2014/13: P 7629), ais523 (2015/07, 2016/13: P 8430)
+            G. (2019: P 8167), nix (2020: P 8408), Aspen (2020: P 8514)
+
+                             TAPECUTTERS
+            G. (2020/06: P 8407)
+
+                             WOODEN GAVELS
+            Falsifian (2019: CFJs 3726-3727)
 
                            WINNERS' CUPS
             Paper Cup:     Dave Bowen, favor, Garth, Harlequin, Ian,
@@ -313,4 +302,4 @@ News:
 
 22-Sept-2019 Herald's Monthly Report was ratified on 30-Oct-2019.
 
-                       === END OF REPORT === 
+                       === END OF REPORT ===

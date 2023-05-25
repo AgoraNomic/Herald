@@ -151,15 +151,16 @@ def html_formatter(place, pl):
 
 for player in pl_keys:
     pl = players[player]
-
-    if pl.radiance == previous_score:
-        ties+=1
-    else:
-        place+=ties+1
-        ties=0
-    previous_score = pl.radiance
-    report_scores += report_formatter(place, pl)
-    html_scores += html_formatter(place, pl)
+    
+    if pl.radiance > 0:
+        if pl.radiance == previous_score:
+            ties+=1
+        else:
+            place+=ties+1
+            ties=0
+        previous_score = pl.radiance
+        report_scores += report_formatter(place, pl)
+        html_scores += html_formatter(place, pl)
 
 # Generate key
 key_list = ""

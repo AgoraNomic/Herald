@@ -1,9 +1,19 @@
-Player,Change,Reason,Amount
-2023-03-12,nix,ADJ,author of P8919,5
-2023-03-14,snail,COA,8919
-2023-03-27,Murphy,ADJ,Sharing Dream,9
-2023-03-27,juan,AUT,8928
-2023-03-27,Janet,AUT,8929
-2023-03-27,Janet,AUT,8932
-2023-03-27,Janet,AUT,8933
-2023-03-27,nix,AUT,8930
+"Player","Change","Reason","Amount",
+2023-05-08,"snail","ADJ","radiance stone",3
+2023-05-15,"snail","ADJ","radiance stone",3
+2023-05-17,"ais523","SET","ritual number scam",88
+2023-05-17,"4st","SET","ritual number scam",88
+2023-05-17,"Aspen","SET","ritual number scam",88
+2023-05-17,"G.","SET","ritual number scam",88
+2023-05-17,"Janet","SET","ritual number scam",88
+2023-05-17,"Murphy","SET","ritual number scam",88
+2023-05-17,"Yachay Wayllukuq","SET","ritual number scam",88
+2023-05-17,"cuddlybanana","SET","ritual number scam",88
+2023-05-17,"juan","SET","ritual number scam",88
+2023-05-17,"nix","SET","ritual number scam",88
+2023-05-17,"snail","SET","ritual number scam",88
+2023-05-17,"ais523","ADJ","7 ais523 stamps",12
+2023-05-17,"ais523","WIN",,
+2023-05-19,"snail","ADJ","8 different stamps",56
+2023-05-19,"snail","WIN",,
+2023-05-24,"snail","ADJ","radiance stone",3

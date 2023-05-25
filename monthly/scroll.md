@@ -1,3 +1,17 @@
+News:
+
+- [snail](Players/snail.md) received the title "Golden Glove (2022)"
+
+- [Janet](Players/Janet.md) receive the title "Employee of the Year (2022)"
+
+- [snail](Players/snail.md) receive the title "Employee of the Year (2022)"
+
+- [ais523](Players/ais523.md) won by High Score
+
+- [snail](Players/snail.md) won by High Score
+
+
+
 &ensp;                   ===============================
 
 &ensp;                         THE SCROLL OF AGORA
@@ -10,45 +24,7 @@
 
 
 
-&ensp;                            March 14, 2023
-
-
-
-&ensp;                         -------------------
-
-&ensp;                                 NEWS
-
-&ensp;                         -------------------
-
-&ensp;                         
-
-&ensp;                "Gauntlet" wins renamed to "Masonry" wins.
-
-&ensp;                         
-
-&ensp;                              2023-02-06
-
-&ensp;                     Long Service Titles awarded
-
-&ensp;                          to [snail](Players/snail.md) and juan.
-
-&ensp;                          
-
-&ensp;                              2023-02-06
-
-&ensp;                       [Murphy](Players/Murphy.md) wins by Masonry.
-
-&ensp;                       
-
-&ensp;                              2023-02-20
-
-&ensp;                       [snail](Players/snail.md) wins by High Score.
-
-&ensp;                       
-
-&ensp;                              2023-03-23
-
-&ensp;                       [Janet](Players/Janet.md) wins by High Score.
+&ensp;                             May 25, 2023
 
 &ensp;                     
 
@@ -96,13 +72,15 @@
 
 &ensp;             Escape: [omd](Players/omd.md)
 
-&ensp;         High Score: [ais523](Players/ais523.md) (x3), [Alexis](Players/Alexis.md) (x2), [BobTHJ](Players/BobTHJ.md), [Elysion](Players/Elysion.md), 
+&ensp;         High Score: [ais523](Players/ais523.md) (x4), [Alexis](Players/Alexis.md) (x2), [BobTHJ](Players/BobTHJ.md), [Elysion](Players/Elysion.md), 
 
 &ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md) (x2), [Janet](Players/Janet.md) (x2), [Levi](Players/Levi.md), [Madrid](Players/Madrid.md), 
 
-&ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [snail](Players/snail.md) (x3), 
+&ensp;                     [Murphy](Players/Murphy.md) (x3), [omd](Players/omd.md) (x4), [Pavitra](Players/Pavitra.md), [root](Players/root.md), [snail](Players/snail.md) (x4), 
 
-&ensp;                     [Steve](Players/Steve.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [twg](Players/twg.md) (x2), [Walker](Players/Walker.md), [Wooble](Players/Wooble.md)
+&ensp;                     [Steve](Players/Steve.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), [twg](Players/twg.md) (x2), [Walker](Players/Walker.md), [Wooble](Players/Wooble.md), 
+
+&ensp;                     [Yachay Wayllukuq](Players/Yachay Wayllukuq.md)
 
 &ensp;              Junta: [ais523](Players/ais523.md) (x2), [Alexis](Players/Alexis.md), [G.](Players/G..md), [nix](Players/nix.md), [omd](Players/omd.md) (x2), 
 
@@ -145,6 +123,8 @@
 &ensp;           Solitude: [ais523](Players/ais523.md) (x2), [Alexis](Players/Alexis.md) (x2), [omd](Players/omd.md)
 
 &ensp;            Spaaace: [Falsifian](Players/Falsifian.md), [Janet](Players/Janet.md) (x1000)
+
+&ensp;   Stamp Collecting: [snail](Players/snail.md)
 
 &ensp;         Tournament: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [G.](Players/G..md), [grok](Players/grok.md), [Janet](Players/Janet.md) (x2), [OscarMeyr](Players/OscarMeyr.md), 
 
@@ -286,7 +266,7 @@
 
 &ensp;            [R. Lee](Players/R. Lee.md), [D. Margaux](Players/D. Margaux.md)
 
-&ensp;            
+
 
 &ensp;    Badge of Diplonomic [2020]
 
@@ -298,7 +278,7 @@
 
 &ensp;            [Ben](Players/Ben.md), [Claire](Players/Claire.md), [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md)
 
-&ensp;            
+
 
 &ensp;    Twosday Badge [Feb 02 2022]
 
@@ -309,6 +289,118 @@
 &ensp;            [Sgeo](Players/Sgeo.md), TABBAT, [Trigon](Players/Trigon.md), [ais523](Players/ais523.md), [cuddlybanana](Players/cuddlybanana.md), [nix](Players/nix.md), [omd](Players/omd.md),
 
 &ensp;            [snail](Players/snail.md)
+
+
+
+&ensp;                               -------------
+
+&ensp;                               Yearly Awards
+
+&ensp;                               -------------
+
+
+
+&ensp;                            EMPLOYEE OF THE YEAR
+
+&ensp;           2019: [Falsifian](Players/Falsifian.md)
+
+&ensp;           2020: [Trigon](Players/Trigon.md) (Herald, Treasuror)
+
+&ensp;           2021: [Aspen](Players/Aspen.md) (Promotor, Registrar)
+
+&ensp;                 [Trigon](Players/Trigon.md) (Treasuror)
+
+&ensp;           2022: [Janet](Players/Janet.md) (Arbitor, Mad Engineer, Rulekeepor, Stonemason)
+
+&ensp;                 [snail](Players/snail.md) (Arbitor, Avicultor, Dream Keeper/Dreamor,
+
+&ensp;                        Horsened, Ministor, Notary, Promotor,
+
+&ensp;                        Registrar, Treasuror)
+
+&ensp;           
+
+&ensp;                            SILVER QUILLS
+
+&ensp;           2014/13: [Alexis](Players/Alexis.md) (P7629, "Do Things")
+
+&ensp;           2015/07: [ais523](Players/ais523.md) (P7698 "Ribbons )
+
+&ensp;           2016/13: [ais523](Players/ais523.md) (P7811, "Winning by apathy")
+
+&ensp;           2019: [G.](Players/G..md) (P8167, "Ritual Sacrifice")
+
+&ensp;           2020: [nix](Players/nix.md) (P8408, "Sets v1.4")
+
+&ensp;                 [Aspen](Players/Aspen.md) (P8514, "The Buoyant Economy")
+
+&ensp;           2022: [nix](Players/nix.md) (P8660, "The End of Sets")
+
+
+
+&ensp;                            GOLDEN GLOVE
+
+&ensp;           2023: [snail](Players/snail.md)
+
+
+
+&ensp;                            TAPECUTTERS
+
+&ensp;           [G.](Players/G..md) (2020/06: P 8407)
+
+
+
+&ensp;                            WOODEN GAVELS
+
+&ensp;           2019: [Falsifian](Players/Falsifian.md) (CFJs 3726-3727)
+
+&ensp;           2022: [snail](Players/snail.md) (CFJ 3971)
+
+
+
+&ensp;                            -------------------
+
+&ensp;                            LONG SERVICE AWARDS
+
+&ensp;                            -------------------
+
+&ensp;                            
+
+&ensp;       Three Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [BobTHJ](Players/BobTHJ.md),
+
+&ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Iammers](Players/Iammers.md), [Janet](Players/Janet.md), [juan](Players/juan.md), [Michael](Players/Michael.md),
+
+&ensp;                     [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md),
+
+&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md),
+
+&ensp;                     [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md), [root](Players/root.md), [Sgeo](Players/Sgeo.md),
+
+&ensp;                     [Sherlock](Players/Sherlock.md), [snail](Players/snail.md), [Taral](Players/Taral.md), [the AFO](Players/the AFO.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md),
+
+&ensp;                     [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
+
+&ensp;         Six Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md),
+
+&ensp;                     [G.](Players/G..md), [Janet](Players/Janet.md), [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md),
+
+&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md), [root](Players/root.md), [Sherlock](Players/Sherlock.md), [snail](Players/snail.md),
+
+&ensp;                     [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
+
+&ensp;        Nine Months: [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Janet](Players/Janet.md),
+
+&ensp;                     [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md),
+
+&ensp;                     [snail](Players/snail.md), [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
+
+&ensp;      Twelve Months: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Janet](Players/Janet.md), [Michael](Players/Michael.md),
+
+&ensp;                     [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md), [Trigon](Players/Trigon.md),
+
+&ensp;                     [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
+
+
 
 &ensp;                                  --------
 
@@ -412,7 +504,7 @@
 
 &ensp;           Plagiarist:               [ehird](Players/ehird.md)
 
-&ensp;           Popular:                  [ATMunn](Players/ATMunn.md), [Aspen](Players/Aspen.md), [Madrid](Players/Madrid.md), 
+&ensp;           Popular:                  [ATMunn](Players/ATMunn.md), [Aspen](Players/Aspen.md), [Madrid](Players/Madrid.md),
 
 &ensp;                                     [cuddlybanana](Players/cuddlybanana.md), [G.](Players/G..md), [Janet](Players/Janet.md), [Murphy](Players/Murphy.md),
 
@@ -459,76 +551,6 @@
 &ensp;           Very Popular:             [Aspen](Players/Aspen.md), [Janet](Players/Janet.md), [Trigon](Players/Trigon.md)
 
 &ensp;           273rd Prepared Piano:     [Murphy](Players/Murphy.md)
-
-
-
-&ensp;                            EMPLOYEE OF THE YEAR
-
-
-
-&ensp;           [Falsifian](Players/Falsifian.md) (2019)
-
-
-
-
-
-&ensp;                            LONG SERVICE AWARDS
-
-&ensp;       Three Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [BobTHJ](Players/BobTHJ.md), 
-
-&ensp;                     [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Iammers](Players/Iammers.md), [Janet](Players/Janet.md), [juan](Players/juan.md), [Michael](Players/Michael.md), 
-
-&ensp;                     [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), 
-
-&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md), 
-
-&ensp;                     [Publius Scribonius Scholasticus](Players/Publius Scribonius Scholasticus.md), [root](Players/root.md), [Sgeo](Players/Sgeo.md), 
-
-&ensp;                     [Sherlock](Players/Sherlock.md), [snail](Players/snail.md), [Taral](Players/Taral.md), [the AFO](Players/the AFO.md), [Tiger](Players/Tiger.md), [Trigon](Players/Trigon.md), 
-
-&ensp;                     [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
-
-&ensp;         Six Months: [ais523](Players/ais523.md), [Alexis](Players/Alexis.md), [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), 
-
-&ensp;                     [G.](Players/G..md), [Janet](Players/Janet.md), [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), 
-
-&ensp;                     [PerlNomic Partnership](Players/PerlNomic Partnership.md), [root](Players/root.md), [Sherlock](Players/Sherlock.md), [snail](Players/snail.md), 
-
-&ensp;                     [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Yally](Players/Yally.md), [Zefram](Players/Zefram.md)
-
-&ensp;        Nine Months: [aranea](Players/aranea.md), [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Janet](Players/Janet.md), 
-
-&ensp;                     [Michael](Players/Michael.md), [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md), 
-
-&ensp;                     [snail](Players/snail.md), [Trigon](Players/Trigon.md), [woggle](Players/woggle.md), [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
-
-&ensp;      Twelve Months: [Aspen](Players/Aspen.md), [ATMunn](Players/ATMunn.md), [Falsifian](Players/Falsifian.md), [G.](Players/G..md), [Janet](Players/Janet.md), [Michael](Players/Michael.md), 
-
-&ensp;                     [Murphy](Players/Murphy.md), [nix](Players/nix.md), [omd](Players/omd.md), [OscarMeyr](Players/OscarMeyr.md), [root](Players/root.md), [Trigon](Players/Trigon.md), 
-
-&ensp;                     [Wooble](Players/Wooble.md), [Zefram](Players/Zefram.md)
-
-
-
-
-
-&ensp;                            SILVER QUILLS
-
-&ensp;           [Alexis](Players/Alexis.md) (2014/13: P 7629), [ais523](Players/ais523.md) (2015/07, 2016/13: P 8430)
-
-&ensp;           [G.](Players/G..md) (2019: P 8167), [nix](Players/nix.md) (2020: P 8408), [Aspen](Players/Aspen.md) (2020: P 8514)
-
-
-
-&ensp;                            TAPECUTTERS
-
-&ensp;           [G.](Players/G..md) (2020/06: P 8407)
-
-
-
-&ensp;                            WOODEN GAVELS
-
-&ensp;           [Falsifian](Players/Falsifian.md) (2019: CFJs 3726-3727)
 
 
 
@@ -606,5 +628,5 @@
 
 
 
-&ensp;                      === END OF REPORT ===
+&ensp;                      === END OF REPORT === 
 

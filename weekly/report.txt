@@ -1,23 +1,22 @@
-Radiances as of 27 Mar 2023.
-
-NOTE: increases for nix and snail for P8919 that were conditionally excluded from a previous report are included here. See CFJ4017 for more details.
+Radiances as of 24 May 2023.
 
 PLACE  NAME [0]  RADIANCE [1]
 -----  --------  ------------
-1st    MUR       042 (+9)
-2nd    JWN       038 (+4)
-3rd    NIX       028 (+9)
-4th    JNT       018 (+12)
-5th    CBN       016
-6th    G.        015
-7th    SNL       008 (+1)
-8th    4ST       007
-9th    AIS       002
+1st    4ST       022 (+19)
+1st    G.        022 (+13)
+1st    JNT       022 (+12)
+1st    MUR       022 (-66)
+1st    CBN       022 (+18)
+1st    JWN       022
+1st    NIX       022 (+11)
+1st    YAC       022 (+22)
+1st    ASP       022 (+22)
+10th   SNL       003 (-23)
 
 
 All other radiances are zero. 
 
-[0] Murphy = MUR; juan = JWN; nix = NIX; Janet = JNT; cuddlybanana = CBN; G. = G. ; snail = SNL; 4st = 4ST; ais523 = AIS
+[0] 4st = 4ST; G. = G. ; Janet = JNT; Murphy = MUR; cuddlybanana = CBN; juan = JWN; nix = NIX; Yachay Wayllukuq = YAC; Aspen = ASP; snail = SNL; ais523 = AIS
 
 [1] Current Radiance and estimated change since last report. Only
 current radiance ratifies.
@@ -27,12 +26,22 @@ know.
 
 Events Since Last Report
 ------------------------
-2023-03-12: nix gains 5 (author of P8919)
-2023-03-14: snail gains 1 (coauthor of P8919)
-2023-03-27: Murphy gains 9 (Sharing Dream)
-2023-03-27: juan gains 4 (author of P8928)
-2023-03-27: Janet gains 4 (author of P8929)
-2023-03-27: Janet gains 4 (author of P8932)
-2023-03-27: Janet gains 4 (author of P8933)
-2023-03-27: nix gains 4 (author of P8930)
+2023-05-08: snail gains 3 (radiance stone)
+2023-05-15: snail gains 3 (radiance stone)
+2023-05-17: ais523 radiance set to 88 (ritual number scam)
+2023-05-17: 4st radiance set to 88 (ritual number scam)
+2023-05-17: Aspen radiance set to 88 (ritual number scam)
+2023-05-17: G. radiance set to 88 (ritual number scam)
+2023-05-17: Janet radiance set to 88 (ritual number scam)
+2023-05-17: Murphy radiance set to 88 (ritual number scam)
+2023-05-17: Yachay Wayllukuq radiance set to 88 (ritual number scam)
+2023-05-17: cuddlybanana radiance set to 88 (ritual number scam)
+2023-05-17: juan radiance set to 88 (ritual number scam)
+2023-05-17: nix radiance set to 88 (ritual number scam)
+2023-05-17: snail radiance set to 88 (ritual number scam)
+2023-05-17: ais523 gains 12 (7 ais523 stamps)
+2023-05-17: ais523 wins by High Score. Eir score is set to 0. Other scores are halved.
+2023-05-19: snail gains 56 (8 different stamps)
+2023-05-19: snail wins by High Score. Eir score is set to 0. Other scores are halved.
+2023-05-24: snail gains 3 (radiance stone)
 
