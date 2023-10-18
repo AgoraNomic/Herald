@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Home | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="container">
-<div style="padding:3%;" align="left">
-
 <div id="frontmatter" style="max-width: 72ch; margin: auto;">
 <h1>Agoran Theses</h1>
 
@@ -220,8 +209,3 @@
 <p>(P) - Presumed, as this is the only known thesis by this author that is not associated with another degree, and e is recorded as having this degree.</p><br>
 <p>(U) - Unclear, this author has multiple theses but only one degree.</p><br>
 <p>(I) - Indeterminate, author has both degrees but it has not been determined which is a result of which thesis.</p>
-
-</div>
-</div>
-</body>
-</html>
