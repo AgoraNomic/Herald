@@ -176,15 +176,15 @@ partners to test the new equity court.
 
 #### REFERENCES
 
-[1] http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt
+[1] <http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt>
 [2]
-http://www.mail-archive.com/agora-discussion@agoranomic.org/msg01521.html
+<http://www.mail-archive.com/agora-discussion@agoranomic.org/msg01521.html>
 [3]
-ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/lib-vlad2.html
-[4] http://www.nomic.net/~nomicwiki/index.php/MousetrapThesis
-[5] http://www.nomic.net/~nomicwiki/index.php/PineapplePartnership
-[6] http://groups.google.com/group/primo-corporation
+<ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/lib-vlad2.html>
+[4] <http://www.nomic.net/~nomicwiki/index.php/MousetrapThesis>
+[5] <http://www.nomic.net/~nomicwiki/index.php/PineapplePartnership>
+[6] <http://groups.google.com/group/primo-corporation>
 [7]
-http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200706/msg00071.html
+<http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200706/msg00071.html>
 [8]
-http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200711/msg00142.html
+<http://lists.ellipsis.cx/archives/spoon-business/spoon-business-200711/msg00142.html>

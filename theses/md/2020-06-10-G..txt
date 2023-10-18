@@ -5,9 +5,9 @@
 [
 The main body of this thesis (minus the introduction) was first published
 in March 2020, as part of Gratuitous Arguments for CFJ 7:
-https://faculty.washington.edu/kerim/nomic/cases/?7
+<https://faculty.washington.edu/kerim/nomic/cases/?7>
 and Caller's Arguments for CFJ 3822:
-https://faculty.washington.edu/kerim/nomic/cases/?3822
+<https://faculty.washington.edu/kerim/nomic/cases/?3822>
 ]
 
 INTRODUCTION
@@ -18,7 +18,7 @@ game, this aspect represents "house rules" that are developed to allow the
 game to be played with a degree of consensus between players when faced
 with textual uncertainty.  Grand Hero of Agora Nomic Peter Suber, in eir
 original version of nomic
-(https://legacy.earlham.edu/~peters/writing/nomic.htm), relied heavily on
+(<https://legacy.earlham.edu/~peters/writing/nomic.htm>), relied heavily on
 the metaphor of the judiciary as it related to legislative systems:
 
 > Nomic includes provision for Judgment (Rule 212), not merely to
@@ -72,14 +72,14 @@ exact ruleset on August 5, 1993.  However, Zefram’s archives have two
 ruleset versions that bracket this time reasonably closely:
 
 Initial ruleset, dated June 30, 1993
-Original: http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt
+Original: <http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt>
 In evidence as:
-https://faculty.washington.edu/kerim/nomic/cases/7_ExB.txt
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExB.txt>
 
 Ruleset dated August 28, 1993
-Original: http://www.fysh.org/~zefram/agora/usenet0_nr_19930828.txt
+Original: <http://www.fysh.org/~zefram/agora/usenet0_nr_19930828.txt>
 In evidence as:
-https://faculty.washington.edu/kerim/nomic/cases/7_ExC.txt
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExC.txt>
 
 An examination of these two rulesets shows that the rules in question in
 the statement (111, 112, and 219) did not change during this period;
@@ -101,8 +101,8 @@ to TRUE/FALSE, the initial rules included UNDECIDED; in 1995 this was
 changed to UNDECIDABLE and UNKNOWN, then later DISMISS was the only
 choice.  Choices proliferated in 2006/2007 (including IRRELEVANT), then in
 2014 we cut back again to DISMISS only, before moving to what we have
-today.  In 2007, Proposal 5371 (https://mailman.agoranomic.org/cgi-
-bin/mailman/private/agora-official/2007-August/003161.html) actively
+today.  In 2007, Proposal 5371 (<https://mailman.agoranomic.org/cgi-
+bin/mailman/private/agora-official/2007-August/003161.html>) actively
 replaced some judgements with others with this clause:
   * For each pre-reform CFJ with an unappealed judgement, the
     post-reform inquiry case has a judgement assigned to its question on
@@ -138,7 +138,7 @@ archives appeared as follows:
 > 219. Therefore, Rule 219 has no legal force."
 >
 > { This CFJ was never judged.}
-https://faculty.washington.edu/kerim/nomic/cases/7_ExA.txt
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExA.txt>
 
 The parenthetical {} comment is interesting.  Similarly-delimited {}
 comments appear in several cases in the early CFJ history, and all such
@@ -160,14 +160,14 @@ archives have two ruleset versions that bracket this time reasonably
 closely:
 
 Initial ruleset, dated June 30, 1993
-Original: http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt
+Original: <http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt>
 In evidence as:
-https://faculty.washington.edu/kerim/nomic/cases/7_ExB.txt
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExB.txt>
 
 Ruleset dated August 28, 1993
-Original: http://www.fysh.org/~zefram/agora/usenet0_nr_19930828.txt
+Original: <http://www.fysh.org/~zefram/agora/usenet0_nr_19930828.txt>
 In evidence as:
-https://faculty.washington.edu/kerim/nomic/cases/7_ExC.txt
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExC.txt>
 
 I assume these rulesets are likely accurate for the indicated dates, and
 for rules quoted in the below arguments I cross-checked to see if there
@@ -196,7 +196,7 @@ to a particular statement.
 If we ignore the all intervening history for the moment, it can be seen
 that the initial rules for judgement were/are essentially synonymous with
 the current R991/31 (In evidence as:
-https://faculty.washington.edu/kerim/nomic/cases/7_ExD.txt).
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExD.txt>).
 In R991/31, judgement is initiated (synonymous with the old “invoked”)
 with the announcement of a single statement, and that statement is tied to
 the selection of a judge.  I posit that these endpoints (again, setting
@@ -208,7 +208,7 @@ concepts like statement, judge, caller, etc.).  Further, current
 definitions such as “open” would continue to apply to old cases.
 
 In the current ruleset, we know from CFJ 3488
-(https://faculty.washington.edu/kerim/nomic/cases/?3488)
+(<https://faculty.washington.edu/kerim/nomic/cases/?3488>)
 that judgeship is sticky - you need to be an eligible player to be
 assigned, but once assigned, registration status doesn’t matter and you
 are the judge whether or not you are a player.  An examination of the
@@ -258,9 +258,9 @@ memory of such an event, I’ve reviewed the history of the judgement rules
 to determine if continuity is reasonably likely.  Starting with the
 historical annotations of R991/31 as a reference, I used Zefram’s ruleset
 history:
-Original: http://www.fysh.org/~zefram/agora/rules_text.txt
+Original: <http://www.fysh.org/~zefram/agora/rules_text.txt>
 In evidence as:
-https://faculty.washington.edu/kerim/nomic/cases/7_ExE.txt
+<https://faculty.washington.edu/kerim/nomic/cases/7_ExE.txt>
 
 for amendments 1-7 (through 2002) and for later amendments, found each
 proposal resolution to include proposal actions as well as rule texts in
@@ -387,8 +387,8 @@ Amended(10) by P5086 'judicial reform' (Zefram), 01 Aug 2007
   Proposal 5086 was a major change in definitions that created “inquiry
   cases” (the traditional kind) and “equity cases” and removed the general
   CFJ definition.  The proposal (resolved here:
-  https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
-official/2007-August/003161.html)
+  <https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2007-August/003161.html>)
   had a specific and detailed continuity method, including the following
   text:
    * Each pre-reform CFJ continues to exist as a post-reform inquiry
