@@ -103,7 +103,7 @@ embed {
 
 .content {
   margin: auto;
-#  max-width: 72ch;
+  padding-right: 14em;
 }
 
 p {
