@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>XXXX-XX-XX-favor | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h3>A Completely Formal Nomic</h3>
 <h3>Submitted in partial fulfilment of the</h3>
 <p>requirements for the degree of Bachelor
@@ -668,8 +657,3 @@ The End of the Voting Period:
  then: sendNow()
  comment: "Send out accumulated mailings"
 </pre>
-
-</div>
-</div>
-</body>
-</html>

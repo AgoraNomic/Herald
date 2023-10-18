@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1997-XX-XX-Steve | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>The concept of a 'rule change' in Suber's Initial Ruleset</h2>
 <h3>By Steve Gardner, September 1997</h3>
 <p>In this essay, I wish to examine Suber's Initial Ruleset to test the hypothesis that in that Ruleset, all rule changes have to be proposed. No, I need to be clearer than that. I mean the hypothesis that all rule changes occur as the direct result of a Proposal being adopted, specifically excluding the possibility that Rules (which of course will themselves have been created - ultimately - as the result of the adoption of a Proposal) can have among their effects the adoption of rule changes.</p>
@@ -50,8 +39,3 @@ The first sentence of R115 merely emphasizes that in Nomic, the rule changing me
 <p>I anticipate an objection along the following lines. In the argument given above I have many times made use of the distinction between a rule change which takes effect as the direct result of the adoption of a proposal, and a rule change which takes effect as the result of the action or effect of a Rule. The importance of the phrase 'direct result' is to emphasize that I do not think that we can regard rule changes which occur as the result of the effect or action of a Rule as having been proposed, voted on or adopted. Indeed, in Agora we called such rule changes 'Non-Proposed Rule Changes'. One might want to deny this, and claim that rule changes which occur as the result of the effect or action of a Rule, eg the self-repeal of a Rule, have, indirectly, been proposed, voted on and adopted. One might want to claim that the proposing, voting and adoption of this rule change is the proposing, voting and adoption of the Proposal which created (or amended) the Rule which contains the rule change as part of its effect.</p>
 <p>I think there are deep problems with this claim, however. Consider the provision in R104 that rule changes are adopted if and only if they receive the required number of votes. On the view being examined, we shall have to regard the self-repeal of a Rule, say, or the repeal of a Rule by another Rule, as, indirectly, having been voted on when the Proposal creating or amending the Rule was voted on. But is that plausible? Imagine Proposal P, which proposes to create Rule X, which says that if condition C is met, Rule Y shall be repealed. P is adopted unanimously. Can we regard this as a unanimous vote for the repeal of Rule Y? Of course not, for the voters may think that condition C will never be met. The most I think we can deduce is that there has been a unanimous vote that if condition C is met, Rule Y will be repealed. But that is not in itself a rule change, and it's the rule change we need to think of as being voted on and adopted if the suggestion is to work.</p>
 <p>My apologies to all of you for the extraordinary length of this article, one of the longest I have ever written in 5 years of playing Nomic. My thanks to Michael Shimmin, whose comments inspired me to write it. Please consider it a draft; it's been written in something of a hurry, and I'm sure it could be improved in many ways.</p>
-
-</div>
-</div>
-</body>
-</html>

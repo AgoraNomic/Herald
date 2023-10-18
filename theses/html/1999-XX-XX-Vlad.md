@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1999-XX-XX-Vlad | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>Prolegomena to the Study of Early Agoran History: Part I</h2>
 <h3>by Vlad</h3>
 <p>Hello, all.</p>
@@ -366,8 +355,3 @@ after Jan. 7, 1994?: Date of Ruleset on my old hard drive, now lost, but source 
 </table>
 
 <p>An average of 10.1 Votes were cast on each Proposal</p>
-
-</div>
-</div>
-</body>
-</html>

@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>XXXX-XX-XX-Steve | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>Breaking the Rules</h2>
 <h3>By Steve Gardner</h3>
 <p>1. Retractable and non-retractable errors</p>
@@ -50,8 +39,3 @@ The effect of this meta-rule, then, is to subtly alter the meaning of 'legal mov
 <p>There is an obvious objection to my treatment of the not practically retractable errors, and to my formulation of meta-rule (5) above. The objection is to the way in which meta-rule (5) confers legality on otherwise illegal moves, if they go undetected long enough. To some, it will seem that this is undesirable, just because it makes legal otherwise illegal moves, and furthermore that it is unnecessary, because meta-rule (5) could be reformulated without mentioning move legality. Hence the objection is to the effect that the meta-rule for not practically retractable errors would be better formulated as</p>
 <p>(5') Illegal moves are retracted, unless they go undetected for a sufficiently long period. In that case, they are allowed to stand, although they are still considered to have been illegal.
 Of course, if one agrees that it is preferable not to grant moves which are otherwise illegal the status of legal moves under any circumstances, then the above argument will appear compelling. On the other hand, taking this path forces one to confront squarely the fact that the non-retraction of a retractable error will entail the incorporation into the game state of an confessedly illegal move. It is clear that we are faced with a trade off between on the one hand making some illegal moves legal (as in meta-rule (5)), with the price that we weaken to some extent the definition of 'legal move' to include otherwise illegal moves which go undetected for a sufficently long period, and on the other hand insisting on maintaining the strength of whichever definition of 'legal move' is in play (as in meta-rule (5')), at the cost of occasionally admitting that moves contrary to the rules were allowed in the course of play. I find this latter alternative distasteful, although by so saying I concede that the matter is to some extent a matter of taste. For my part, the central intuition which I want to preserve intact is the one about the conventions for recording moves: that only the legal moves of the game count as part of the game, and hence that a recorder of the game should write down all and only these moves. If that means that we retrospectively grant legality to illegal moves which it would be undesirable or impractical to retract, then so be it.</p>
-
-</div>
-</div>
-</body>
-</html>

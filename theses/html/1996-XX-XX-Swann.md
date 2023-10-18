@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1996-XX-XX-Swann | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>Mousetrap:</h2>
 <h2>A brief history of the events of Fall 1995, the last great Agora scam, and a view of Agora beyond the game.</h2>
 <h3>by S. Andrew Swann (with thanks to Players Steve and elJefe.)</h3>
@@ -51,8 +40,3 @@
 </blockquote>
 
 <p>Perhaps. But, then, the only certainty within this game is change. Much of the foundation of Agora is currently shifting, and in the shifting it is inevitable that the seeds of future scams will sprout-- for those who choose to water them.</p>
-
-</div>
-</div>
-</body>
-</html>

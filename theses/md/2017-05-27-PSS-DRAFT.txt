@@ -72,5 +72,5 @@ While these are only rough guidelines, I hope that in the future we will use the
 - To perform
 - To fail
 
-[1] https://web.archive.org/web/20170526210039/https://www.merriam-webster.com/dictionary/action
-[2] https://web.archive.org/web/20170527190648/https://legacy.earlham.edu/~peters/writing/nomic.htm
+[1] <https://web.archive.org/web/20170526210039/https://www.merriam-webster.com/dictionary/action>
+[2] <https://web.archive.org/web/20170527190648/https://legacy.earlham.edu/~peters/writing/nomic.htm>

@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1995-XX-XX-elJefe | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>Agora Nomic: Recent History</h2>
 <h3>(LATE 1994 TO EARLY 1995)</h3>
 <h3>By Jeffrey Caruso (elJefe): jlc@triple-i.com</h3>
@@ -27,8 +16,3 @@
 <p>Another amusing loophole was that the limit of 5 EV's per player was worded in a way that made it ineffective, and one player who habitually ABSTAINs on everything managed to get a windfall of 35 EV's!</p>
 <p>A Proposal of my own (Contests) slipped through with even worse loopholes. My idea was to allow subgames of Agora whose regulations were enforceable in the Nomic Courts. What actually resulted was a Frankenstein's monster in which anyone could be nominated as Contestmaster of a contest against their will, and subject to its rules! And this was not the only problem! Hopefully by the time this is published the rewritten Rule will be in place.</p>
 <p>This brief review of some of the recent highlights cannot do justice to the full range of creativity that players have shown, in trying to construct a Nomic Economy, in crafting beautiful theses and outrageous scams, and in using the Rules as the raw material for making logical pretzels. In hopes that the spirit of friendly one-upmanship and logical limit-testing will continue, I conclude: long live Agora!</p>
-
-</div>
-</div>
-</body>
-</html>
