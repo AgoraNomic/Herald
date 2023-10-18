@@ -16,7 +16,7 @@ for post in new_posts:
     title = post[:-4]
     print(title)
     
-    post_file = f"{title}.html"
+    post_file = f"{title}.md"
 
     # process the md into html
     f = open(f"{txt_dir}/{post}").read()
