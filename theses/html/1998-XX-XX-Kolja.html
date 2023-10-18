@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1998-XX-XX-Kolja | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>Metagaming or Roleplaying - two Approaches to Playing Nomic</h2>
 <h3>by Kolja A.</h3>
 <h4>I. Introduction</h4>
@@ -114,8 +103,3 @@ Another attempt of mine to roleplay some more politics failed shortly after that
 I tried to entice Speaker Steve to follow the latter strategy (by breaking the remaining two ties in favour of the Order's candidates) not in a direct, metagaming approach (by simply mailing em and asking em to do so), but in a roleplaying way: by rebelling, and thus roleplaying my dissatisfaction with the situation, embellishing this with the strong rant I added to the message in which I rebelled. Whether Steve just broke the ties in favour of the Threat to make the upcoming scam work, or whether my IC Beer Hall "diplomacy" simply failed, I don't know, but I certainly didn't reach my goal, plus I annoyed Steve enough for em to deKudo me...
 At the time, my rationale for acting as I did was that I'd invested considerable time and political capital in bringing about a situation in which I might get to make those decisions, and so it seemed a waste not to follow through and make decisions favouring my political allies, even if it meant taking some heat for it.</p>
 <p>But I've since had a change of heart, to the extent that I'd like to make the following announcement. If two more of the 4 currently Rebellious Players (Harlequin, Sherlock, Morendil and Time Agent) will agree to become Abiding, so pushing the prospect of another Revolt further into the distance, then I will use my Speaker's Right to Call Elections to free up some of the Offices held by the Threat, namely, Scorekeepor, Commander-in-Chief and Archivist. Bearing in mind that Crito will soon be Elected Accountor (General Chaos is not really contesting the Election), this will reduce the number of Offices held by the Threat from 10 to 6, basically restoring the political balance.</p>
-
-</div>
-</div>
-</body>
-</html>

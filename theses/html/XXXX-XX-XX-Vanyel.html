@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>XXXX-XX-XX-Vanyel | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>Pragmatism and Platonism: Two Approaches to Nomic</h2>
 <h3>by Don "Vanyel" Blaheta</h3>
 <p>Any Nomic Rule has multiple interpretations. This is, perhaps unfortunately, a fact of life for any Nomicker; given any Rule there is almost guaranteed to be some disagreement over its meaning. The most common source of debate seems to lie in the dichotomy between Platonist and Pragmatist interpretations. In the former case it may be assumed that if a Rule says an event shall occur, and doesn't, play can continue <em>as if</em> the event had happened as specified. In the Pragmatist view, however, any event which occurs late or not at all, or not as specified in the Rules, can not be retroactively "fixed"--one may only take the game state as it is at the time, and try to work with what is there.</p>
@@ -251,8 +240,3 @@ Changes unless they are teammates.
 <p>Rule 209--Pragmatic (1)</p>
 <pre><code>There may never be more than 25 Rules of a Class less than 3.
 </code></pre>
-
-</div>
-</div>
-</body>
-</html>

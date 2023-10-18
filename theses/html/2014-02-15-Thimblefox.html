@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>2014-02-15-Thimblefox | Agora Nomic</title>
-<link rel="icon" type="image/png" href="coat_of_arms.png"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
-<body class="home">
-
-<div id="Welcome" class="content">
-<div style="padding:3%;" align="left" class="thesis">
-
 <h2>„On contradictions arising from assuming that winning by escape velocity ends the game“</h2>
 <h3>by Thimblefox (15th February, 2014)</h3>
 <p>-Introduction-</p>
@@ -77,8 +66,3 @@ of the game itself.</p>
 <p>-Further reading-</p>
 <p>‹1› Agora-business, February 2014
 ‹2› Agora-discussion, February 2014</p>
-
-</div>
-</div>
-</body>
-</html>

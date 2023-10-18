@@ -2,15 +2,17 @@ Welcome to the Herald's Webpage. The Herald officializes wins, tracks wins and p
 
 The current Herald is 4st.
 
-# These Archive
+**This is not maintained with current report updates.**
 
-Available [here](/theses/).
-
-# Reports (not current)
+# **Old** Reports
 
 [Scroll of Agora](monthly/scroll) ([Plain text](monthly/scroll.txt))
 
 [High Scores](weekly/report.html) ([Plain text](weekly/report.txt))
+
+# Theses
+
+Available [here](/theses/)
 
 # Older Content
 
