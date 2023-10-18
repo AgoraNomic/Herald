@@ -1,7 +1,7 @@
 Welcome to the Herald's Webpage. The Herald officializes wins, tracks wins and patent titles, and tracks scores.
-
+<br>
 The current Herald is 4st.
-
+<br>
 **This is not maintained with current report updates.**
 
 # **Old** Reports
@@ -12,7 +12,7 @@ The current Herald is 4st.
 
 # Theses
 
-Available [here](/theses/)
+Available [here](theses/)
 
 # Older Content
 
