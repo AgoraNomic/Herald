@@ -2,7 +2,7 @@
 <h1>Agoran Theses</h1>
 
 <p>The documents below were submitted by players of the game Agora Nomic to their peers for the purpose of receiving Agoran degrees. The exact types of degrees available and process of granting degrees has varied over the years, so interested parties may want to dig deeper for a fuller picture on any single degree.</p>
-
+<br>
 <p>Note that when an HTML and a TXT is provided, the HTML is a subjective rendering by the Herald. The TXT is the most "legitimate" copy of the original document available, but many appear to be artifacted or malformed from their actual original.</p>
 <br>
 </div>
