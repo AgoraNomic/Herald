@@ -37,7 +37,7 @@
   <tr>
     <td class="ttitle">On the Continuity of the Agoran Judicial System</td>
     <td>G.</td>
-    <td><a href="html/2020-06-10-G..html">HTML</a> | <a href="thesesoriginal/2020-06-10-G..txt">TXT</a></td>
+    <td><a href="html/2020-06-10-G.html">HTML</a> | <a href="thesesoriginal/2020-06-10-G..txt">TXT</a></td>
     <td>2020-06-10</td>
     <td><a href="https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2020-June/013762.html">J.D. of Nomic</a></td>
   </tr>
@@ -86,7 +86,7 @@
   <tr>
     <td class="ttitle">A Multi-Tiered, Multi-Controlled Currency Systems</td>
     <td>G.</td>
-    <td><a href="html/2017-05-23-G..html">HTML</a> | <a href="thesesoriginal/2017-05-23-G..txt">TXT</a></td>
+    <td><a href="html/2017-05-23-G.html">HTML</a> | <a href="thesesoriginal/2017-05-23-G..txt">TXT</a></td>
     <td>2017-05-23</td>
     <td>A. of Nomic</td>
   </tr>
