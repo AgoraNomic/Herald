@@ -43,8 +43,8 @@
   </tr>
   <tr>
     <td class="ttitle">Letter to an Anti-Scamster:</br><small>On the Importance of Loopholes in Agoran Culture</small></td>
-    <td>twg</td>
-    <td><a href="html/2020-02-08-twg.html">HTML</a> | <a href="thesesoriginal/2020-02-08-twg.txt">TXT</a></td>
+    <td>Kate</td>
+    <td><a href="html/2020-02-08-Kate.html">HTML</a> | <a href="thesesoriginal/2020-02-08-twg.Kate">TXT</a></td>
     <td>2020-02-08</td>
     <td><a href="https://www.mail-archive.com/agora-official@agoranomic.org/msg09825.html">A. of Nomic</a></td>
   </tr>
