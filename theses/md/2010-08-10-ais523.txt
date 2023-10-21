@@ -1882,4 +1882,4 @@ find a way to increase the power of the resulting rule beyond 1 and
 thus override the rule that players with Rests could not win;
 eventually, e found a way to achieve the win, as documented elsewhere
 in this thesis.
-{% raw  %}
+{% endraw %}
